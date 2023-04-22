@@ -1,4 +1,4 @@
-# Intel One Mono typeface
+# Intel One Mono Typeface
 
 <img width="1080" alt="Screen Shot 2023-04-21 at 3 26 08 PM" src="https://user-images.githubusercontent.com/130394986/233751533-e7e48e6f-a448-4a37-988e-4cfc2bcc2d60.png">
 
