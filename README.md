@@ -20,15 +20,14 @@ To install the fonts, please use the provided builds under Releases. Re
 - The .woff and .woff2 fonts are optimized for web use.
 
 ### Screen Rendering and Size Ranges
-We recommend using these fonts at 7 points and larger in print, 9 pixels and larger on screen. The .ttf, .woff and .woff2 fonts provided in the oﬃcial 
-release have been manually optimized for screen display, improving clarity and legibility, especially on Windows platforms.
+We recommend using these fonts at 7 points and larger in print, 9 pixels and larger on screen. The .ttf, .woff and .woff2 fonts provided in the oﬃcial release have been manually optimized for screen display, improving clarity and legibility, especially on Windows platforms.
 
 ### Available OpenType Features
 Outside of the default characters, there are a few extra features that are accessible in some applications, as well as via CSS:
-- **Raised Colon:** there is an option for a raised colon, either applied contextually between numbers or activated generally. The contextual option is available via ss11 (Stylistic Set #11), or use ss12 (Stylistic Set #12) or salt (Stylistic Alternates) for the global switch.
-- **Language Support:** ccmp, mark and locl features ensure correct display across a wide range of languages. These are usually activated by default. We recommend setting the language tag/setting in your software to the desired language for best results.
-- **Superior/superscript and inferior/subscript ﬁgures** are included via their Unicode codepoints, or you can produce them from the default ﬁgures via the sups (Superscript), subs (Subscript), and si (Scientiﬁc Inferior) features.
-- **Fraction numerals** are similarly available via the numr (Numerator) and dnom (Denominator) features. A set of premade fractions is also available in the fonts.
+**Raised Colon:** there is an option for a raised colon, either applied contextually between numbers or activated generally. The contextual option is available via ss11 (Stylistic Set #11), or use ss12 (Stylistic Set #12) or salt (Stylistic Alternates) for the global switch.
+**Language Support:** ccmp, mark and locl features ensure correct display across a wide range of languages. These are usually activated by default. We recommend setting the language tag/setting in your software to the desired language for best results.
+**Superior/superscript and inferior/subscript ﬁgures** are included via their Unicode codepoints, or you can produce them from the default ﬁgures via the sups (Superscript), subs (Subscript), and si (Scientiﬁc Inferior) features.
+**Fraction numerals** are similarly available via the numr (Numerator) and dnom (Denominator) features. A set of premade fractions is also available in the fonts.
 
 ## Viewing and Editing Sources
 
@@ -47,7 +46,7 @@ After making your desired edits, you can generate installable fonts directly fro
 - For .ttf, .woff and .woff2 builds, we recommend activating the “Autohint” option only for more compact ﬁles (see note on hinting below).
 - In any case, we recommend using the “Release Mode” setting for best results.
  
-###UFO Source Files: Masters
+### UFO Source Files: Masters
 
 If you would like to apply edits across multiple weights, a more advanced yet potentially eﬃcient way is to edit the masters. These are special sources that describe the extreme points in the design space — the lightest and heaviest weights for both roman and italic designs.
 
