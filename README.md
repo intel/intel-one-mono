@@ -20,13 +20,14 @@ To install the fonts, please use the provided builds under Releases. Re
 - The .woff and .woff2 fonts are optimized for web use.
 
 ### Screen Rendering and Size Ranges
-We recommend using these fonts at 7 points and larger in print, 9 pixels and larger on screen. The .ttf, .woff and .woff2 fonts provided in the oﬃcial release have been manually optimized for screen display, improving clarity and legibility, especially on Windows platforms.
+We recommend using these fonts at 7 points and larger in print, 9 pixels and larger on screen. The .ttf, .woff and .woff2 fonts provided in the oﬃcial 
+release have been manually optimized for screen display, improving clarity and legibility, especially on Windows platforms.
 
 ### Available OpenType Features
 Outside of the default characters, there are a few extra features that are accessible in some applications, as well as via CSS:
 - **Raised Colon:** there is an option for a raised colon, either applied contextually between numbers or activated generally. The contextual option is available via ss11 (Stylistic Set #11), or use ss12 (Stylistic Set #12) or salt (Stylistic Alternates) for the global switch.
 - **Language Support:** ccmp, mark and locl features ensure correct display across a wide range of languages. These are usually activated by default. We recommend setting the language tag/setting in your software to the desired language for best results.
-- **Superior/superscript and inferior/subscript ﬁgures** are included via their Unicode codepoints, or you can produce them from the default ﬁgures via the sups (Superscript), subs (Subscript), and sinf (Scientiﬁc Inferior) features.
+- **Superior/superscript and inferior/subscript ﬁgures** are included via their Unicode codepoints, or you can produce them from the default ﬁgures via the sups (Superscript), subs (Subscript), and si (Scientiﬁc Inferior) features.
 - **Fraction numerals** are similarly available via the numr (Numerator) and dnom (Denominator) features. A set of premade fractions is also available in the fonts.
 
 ## Viewing and Editing Sources
@@ -38,7 +39,7 @@ These are not installable fonts, but rather the source ﬁles that produce them:
 These sources were created using [RoboFont](https://robofont.com/). Many other font editors will also be able to open .ufo ﬁles; we recommend using RoboFont version 3.4 or up for the cloest approximation of the original design and development environment.
 
 ### Outline Formats
-For instances, you will ﬁnd postscript and truetype subfolders; these contain separate source ﬁles for the .otf format and the .ttf/.woff/.woff2 ﬁles respectively. Since the format for the outline drawings differs between these sets of formats, for best results we recommend using the postscript sources to create .otf fonts, and the TrueType sources to create .ttf, .woff, or .woff2 fonts.
+For instances, you will ﬁnd postscript and truetype subfolders; these contain separate source ﬁles for the .otf format and the .ttf/.woff/.woff2 ﬁles respectively. Since the format for the outline drawings differs between these sets of formats, for best results we recommend using the postscript sources to create .otf fonts, and the TrueType sources to create .ttf, .woff, or .woff2 fonts.
  
 ### Generating Fonts
 After making your desired edits, you can generate installable fonts directly from the font editor using its “Generate Font” functionality. If you use RoboFont, any install options should default to the ideal settings, but here they are for reference:
