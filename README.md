@@ -38,7 +38,7 @@ These are not installable fonts, but rather the source ﬁles that produce them:
 These sources were created using [RoboFont](https://robofont.com/). Many other font editors will also be able to open .ufo ﬁles; we recommend using RoboFont version 3.4 or up for the cloest approximation of the original design and development environment.
 
 ### Outline Formats
-For instances, you will ﬁnd postscript and truetype subfolders; these contain separate source ﬁles for the .otf format and the .ttf/.woff/.woff2 ﬁles respectively. Since the format for the outline drawings differs between these sets of formats, for best results we recommend using the postscript sources to create .otf fonts, and the TrueType sources to create .ttf, .woff, or .woff2 fonts.
+For instances, you will ﬁnd postscript and truetype subfolders; these contain separate source ﬁles for the .otf format and the .ttf/.woff/.woff2 ﬁles respectively. Since the format for the outline drawings differs between these sets of formats, for best results we recommend using the postscript sources to create .otf fonts, and the TrueType sources to create .ttf, .woff, or .woff2 fonts.
  
 ### Generating Fonts
 After making your desired edits, you can generate installable fonts directly from the font editor using its “Generate Font” functionality. If you use RoboFont, any install options should default to the ideal settings, but here they are for reference:
