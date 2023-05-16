@@ -6,7 +6,7 @@ Introducing Intel One Mono, an expressive monospaced font family that’s built 
 
 It’s easier to read, and available for free, with an open-source font license.
 
-Identifying the typographically underserved low-vision developer audience, The Intel Brand Team designed the Intel One Mono typeface together with VMLY&R and Frere-Jones Type, for maximum legibility to address developers' fatigue and eyestrain and reduce coding errors. A panel of low-vision and legally blind developers provided feedback at each stage of design.
+Identifying the typographically underserved low-vision developer audience, The Intel Brand Team designed the Intel One Mono typeface together with VMLY&R and [Frere-Jones Type](https://frerejones.com/), for maximum legibility to address developers' fatigue and eyestrain and reduce coding errors. A panel of low-vision and legally blind developers provided feedback at each stage of design.
 
 Intel One Mono also covers a wide range of over 200 languages using the Latin script. The Intel One Mono fonts are provided in four weights — Light, Regular, Medium, and Bold — with matching italics, and we are happy to share both an oﬃcial release of fonts ready to use as well as editable sources.    
 
