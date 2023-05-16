@@ -35,7 +35,7 @@ Outside of the default characters, there are a few extra features tha
 You will ﬁnd editable sources in the sources directory. The instances subfolder contains separate source ﬁles for each style of the typeface. Sources are provided in .ufo ﬁles, which contain complete artwork, OpenType features, as well as meta information like naming and vertical alignments for each style of the typeface.
 
 These are not installable fonts, but rather the source ﬁles that produce them: UFO (Uniﬁed Font Object) is an open, human-readable font source ﬁle format; you can ﬁnd the [ﬁle spec here](https://github.com/unified-font-object/ufo-spec). 
-These sources were created using [RoboFont](https://robofont.com/). Many other font editors will also be able to open .ufo ﬁles; we recommend using RoboFont version 3.4 or up for the cloest approximation of the original design and development environment.
+These sources were created using [RoboFont](https://robofont.com/). Many other font editors will also be able to open .ufo ﬁles; we recommend using RoboFont version 3.4 or up for the closest approximation of the original design and development environment.
 
 ### Outline Formats
 For instances, you will ﬁnd postscript and truetype subfolders; these contain separate source ﬁles for the .otf format and the .ttf/.woff/.woff2 ﬁles respectively. Since the format for the outline drawings differs between these sets of formats, for best results we recommend using the postscript sources to create .otf fonts, and the TrueType sources to create .ttf, .woff, or .woff2 fonts.
