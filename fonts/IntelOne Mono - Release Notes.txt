@@ -1,9 +1,12 @@
 Release Notes / IntelOne Mono
-2023-04-20
+2023-05-01
 
 
 Family name
 	IntelOne Mono
+
+Version number
+	1.2 (2023-05-01) - edits to OpenType features
 
 Supported scripts
 	Latin (full glyph complement supporting over 200 languages)
@@ -43,10 +46,9 @@ Available OpenType features
 	ss12 	Raised Colon (Global)
 	salt 	Stylistic Alternates
 	locl 	Localizations
+	ccmp	Glyph Composition/Decomposition Rules
 	numr 	Numerator
 	dnom	Denominator
 	sups	Superscript
 	subs 	Subscript
 	sinf	Scientific Inferior
-	ccmp	Glyph Composition/Decomposition Rules
-	mark	Mark Positioning
