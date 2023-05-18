@@ -1,6 +1,6 @@
 # Intel One Mono Typeface
 
-<img width="1080" alt="Screen Shot 2023-04-21 at 3 26 08 PM" src="https://user-images.githubusercontent.com/130394986/233751533-e7e48e6f-a448-4a37-988e-4cfc2bcc2d60.png">
+![01 specimen dark](https://github.com/intel/intel-one-mono/assets/130394986/adc0cc80-5baa-46be-af6e-64f1f264656a)
 
 Introducing Intel One Mono, an expressive monospaced font family that’s built with clarity, legibility, and the needs of developers in mind.
 
