@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="circumflextilde" format="2">
+  <anchor x="77.94618365092157" y="502" name="_aboveLC"/>
+  <anchor x="69.34382207815733" y="472" name="_aboveLCx"/>
+  <outline>
+    <contour>
+      <point x="-87" y="567.0" type="line"/>
+      <point x="-65" y="536.0" type="line"/>
+      <point x="143" y="684.0" type="line"/>
+      <point x="145" y="731.0" type="line"/>
+      <point x="118" y="731.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="277" y="558.0" type="line"/>
+      <point x="154" y="731.0" type="line"/>
+      <point x="127" y="731.0" type="line"/>
+      <point x="117" y="684.0" type="line"/>
+      <point x="241" y="536.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="189" y="849.0" type="curve" smooth="yes"/>
+      <point x="151" y="896"/>
+      <point x="136" y="904"/>
+      <point x="115" y="904.0" type="curve" smooth="yes"/>
+      <point x="83" y="904"/>
+      <point x="56" y="888"/>
+      <point x="-14" y="782.0" type="curve"/>
+      <point x="22" y="759.0" type="line"/>
+      <point x="79" y="843.0"/>
+      <point x="93" y="850.0"/>
+      <point x="108" y="850.0" type="curve" smooth="yes"/>
+      <point x="121" y="850.0"/>
+      <point x="128" y="843.0"/>
+      <point x="154" y="810.0" type="curve" smooth="yes"/>
+      <point x="193" y="763"/>
+      <point x="207" y="755"/>
+      <point x="228" y="755.0" type="curve" smooth="yes"/>
+      <point x="263" y="755"/>
+      <point x="292" y="773"/>
+      <point x="370" y="892.0" type="curve"/>
+      <point x="332" y="913.0" type="line"/>
+      <point x="266" y="817.0"/>
+      <point x="252" y="809.0"/>
+      <point x="236" y="809.0" type="curve" smooth="yes"/>
+      <point x="223" y="809.0"/>
+      <point x="216" y="816.0"/>
+    </contour>
+  </outline>
+</glyph>

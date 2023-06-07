@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="circumflextilde.cap" format="2">
+  <anchor x="0" y="691" name="_aboveUC"/>
+  <anchor x="0" y="661" name="_aboveUCx"/>
+  <outline>
+    <contour>
+      <point x="-183" y="762" type="line"/>
+      <point x="-153" y="732" type="line"/>
+      <point x="13" y="854" type="line"/>
+      <point x="9" y="901" type="line"/>
+      <point x="-18" y="901" type="line"/>
+    </contour>
+    <contour>
+      <point x="183" y="762" type="line"/>
+      <point x="18" y="901" type="line"/>
+      <point x="-9" y="901" type="line"/>
+      <point x="-13" y="854" type="line"/>
+      <point x="153" y="732" type="line"/>
+    </contour>
+    <contour>
+      <point x="35" y="1025" type="curve" smooth="yes"/>
+      <point x="-16" y="1071"/>
+      <point x="-30" y="1080"/>
+      <point x="-50" y="1080" type="curve" smooth="yes"/>
+      <point x="-85" y="1080"/>
+      <point x="-112" y="1064"/>
+      <point x="-154" y="951" type="curve"/>
+      <point x="-110" y="935" type="line"/>
+      <point x="-77" y="1019"/>
+      <point x="-65" y="1026"/>
+      <point x="-50" y="1026" type="curve" smooth="yes"/>
+      <point x="-37" y="1026"/>
+      <point x="-28" y="1019"/>
+      <point x="8" y="986" type="curve" smooth="yes"/>
+      <point x="59" y="940"/>
+      <point x="73" y="931"/>
+      <point x="93" y="931" type="curve" smooth="yes"/>
+      <point x="130" y="931"/>
+      <point x="157" y="949"/>
+      <point x="203" y="1073" type="curve"/>
+      <point x="159" y="1089" type="line"/>
+      <point x="121" y="993"/>
+      <point x="109" y="985"/>
+      <point x="93" y="985" type="curve" smooth="yes"/>
+      <point x="80" y="985"/>
+      <point x="71" y="992"/>
+    </contour>
+  </outline>
+</glyph>

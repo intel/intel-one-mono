@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="twodotleader" format="2">
+  <advance width="614"/>
+  <unicode hex="2025"/>
+  <outline>
+    <contour>
+      <point x="153" y="-15" type="curve" smooth="yes"/>
+      <point x="192.75757575757575" y="-15.0"/>
+      <point x="217.0" y="10.000000000000007"/>
+      <point x="217" y="54" type="curve" smooth="yes"/>
+      <point x="217.0" y="96.0"/>
+      <point x="195.66666666666666" y="122.0"/>
+      <point x="153" y="122" type="curve" smooth="yes"/>
+      <point x="114" y="122.0"/>
+      <point x="90.0" y="97.0"/>
+      <point x="90" y="53" type="curve" smooth="yes"/>
+      <point x="90.0" y="11.0"/>
+      <point x="111.0" y="-15.0"/>
+    </contour>
+    <contour>
+      <point x="461" y="-15" type="curve" smooth="yes"/>
+      <point x="500" y="-15.0"/>
+      <point x="524.0" y="10"/>
+      <point x="524" y="54" type="curve" smooth="yes"/>
+      <point x="524.0" y="96.0"/>
+      <point x="503.0" y="122.0"/>
+      <point x="461" y="122" type="curve" smooth="yes"/>
+      <point x="421.24242424242425" y="122.0"/>
+      <point x="397.0" y="97.0"/>
+      <point x="397" y="53" type="curve" smooth="yes"/>
+      <point x="397.0" y="11.0"/>
+      <point x="418.3333333333333" y="-15.0"/>
+    </contour>
+  </outline>
+</glyph>

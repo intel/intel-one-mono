@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ringhalfleft" format="2">
+  <advance width="614"/>
+  <unicode hex="02BF"/>
+  <outline>
+    <contour>
+      <point x="154" y="523" type="qcurve"/>
+      <point x="154" y="619"/>
+      <point x="291" y="725"/>
+      <point x="418" y="725" type="qcurve"/>
+      <point x="418" y="639" type="line"/>
+      <point x="334" y="639"/>
+      <point x="255" y="584"/>
+      <point x="255" y="523" type="qcurve"/>
+      <point x="255" y="459"/>
+      <point x="334" y="401"/>
+      <point x="418" y="401" type="qcurve"/>
+      <point x="418" y="315" type="line"/>
+      <point x="291" y="315"/>
+      <point x="154" y="424"/>
+    </contour>
+  </outline>
+</glyph>

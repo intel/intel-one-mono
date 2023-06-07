@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="macronbelowcmb" format="2">
+  <unicode hex="0331"/>
+  <outline>
+    <contour>
+      <point x="48" y="-166" type="line"/>
+      <point x="-280" y="-166" type="line"/>
+      <point x="-265" y="-116" type="line"/>
+      <point x="63" y="-116" type="line"/>
+    </contour>
+  </outline>
+</glyph>

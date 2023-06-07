@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="circumflextilde.cap" format="2">
+  <outline>
+    <contour>
+      <point x="-50" y="1080" type="qcurve"/>
+      <point x="-35" y="1080"/>
+      <point x="-3" y="1059"/>
+      <point x="35" y="1025" type="qcurve"/>
+      <point x="64" y="998"/>
+      <point x="84" y="985"/>
+      <point x="93" y="985" type="qcurve"/>
+      <point x="108" y="985"/>
+      <point x="136" y="1031"/>
+      <point x="159" y="1089" type="qcurve"/>
+      <point x="203" y="1073" type="line"/>
+      <point x="174" y="995"/>
+      <point x="127" y="931"/>
+      <point x="93" y="931" type="qcurve"/>
+      <point x="78" y="931"/>
+      <point x="46" y="952"/>
+      <point x="8" y="986" type="qcurve"/>
+      <point x="-21" y="1013"/>
+      <point x="-41" y="1026"/>
+      <point x="-50" y="1026" type="qcurve"/>
+      <point x="-65" y="1026"/>
+      <point x="-90" y="985"/>
+      <point x="-110" y="935" type="qcurve"/>
+      <point x="-154" y="951" type="line"/>
+      <point x="-128" y="1021"/>
+      <point x="-83" y="1080"/>
+    </contour>
+    <contour>
+      <point x="-153" y="732" type="line"/>
+      <point x="-183" y="762" type="line"/>
+      <point x="-18" y="901" type="line"/>
+      <point x="18" y="901" type="line"/>
+      <point x="183" y="762" type="line"/>
+      <point x="153" y="732" type="line"/>
+      <point x="0" y="844" type="line"/>
+    </contour>
+  </outline>
+</glyph>

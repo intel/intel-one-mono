@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="won.bar" format="2">
+  <advance width="614"/>
+  <outline>
+    <contour>
+      <point x="123" y="306" type="line"/>
+      <point x="116" y="356" type="line"/>
+      <point x="14" y="356" type="line"/>
+      <point x="14" y="306" type="line"/>
+    </contour>
+    <contour>
+      <point x="123" y="310" type="line"/>
+      <point x="271" y="310" type="line"/>
+      <point x="283" y="352" type="line"/>
+      <point x="116" y="352" type="line"/>
+    </contour>
+    <contour>
+      <point x="343" y="310" type="line"/>
+      <point x="489" y="310" type="line"/>
+      <point x="495" y="352" type="line"/>
+      <point x="332" y="352" type="line"/>
+    </contour>
+    <contour>
+      <point x="489" y="306" type="line"/>
+      <point x="600" y="306" type="line"/>
+      <point x="600" y="356" type="line"/>
+      <point x="495" y="356" type="line"/>
+    </contour>
+    <contour>
+      <point x="445" y="32" type="line"/>
+      <point x="431" y="32" type="line"/>
+      <point x="349" y="485" type="line"/>
+      <point x="265" y="485" type="line"/>
+      <point x="183" y="32" type="line"/>
+      <point x="169" y="32" type="line"/>
+      <point x="116" y="655" type="line"/>
+      <point x="73" y="655" type="line"/>
+      <point x="131" y="0" type="line"/>
+      <point x="220" y="0" type="line"/>
+      <point x="301" y="455" type="line"/>
+      <point x="312" y="455" type="line"/>
+      <point x="394" y="0" type="line"/>
+      <point x="482" y="0" type="line"/>
+      <point x="541" y="655" type="line"/>
+      <point x="499" y="655" type="line"/>
+    </contour>
+  </outline>
+</glyph>

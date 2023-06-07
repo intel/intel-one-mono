@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="e" format="2">
+  <advance width="614"/>
+  <unicode hex="0065"/>
+  <anchor x="240" y="-40" name="below"/>
+  <anchor x="339" y="-10" name="belowogonek"/>
+  <anchor x="385" y="470" name="aboveLCx"/>
+  <anchor x="395" y="507" name="aboveLC"/>
+  <outline>
+    <contour>
+      <point x="431" y="103" type="line"/>
+      <point x="243" y="103"/>
+      <point x="200" y="113"/>
+      <point x="193" y="169" type="curve" smooth="yes"/>
+      <point x="193" y="169"/>
+      <point x="193" y="169"/>
+      <point x="193" y="169" type="curve"/>
+      <point x="346" y="182" type="line" smooth="yes"/>
+      <point x="515" y="196"/>
+      <point x="582" y="253"/>
+      <point x="582" y="348" type="curve" smooth="yes"/>
+      <point x="582" y="436"/>
+      <point x="515" y="492"/>
+      <point x="390" y="492" type="curve" smooth="yes"/>
+      <point x="190" y="492"/>
+      <point x="47" y="324"/>
+      <point x="47" y="175" type="curve" smooth="yes"/>
+      <point x="47" y="43"/>
+      <point x="105" y="-13"/>
+      <point x="398" y="-13" type="curve"/>
+    </contour>
+    <contour>
+      <point x="372" y="379" type="curve" smooth="yes"/>
+      <point x="416" y="379"/>
+      <point x="440" y="361"/>
+      <point x="440" y="333" type="curve" smooth="yes"/>
+      <point x="440" y="302"/>
+      <point x="418" y="283"/>
+      <point x="346" y="275" type="curve" smooth="yes"/>
+      <point x="202" y="259" type="line"/>
+      <point x="229" y="329"/>
+      <point x="299" y="379"/>
+    </contour>
+  </outline>
+</glyph>

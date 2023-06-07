@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="gravecmb.cap" format="2">
+  <anchor x="132.14106155933626" y="691" name="_aboveUC"/>
+  <anchor x="123.53869998657203" y="661" name="_aboveUCx"/>
+  <outline>
+    <contour>
+      <point x="225" y="762.0" type="line"/>
+      <point x="52" y="913.0" type="line"/>
+      <point x="12.18174022440408" y="869.0" type="line"/>
+      <point x="197.61087698968856" y="731.0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

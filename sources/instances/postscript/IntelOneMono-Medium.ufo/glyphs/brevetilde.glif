@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="brevetilde" format="2">
+  <anchor x="0" y="502" name="_aboveLC"/>
+  <anchor x="0" y="472" name="_aboveLCx"/>
+  <outline>
+    <contour>
+      <point x="13" y="884" type="curve" smooth="yes"/>
+      <point x="-35" y="920"/>
+      <point x="-51" y="929"/>
+      <point x="-74" y="929" type="curve" smooth="yes"/>
+      <point x="-115" y="929"/>
+      <point x="-145" y="900"/>
+      <point x="-185" y="788" type="curve"/>
+      <point x="-122" y="768" type="line"/>
+      <point x="-92" y="845"/>
+      <point x="-79" y="851"/>
+      <point x="-67" y="851" type="curve" smooth="yes"/>
+      <point x="-56" y="851"/>
+      <point x="-48" y="845"/>
+      <point x="-5" y="814" type="curve" smooth="yes"/>
+      <point x="43" y="777"/>
+      <point x="59" y="768"/>
+      <point x="82" y="768" type="curve" smooth="yes"/>
+      <point x="124" y="768"/>
+      <point x="154" y="798"/>
+      <point x="195" y="914" type="curve"/>
+      <point x="132" y="935" type="line"/>
+      <point x="100" y="852"/>
+      <point x="88" y="846"/>
+      <point x="75" y="846" type="curve" smooth="yes"/>
+      <point x="64" y="846"/>
+      <point x="56" y="852"/>
+    </contour>
+    <contour>
+      <point x="0" y="624" type="curve" smooth="yes"/>
+      <point x="-52" y="624"/>
+      <point x="-94" y="652"/>
+      <point x="-122" y="733" type="curve"/>
+      <point x="-190" y="710" type="line"/>
+      <point x="-159" y="591"/>
+      <point x="-87" y="547"/>
+      <point x="0" y="547" type="curve" smooth="yes"/>
+      <point x="87" y="547"/>
+      <point x="159" y="592"/>
+      <point x="191" y="712" type="curve"/>
+      <point x="123" y="735" type="line"/>
+      <point x="94" y="653"/>
+      <point x="52" y="624"/>
+    </contour>
+  </outline>
+</glyph>

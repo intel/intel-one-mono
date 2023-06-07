@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="I" format="2">
+  <advance width="614"/>
+  <unicode hex="0049"/>
+  <anchor x="228" y="-35" name="below"/>
+  <anchor x="235" y="-10" name="belowogonek"/>
+  <anchor x="437" y="691" name="aboveUC"/>
+  <anchor x="428" y="661" name="aboveUCx"/>
+  <outline>
+    <contour>
+      <point x="71" y="80" type="line"/>
+      <point x="48" y="0" type="line"/>
+      <point x="436" y="0" type="line"/>
+      <point x="459" y="80" type="line"/>
+      <point x="336" y="103" type="line"/>
+      <point x="473" y="547" type="line"/>
+      <point x="595" y="575" type="line"/>
+      <point x="618" y="655" type="line"/>
+      <point x="230" y="655" type="line"/>
+      <point x="207" y="575" type="line"/>
+      <point x="330" y="552" type="line"/>
+      <point x="193" y="108" type="line"/>
+    </contour>
+  </outline>
+</glyph>

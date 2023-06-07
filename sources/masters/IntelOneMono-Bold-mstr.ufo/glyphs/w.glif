@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="w" format="2">
+  <advance width="614"/>
+  <unicode hex="0077"/>
+  <anchor x="305" y="502" name="aboveLC"/>
+  <anchor x="305" y="467" name="aboveLCx"/>
+  <outline>
+    <contour>
+      <point x="502" y="0" type="line"/>
+      <point x="586" y="477" type="line"/>
+      <point x="447" y="477" type="line"/>
+      <point x="387" y="57" type="line"/>
+      <point x="407" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="204" y="0" type="line"/>
+      <point x="226" y="57" type="line"/>
+      <point x="168" y="477" type="line"/>
+      <point x="29" y="477" type="line"/>
+      <point x="111" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="466" y="0" type="line"/>
+      <point x="449" y="57" type="line"/>
+      <point x="314" y="424" type="line"/>
+      <point x="300" y="424" type="line"/>
+      <point x="166" y="57" type="line"/>
+      <point x="149" y="0" type="line"/>
+      <point x="238" y="0" type="line"/>
+      <point x="321" y="247" type="line"/>
+      <point x="287" y="247" type="line"/>
+      <point x="370" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

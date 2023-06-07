@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="brevecmb.cap" format="2">
+  <outline>
+    <contour>
+      <point x="0" y="826" type="qcurve"/>
+      <point x="40" y="826"/>
+      <point x="97" y="875"/>
+      <point x="114" y="923" type="qcurve"/>
+      <point x="198" y="893" type="line"/>
+      <point x="177" y="815"/>
+      <point x="74" y="731"/>
+      <point x="0" y="731" type="qcurve"/>
+      <point x="-74" y="731"/>
+      <point x="-177" y="815"/>
+      <point x="-198" y="893" type="qcurve"/>
+      <point x="-114" y="923" type="line"/>
+      <point x="-97" y="874"/>
+      <point x="-40" y="826"/>
+    </contour>
+  </outline>
+</glyph>

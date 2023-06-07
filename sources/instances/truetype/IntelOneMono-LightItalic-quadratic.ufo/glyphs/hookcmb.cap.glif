@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hookcmb.cap" format="2">
+  <outline>
+    <contour>
+      <point x="319" y="839" type="qcurve"/>
+      <point x="319" y="793"/>
+      <point x="199" y="742"/>
+      <point x="77" y="731" type="qcurve"/>
+      <point x="72" y="765" type="line"/>
+      <point x="72" y="767" type="line"/>
+      <point x="172" y="782"/>
+      <point x="259" y="812"/>
+      <point x="259" y="835" type="qcurve"/>
+      <point x="259" y="851"/>
+      <point x="190" y="875"/>
+      <point x="107" y="889" type="qcurve"/>
+      <point x="107" y="892" type="line"/>
+      <point x="151" y="926" type="line"/>
+      <point x="240" y="911"/>
+      <point x="319" y="871"/>
+    </contour>
+  </outline>
+</glyph>

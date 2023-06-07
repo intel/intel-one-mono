@@ -1,0 +1,102 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<designspace format="4.1">
+  <axes>
+    <axis tag="nwx0" name="weight" minimum="60" maximum="144" default="60"/>
+  </axes>
+  <rules>
+    <rule name="Bars">
+      <conditionset>
+        <condition name="weight" minimum="60" maximum="90"/>
+      </conditionset>
+      <sub name="dollar" with="dollar.bar"/>
+      <sub name="naira" with="naira.bar"/>
+      <sub name="peso" with="peso.bar"/>
+      <sub name="bahtthai" with="bahtthai.bar"/>
+      <sub name="won" with="won.bar"/>
+      <sub name="cent" with="cent.bar"/>
+    </rule>
+    <rule name="Q">
+      <conditionset>
+        <condition name="weight" minimum="60" maximum="90"/>
+      </conditionset>
+      <sub name="Q.bar" with="Q"/>
+    </rule>
+    <rule name="Oslash">
+      <conditionset>
+        <condition name="weight" minimum="60" maximum="90"/>
+      </conditionset>
+      <sub name="Oslash.bar" with="Oslash"/>
+      <sub name="oslash.bar" with="oslash"/>
+    </rule>
+  </rules>
+  <sources>
+    <source filename="IntelOneMono-LightItalic-mstr.ufo" familyname="IntelOne Mono" stylename="Light Italic">
+      <lib copy="1"/>
+      <groups copy="1"/>
+      <features copy="1"/>
+      <info copy="1"/>
+      <location>
+        <dimension name="weight" xvalue="60"/>
+      </location>
+    </source>
+    <source filename="IntelOneMono-BoldItalic-mstr.ufo" familyname="IntelOne Mono" stylename="Bold Italic">
+      <location>
+        <dimension name="weight" xvalue="144"/>
+      </location>
+    </source>
+  </sources>
+  <instances>
+    <instance familyname="IntelOne Mono" stylename="Light Italic" filename="instances/IntelOneMono-LightItalic.ufo">
+      <location>
+        <dimension name="weight" xvalue="60"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance familyname="IntelOne Mono" stylename="Italic" filename="instances/IntelOneMono-Italic.ufo">
+      <location>
+        <dimension name="weight" xvalue="86"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance familyname="IntelOne Mono" stylename="Medium Italic" filename="instances/IntelOneMono-MediumItalic.ufo">
+      <location>
+        <dimension name="weight" xvalue="112"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance familyname="IntelOne Mono" stylename="Bold Italic" filename="instances/IntelOneMono-BoldItalic.ufo">
+      <location>
+        <dimension name="weight" xvalue="144"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+  </instances>
+  <lib>
+    <dict>
+      <key>com.letterror.mathModelPref</key>
+      <string>previewVarLib</string>
+      <key>com.letterror.skateboard.interactionSources</key>
+      <dict>
+        <key>horizontal</key>
+        <array>
+          <string>weight</string>
+        </array>
+        <key>ignore</key>
+        <array/>
+        <key>vertical</key>
+        <array/>
+      </dict>
+      <key>com.letterror.skateboard.previewLocation</key>
+      <dict>
+        <key>weight</key>
+        <real>58.0</real>
+      </dict>
+      <key>com.letterror.skateboard.previewText</key>
+      <string>A D E F G H I L M N O R S T U a b d e f g h i l m n o p r s u w</string>
+    </dict>
+  </lib>
+</designspace>

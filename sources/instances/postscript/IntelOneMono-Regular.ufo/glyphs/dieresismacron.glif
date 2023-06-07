@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dieresismacron" format="2">
+  <anchor x="0" y="502" name="_aboveLC"/>
+  <anchor x="0" y="472" name="_aboveLCx"/>
+  <outline>
+    <contour>
+      <point x="-152" y="737" type="line"/>
+      <point x="152" y="737" type="line"/>
+      <point x="152" y="802" type="line"/>
+      <point x="-152" y="802" type="line"/>
+    </contour>
+    <contour>
+      <point x="-118" y="561" type="curve" smooth="yes"/>
+      <point x="-82" y="561"/>
+      <point x="-60" y="579"/>
+      <point x="-60" y="612" type="curve" smooth="yes"/>
+      <point x="-60" y="645"/>
+      <point x="-80" y="664"/>
+      <point x="-117" y="664" type="curve" smooth="yes"/>
+      <point x="-151" y="664"/>
+      <point x="-173" y="642"/>
+      <point x="-173" y="612" type="curve" smooth="yes"/>
+      <point x="-173" y="579"/>
+      <point x="-153" y="561"/>
+    </contour>
+    <contour>
+      <point x="116" y="561" type="curve" smooth="yes"/>
+      <point x="152" y="561"/>
+      <point x="174" y="579"/>
+      <point x="174" y="612" type="curve" smooth="yes"/>
+      <point x="174" y="645"/>
+      <point x="154" y="664"/>
+      <point x="117" y="664" type="curve" smooth="yes"/>
+      <point x="82" y="664"/>
+      <point x="60" y="642"/>
+      <point x="60" y="612" type="curve" smooth="yes"/>
+      <point x="60" y="579"/>
+      <point x="81" y="561"/>
+    </contour>
+  </outline>
+</glyph>

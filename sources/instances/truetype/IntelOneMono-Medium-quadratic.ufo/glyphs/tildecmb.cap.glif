@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tildecmb.cap" format="2">
+  <outline>
+    <contour>
+      <point x="138" y="914" type="qcurve"/>
+      <point x="204" y="890" type="line"/>
+      <point x="174" y="805"/>
+      <point x="120" y="731"/>
+      <point x="81" y="731" type="qcurve"/>
+      <point x="62" y="731"/>
+      <point x="21" y="754"/>
+      <point x="-12" y="783" type="qcurve"/>
+      <point x="-41" y="807"/>
+      <point x="-70" y="827"/>
+      <point x="-81" y="827" type="qcurve"/>
+      <point x="-94" y="827"/>
+      <point x="-120" y="781"/>
+      <point x="-140" y="727" type="qcurve"/>
+      <point x="-206" y="751" type="line"/>
+      <point x="-176" y="836"/>
+      <point x="-123" y="910"/>
+      <point x="-84" y="910" type="qcurve"/>
+      <point x="-64" y="910"/>
+      <point x="-24" y="887"/>
+      <point x="10" y="858" type="qcurve"/>
+      <point x="39" y="834"/>
+      <point x="68" y="814"/>
+      <point x="79" y="814" type="qcurve"/>
+      <point x="92" y="814"/>
+      <point x="118" y="860"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="macroncmb" format="2">
+  <unicode hex="0304"/>
+  <anchor x="76" y="502" name="_aboveLC"/>
+  <anchor x="67" y="472" name="_aboveLCx"/>
+  <outline>
+    <contour>
+      <point x="-69" y="593" type="line"/>
+      <point x="273" y="593" type="line"/>
+      <point x="301" y="691" type="line"/>
+      <point x="-41" y="691" type="line"/>
+    </contour>
+  </outline>
+</glyph>

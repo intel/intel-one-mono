@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dieresismacron" format="2">
+  <outline>
+    <contour>
+      <point x="144" y="726" type="line"/>
+      <point x="-144" y="726" type="line"/>
+      <point x="-144" y="776" type="line"/>
+      <point x="144" y="776" type="line"/>
+    </contour>
+    <contour>
+      <point x="-69" y="602" type="qcurve"/>
+      <point x="-69" y="580"/>
+      <point x="-95" y="556"/>
+      <point x="-119" y="556" type="qcurve"/>
+      <point x="-142" y="556"/>
+      <point x="-166" y="580"/>
+      <point x="-166" y="602" type="qcurve"/>
+      <point x="-166" y="623"/>
+      <point x="-140" y="649"/>
+      <point x="-118" y="649" type="qcurve"/>
+      <point x="-94" y="649"/>
+      <point x="-69" y="625"/>
+    </contour>
+    <contour>
+      <point x="167" y="602" type="qcurve"/>
+      <point x="167" y="580"/>
+      <point x="141" y="556"/>
+      <point x="117" y="556" type="qcurve"/>
+      <point x="94" y="556"/>
+      <point x="69" y="580"/>
+      <point x="69" y="602" type="qcurve"/>
+      <point x="69" y="623"/>
+      <point x="96" y="649"/>
+      <point x="118" y="649" type="qcurve"/>
+      <point x="142" y="649"/>
+      <point x="167" y="625"/>
+    </contour>
+  </outline>
+</glyph>

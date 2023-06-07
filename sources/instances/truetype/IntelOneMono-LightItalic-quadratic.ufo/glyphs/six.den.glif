@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="six.den" format="2">
+  <advance width="614"/>
+  <outline>
+    <contour>
+      <point x="440" y="379" type="line"/>
+      <point x="339" y="303" type="line"/>
+      <point x="322" y="290"/>
+      <point x="289" y="264"/>
+      <point x="272" y="249" type="qcurve"/>
+      <point x="351" y="240"/>
+      <point x="425" y="187"/>
+      <point x="425" y="139" type="qcurve"/>
+      <point x="425" y="78"/>
+      <point x="323" y="-15"/>
+      <point x="252" y="-15" type="qcurve"/>
+      <point x="196" y="-15"/>
+      <point x="131" y="42"/>
+      <point x="131" y="92" type="qcurve"/>
+      <point x="131" y="145"/>
+      <point x="208" y="252"/>
+      <point x="296" y="320" type="qcurve"/>
+      <point x="373" y="380" type="line"/>
+      <point x="440" y="380" type="line"/>
+    </contour>
+    <contour>
+      <point x="241" y="218" type="qcurve"/>
+      <point x="210" y="184"/>
+      <point x="181" y="126"/>
+      <point x="181" y="94" type="qcurve"/>
+      <point x="181" y="62"/>
+      <point x="220" y="27"/>
+      <point x="255" y="27" type="qcurve"/>
+      <point x="303" y="27"/>
+      <point x="375" y="95"/>
+      <point x="375" y="136" type="qcurve"/>
+      <point x="375" y="174"/>
+      <point x="315" y="210"/>
+    </contour>
+  </outline>
+</glyph>

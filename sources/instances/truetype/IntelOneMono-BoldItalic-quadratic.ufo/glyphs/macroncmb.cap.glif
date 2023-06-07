@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="macroncmb.cap" format="2">
+  <outline>
+    <contour>
+      <point x="322" y="771" type="line"/>
+      <point x="-16" y="771" type="line"/>
+      <point x="13" y="873" type="line"/>
+      <point x="351" y="873" type="line"/>
+    </contour>
+  </outline>
+</glyph>

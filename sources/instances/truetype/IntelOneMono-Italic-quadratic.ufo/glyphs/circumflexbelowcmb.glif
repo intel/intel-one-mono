@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="circumflexbelowcmb" format="2">
+  <unicode hex="032D"/>
+  <outline>
+    <contour>
+      <point x="-77" y="-75" type="line"/>
+      <point x="41" y="-251" type="line"/>
+      <point x="-1" y="-280" type="line"/>
+      <point x="-112" y="-148" type="line"/>
+      <point x="-299" y="-280" type="line"/>
+      <point x="-327" y="-241" type="line"/>
+      <point x="-121" y="-75" type="line"/>
+    </contour>
+  </outline>
+</glyph>

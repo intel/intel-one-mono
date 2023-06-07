@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="brevehook.cap" format="2">
+  <anchor x="0" y="691" name="_aboveUC"/>
+  <anchor x="0" y="661" name="_aboveUCx"/>
+  <outline>
+    <contour>
+      <point x="-45" y="899" type="line"/>
+      <point x="96" y="919"/>
+      <point x="137" y="961"/>
+      <point x="137" y="1001" type="curve" smooth="yes"/>
+      <point x="137" y="1043"/>
+      <point x="99" y="1070"/>
+      <point x="-69" y="1091" type="curve"/>
+      <point x="-114" y="1035" type="line"/>
+      <point x="-114" y="1033" type="line"/>
+      <point x="21" y="1013"/>
+      <point x="39" y="1004"/>
+      <point x="39" y="990" type="curve" smooth="yes"/>
+      <point x="39" y="975"/>
+      <point x="22" y="966"/>
+      <point x="-69" y="948" type="curve"/>
+      <point x="-69" y="946" type="line"/>
+    </contour>
+    <contour>
+      <point x="0" y="809" type="curve" smooth="yes"/>
+      <point x="-52" y="809"/>
+      <point x="-97" y="832"/>
+      <point x="-123" y="906" type="curve"/>
+      <point x="-191" y="883" type="line"/>
+      <point x="-161" y="772"/>
+      <point x="-87" y="731"/>
+      <point x="0" y="731" type="curve" smooth="yes"/>
+      <point x="87" y="731"/>
+      <point x="162" y="770"/>
+      <point x="191" y="876" type="curve"/>
+      <point x="123" y="900" type="line"/>
+      <point x="98" y="830"/>
+      <point x="52" y="809"/>
+    </contour>
+  </outline>
+</glyph>

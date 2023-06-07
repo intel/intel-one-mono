@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ocircumflextilde" format="2">
+  <advance width="614"/>
+  <unicode hex="1ED7"/>
+  <outline>
+    <component base="o"/>
+    <component base="circumflextilde" xOffset="296.6561779218334" yOffset="-3.637978807091713e-12"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.7843,0.7843,0.7843,1</string>
+    </dict>
+  </lib>
+</glyph>

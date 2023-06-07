@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tildecmb" format="2">
+  <unicode hex="0303"/>
+  <anchor x="77.94618365092157" y="502" name="_aboveLC"/>
+  <anchor x="69.34382207815733" y="472" name="_aboveLCx"/>
+  <outline>
+    <contour>
+      <point x="93" y="613.0" type="curve" smooth="yes"/>
+      <point x="132" y="547.0"/>
+      <point x="152" y="536.0"/>
+      <point x="175" y="536.0" type="curve" smooth="yes"/>
+      <point x="212" y="536.0"/>
+      <point x="240" y="558.0"/>
+      <point x="333" y="707.0" type="curve"/>
+      <point x="292" y="726.0" type="line"/>
+      <point x="213" y="605.0"/>
+      <point x="199" y="592.0"/>
+      <point x="182" y="592.0" type="curve" smooth="yes"/>
+      <point x="170" y="592.0"/>
+      <point x="163" y="599.0"/>
+      <point x="133" y="649.0" type="curve" smooth="yes"/>
+      <point x="94" y="715.0"/>
+      <point x="74" y="726.0"/>
+      <point x="51" y="726.0" type="curve" smooth="yes"/>
+      <point x="14" y="726.0"/>
+      <point x="-13" y="705.0"/>
+      <point x="-106" y="556.0" type="curve"/>
+      <point x="-66" y="536.0" type="line"/>
+      <point x="12" y="657.0"/>
+      <point x="27" y="670.0"/>
+      <point x="44" y="670.0" type="curve" smooth="yes"/>
+      <point x="56" y="670.0"/>
+      <point x="63" y="663.0"/>
+    </contour>
+  </outline>
+</glyph>

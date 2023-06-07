@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="brevegrave" format="2">
+  <outline>
+    <contour>
+      <point x="-166" y="921" type="line"/>
+      <point x="69" y="800" type="line"/>
+      <point x="38" y="739" type="line"/>
+      <point x="-202" y="845" type="line"/>
+    </contour>
+    <contour>
+      <point x="0" y="624" type="qcurve"/>
+      <point x="43" y="624"/>
+      <point x="103" y="678"/>
+      <point x="123" y="735" type="qcurve"/>
+      <point x="191" y="712" type="line"/>
+      <point x="169" y="630"/>
+      <point x="73" y="547"/>
+      <point x="0" y="547" type="qcurve"/>
+      <point x="-73" y="547"/>
+      <point x="-169" y="630"/>
+      <point x="-191" y="712" type="qcurve"/>
+      <point x="-123" y="735" type="line"/>
+      <point x="-103" y="678"/>
+      <point x="-43" y="624"/>
+    </contour>
+  </outline>
+</glyph>

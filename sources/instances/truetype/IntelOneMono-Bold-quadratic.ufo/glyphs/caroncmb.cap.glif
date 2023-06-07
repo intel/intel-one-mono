@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="caroncmb.cap" format="2">
+  <outline>
+    <contour>
+      <point x="159" y="920" type="line"/>
+      <point x="200" y="850" type="line"/>
+      <point x="22" y="731" type="line"/>
+      <point x="-20" y="731" type="line"/>
+      <point x="-199" y="850" type="line"/>
+      <point x="-159" y="920" type="line"/>
+      <point x="1" y="836" type="line"/>
+    </contour>
+  </outline>
+</glyph>

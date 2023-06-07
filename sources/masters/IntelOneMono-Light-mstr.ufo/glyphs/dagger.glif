@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dagger" format="2">
+  <advance width="614"/>
+  <unicode hex="2020"/>
+  <outline>
+    <contour>
+      <point x="307" y="460" type="curve" smooth="yes"/>
+      <point x="384.0" y="460.0"/>
+      <point x="463.0" y="435.0"/>
+      <point x="539" y="435" type="curve"/>
+      <point x="539" y="517" type="line"/>
+      <point x="462.0" y="517.0"/>
+      <point x="384.0" y="495.0"/>
+      <point x="307" y="495" type="curve" smooth="yes"/>
+      <point x="230.0" y="495.0"/>
+      <point x="147.0" y="517.0"/>
+      <point x="75.0" y="517" type="curve"/>
+      <point x="75.0" y="435" type="line"/>
+      <point x="146.0" y="435.0"/>
+      <point x="230.0" y="460.0"/>
+    </contour>
+    <contour>
+      <point x="332" y="475" type="curve" smooth="yes"/>
+      <point x="332.0" y="553.0"/>
+      <point x="353.0" y="633.0"/>
+      <point x="353" y="710" type="curve"/>
+      <point x="261" y="710" type="line"/>
+      <point x="261.0" y="633.0"/>
+      <point x="284.0" y="553.0"/>
+      <point x="284" y="475" type="curve" smooth="yes"/>
+      <point x="284.0" y="317.0"/>
+      <point x="261.0" y="157.0"/>
+      <point x="261" y="0" type="curve"/>
+      <point x="353" y="0" type="line"/>
+      <point x="353.0" y="157.0"/>
+      <point x="332.0" y="317.0"/>
+    </contour>
+  </outline>
+</glyph>

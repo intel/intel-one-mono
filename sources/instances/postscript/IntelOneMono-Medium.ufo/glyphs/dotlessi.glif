@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dotlessi" format="2">
+  <advance width="614"/>
+  <unicode hex="0131"/>
+  <anchor x="323" y="-35" name="below"/>
+  <anchor x="319" y="502" name="aboveLC"/>
+  <anchor x="323" y="-9" name="belowogonek"/>
+  <outline>
+    <contour>
+      <point x="104" y="95" type="line"/>
+      <point x="104" y="0" type="line"/>
+      <point x="541" y="0" type="line"/>
+      <point x="541" y="95" type="line"/>
+      <point x="378" y="95" type="line"/>
+      <point x="378" y="471" type="line"/>
+      <point x="124" y="471" type="line"/>
+      <point x="124" y="376" type="line"/>
+      <point x="266" y="376" type="line"/>
+      <point x="266" y="95" type="line"/>
+    </contour>
+  </outline>
+</glyph>

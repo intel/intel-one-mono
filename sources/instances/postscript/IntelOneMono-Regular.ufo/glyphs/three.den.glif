@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="three.den" format="2">
+  <advance width="614"/>
+  <outline>
+    <contour>
+      <point x="164" y="327" type="line"/>
+      <point x="351" y="327" type="line"/>
+      <point x="351" y="325" type="line"/>
+      <point x="227" y="204" type="line"/>
+      <point x="238" y="173" type="line"/>
+      <point x="260" y="177"/>
+      <point x="276" y="179"/>
+      <point x="294" y="179" type="curve" smooth="yes"/>
+      <point x="370" y="179"/>
+      <point x="392" y="156"/>
+      <point x="392" y="124" type="curve" smooth="yes"/>
+      <point x="392" y="85"/>
+      <point x="354" y="61"/>
+      <point x="243" y="53" type="curve" smooth="yes"/>
+      <point x="170" y="47" type="line"/>
+      <point x="176" y="-9" type="line"/>
+      <point x="248" y="-4" type="line" smooth="yes"/>
+      <point x="398" y="6"/>
+      <point x="456" y="53"/>
+      <point x="456" y="124" type="curve" smooth="yes"/>
+      <point x="456.0" y="178.0"/>
+      <point x="426.0" y="227.0"/>
+      <point x="317" y="227" type="curve"/>
+      <point x="317" y="228" type="line"/>
+      <point x="436" y="339" type="line"/>
+      <point x="436" y="380" type="line"/>
+      <point x="164" y="380" type="line"/>
+    </contour>
+  </outline>
+</glyph>

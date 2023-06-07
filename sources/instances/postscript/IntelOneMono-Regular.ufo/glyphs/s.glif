@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="s" format="2">
+  <advance width="614"/>
+  <unicode hex="0073"/>
+  <guideline x="254" y="205" angle="218.007617825676" identifier="MYhE05PKT0"/>
+  <anchor x="321" y="507" name="aboveLC"/>
+  <anchor x="299" y="-40" name="below"/>
+  <anchor x="301" y="-15" name="belowcedilla"/>
+  <anchor x="321" y="472" name="aboveLCx"/>
+  <outline>
+    <contour>
+      <point x="522" y="130" type="curve" smooth="yes"/>
+      <point x="522" y="199"/>
+      <point x="496" y="236"/>
+      <point x="368" y="266" type="curve" smooth="yes"/>
+      <point x="282" y="286" type="line" smooth="yes"/>
+      <point x="207" y="305"/>
+      <point x="194" y="322"/>
+      <point x="194" y="352" type="curve" smooth="yes"/>
+      <point x="194" y="384"/>
+      <point x="222" y="408"/>
+      <point x="329" y="408" type="curve" smooth="yes"/>
+      <point x="370" y="408"/>
+      <point x="428" y="401"/>
+      <point x="491" y="387" type="curve"/>
+      <point x="503" y="460" type="line"/>
+      <point x="444" y="471"/>
+      <point x="374" y="478"/>
+      <point x="330" y="478" type="curve" smooth="yes"/>
+      <point x="169" y="478"/>
+      <point x="106" y="422"/>
+      <point x="106" y="345" type="curve" smooth="yes"/>
+      <point x="106" y="280"/>
+      <point x="131" y="243"/>
+      <point x="259" y="212" type="curve" smooth="yes"/>
+      <point x="346" y="192" type="line" smooth="yes"/>
+      <point x="419" y="174"/>
+      <point x="435" y="156"/>
+      <point x="435" y="124" type="curve" smooth="yes"/>
+      <point x="435" y="86"/>
+      <point x="401" y="58"/>
+      <point x="291" y="58" type="curve" smooth="yes"/>
+      <point x="248" y="58"/>
+      <point x="179" y="65"/>
+      <point x="107" y="80" type="curve"/>
+      <point x="94" y="7" type="line"/>
+      <point x="170" y="-8"/>
+      <point x="231" y="-13"/>
+      <point x="290" y="-13" type="curve" smooth="yes"/>
+      <point x="453" y="-13"/>
+      <point x="522" y="50"/>
+    </contour>
+  </outline>
+</glyph>

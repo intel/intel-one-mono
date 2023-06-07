@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ringcmb" format="2">
+  <unicode hex="030A"/>
+  <outline>
+    <contour>
+      <point x="-28" y="654" type="qcurve"/>
+      <point x="-28" y="719"/>
+      <point x="72" y="807"/>
+      <point x="149" y="807" type="qcurve"/>
+      <point x="210" y="807"/>
+      <point x="283" y="749"/>
+      <point x="283" y="700" type="qcurve"/>
+      <point x="283" y="635"/>
+      <point x="183" y="547"/>
+      <point x="105" y="547" type="qcurve"/>
+      <point x="45" y="547"/>
+      <point x="-28" y="605"/>
+    </contour>
+    <contour>
+      <point x="45" y="661" type="qcurve"/>
+      <point x="45" y="637"/>
+      <point x="83" y="613"/>
+      <point x="120" y="613" type="qcurve"/>
+      <point x="159" y="613"/>
+      <point x="210" y="659"/>
+      <point x="210" y="693" type="qcurve"/>
+      <point x="210" y="717"/>
+      <point x="171" y="741"/>
+      <point x="134" y="741" type="qcurve"/>
+      <point x="95" y="741"/>
+      <point x="45" y="696"/>
+    </contour>
+  </outline>
+</glyph>

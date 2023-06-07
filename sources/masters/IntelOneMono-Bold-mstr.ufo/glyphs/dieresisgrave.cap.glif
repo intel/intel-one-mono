@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dieresisgrave.cap" format="2">
+  <anchor x="0" y="691" name="_aboveUC"/>
+  <anchor x="0" y="661" name="_aboveUCx"/>
+  <outline>
+    <contour>
+      <point x="62" y="995" type="line"/>
+      <point x="-191" y="1084" type="line"/>
+      <point x="-222" y="987" type="line"/>
+      <point x="36" y="914" type="line"/>
+    </contour>
+    <contour>
+      <point x="-126" y="751" type="curve" smooth="yes"/>
+      <point x="-80" y="751"/>
+      <point x="-51" y="774"/>
+      <point x="-51" y="817" type="curve" smooth="yes"/>
+      <point x="-51" y="861"/>
+      <point x="-77" y="884"/>
+      <point x="-125" y="884" type="curve" smooth="yes"/>
+      <point x="-171" y="884"/>
+      <point x="-199" y="856"/>
+      <point x="-199" y="817" type="curve" smooth="yes"/>
+      <point x="-199" y="774"/>
+      <point x="-172" y="751"/>
+    </contour>
+    <contour>
+      <point x="124" y="751" type="curve" smooth="yes"/>
+      <point x="170" y="751"/>
+      <point x="199" y="774"/>
+      <point x="199" y="817" type="curve" smooth="yes"/>
+      <point x="199" y="861"/>
+      <point x="173" y="884"/>
+      <point x="125" y="884" type="curve" smooth="yes"/>
+      <point x="79" y="884"/>
+      <point x="51" y="856"/>
+      <point x="51" y="817" type="curve" smooth="yes"/>
+      <point x="51" y="774"/>
+      <point x="78" y="751"/>
+    </contour>
+  </outline>
+</glyph>

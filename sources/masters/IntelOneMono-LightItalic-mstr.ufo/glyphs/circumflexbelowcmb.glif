@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="circumflexbelowcmb" format="2">
+  <unicode hex="032D"/>
+  <anchor x="-76.03608850155828" y="-35" name="_below"/>
+  <anchor x="-67.43372692879404" y="-5" name="_belowx"/>
+  <outline>
+    <contour>
+      <point x="-327.0" y="-249.0" type="line"/>
+      <point x="-303.0" y="-280.0" type="line"/>
+      <point x="-92.0" y="-122.0" type="line"/>
+      <point x="-88.0" y="-75.0" type="line"/>
+      <point x="-115.0" y="-75.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="38.0" y="-258.0" type="line"/>
+      <point x="-79.0" y="-75.0" type="line"/>
+      <point x="-106.0" y="-75.0" type="line"/>
+      <point x="-118.0" y="-122.0" type="line"/>
+      <point x="3.0" y="-280.0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

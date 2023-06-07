@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="circumflextilde.cap" format="2">
+  <anchor x="131" y="691" name="_aboveUC"/>
+  <anchor x="122" y="661" name="_aboveUCx"/>
+  <outline>
+    <contour>
+      <point x="234" y="1055" type="curve" smooth="yes"/>
+      <point x="194" y="1092"/>
+      <point x="178" y="1097"/>
+      <point x="156" y="1097" type="curve" smooth="yes"/>
+      <point x="125" y="1097"/>
+      <point x="98" y="1083"/>
+      <point x="24" y="967" type="curve"/>
+      <point x="77" y="936" type="line"/>
+      <point x="128" y="1009"/>
+      <point x="142" y="1019"/>
+      <point x="156" y="1019" type="curve" smooth="yes"/>
+      <point x="168" y="1019"/>
+      <point x="177" y="1013"/>
+      <point x="211" y="983" type="curve" smooth="yes"/>
+      <point x="252" y="947"/>
+      <point x="268" y="942"/>
+      <point x="291" y="942" type="curve" smooth="yes"/>
+      <point x="324" y="942"/>
+      <point x="355" y="954"/>
+      <point x="432" y="1074" type="curve"/>
+      <point x="379" y="1108" type="line"/>
+      <point x="323" y="1028"/>
+      <point x="306" y="1020"/>
+      <point x="290" y="1020" type="curve" smooth="yes"/>
+      <point x="278" y="1020"/>
+      <point x="269" y="1025"/>
+    </contour>
+    <contour>
+      <point x="-37" y="790" type="line"/>
+      <point x="-14" y="731" type="line"/>
+      <point x="168" y="821" type="line"/>
+      <point x="299" y="731" type="line"/>
+      <point x="346" y="780" type="line"/>
+      <point x="203" y="907" type="line"/>
+      <point x="163" y="907" type="line"/>
+    </contour>
+  </outline>
+</glyph>

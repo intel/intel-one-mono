@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hookcmb" format="2">
+  <unicode hex="0309"/>
+  <anchor x="76" y="502" name="_aboveLC"/>
+  <anchor x="67" y="472" name="_aboveLCx"/>
+  <outline>
+    <contour>
+      <point x="-9" y="553" type="line"/>
+      <point x="208" y="578"/>
+      <point x="252" y="630"/>
+      <point x="252" y="684" type="curve" smooth="yes"/>
+      <point x="252" y="731"/>
+      <point x="206" y="771"/>
+      <point x="64" y="787" type="curve"/>
+      <point x="-2" y="723" type="line"/>
+      <point x="-2" y="721" type="line"/>
+      <point x="106" y="706"/>
+      <point x="126" y="691"/>
+      <point x="126" y="676" type="curve" smooth="yes"/>
+      <point x="126" y="663"/>
+      <point x="119" y="646"/>
+      <point x="-17" y="617" type="curve"/>
+      <point x="-17" y="615" type="line"/>
+    </contour>
+  </outline>
+</glyph>
