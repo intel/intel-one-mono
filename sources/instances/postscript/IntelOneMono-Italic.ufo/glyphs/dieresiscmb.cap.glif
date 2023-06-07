@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dieresiscmb.cap" format="2">
+  <anchor x="131" y="691" name="_aboveUC"/>
+  <anchor x="123" y="661" name="_aboveUCx"/>
+  <outline>
+    <contour>
+      <point x="24" y="751" type="curve" smooth="yes"/>
+      <point x="68" y="751"/>
+      <point x="99" y="781"/>
+      <point x="99" y="826" type="curve" smooth="yes"/>
+      <point x="99" y="856"/>
+      <point x="79" y="868"/>
+      <point x="46" y="868" type="curve" smooth="yes"/>
+      <point x="1" y="868"/>
+      <point x="-29" y="831"/>
+      <point x="-29" y="792" type="curve" smooth="yes"/>
+      <point x="-29" y="765"/>
+      <point x="-7" y="751"/>
+    </contour>
+    <contour>
+      <point x="286" y="751" type="curve" smooth="yes"/>
+      <point x="329" y="751"/>
+      <point x="361" y="782"/>
+      <point x="361" y="826" type="curve" smooth="yes"/>
+      <point x="361" y="856"/>
+      <point x="341" y="868"/>
+      <point x="308" y="868" type="curve" smooth="yes"/>
+      <point x="262" y="868"/>
+      <point x="232" y="831"/>
+      <point x="232" y="792" type="curve" smooth="yes"/>
+      <point x="232" y="766"/>
+      <point x="252" y="751"/>
+    </contour>
+  </outline>
+</glyph>

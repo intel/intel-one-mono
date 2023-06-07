@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="commaaboverightcmb" format="2">
+  <unicode hex="0315"/>
+  <anchor x="137.58922388875362" y="710.0" name="_topright"/>
+  <outline>
+    <contour>
+      <point x="73.35825747878064" y="486.0" type="line"/>
+      <point x="112.35825747878064" y="486.0" type="line"/>
+      <point x="207.58922388875362" y="710.0" type="line"/>
+      <point x="137.58922388875362" y="710.0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

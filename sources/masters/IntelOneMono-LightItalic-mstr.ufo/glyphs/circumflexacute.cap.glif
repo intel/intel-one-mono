@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="circumflexacute.cap" format="2">
+  <anchor x="132.14106155933626" y="691" name="_aboveUC"/>
+  <anchor x="123.53869998657203" y="661" name="_aboveUCx"/>
+  <outline>
+    <contour>
+      <point x="-30.50001605178835" y="762.0" type="line"/>
+      <point x="-9.102377624552588" y="732.0" type="line"/>
+      <point x="191.88055943802198" y="854.0" type="line"/>
+      <point x="192" y="901.0" type="line"/>
+      <point x="165" y="901.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="332" y="758.0" type="line"/>
+      <point x="201" y="901.0" type="line"/>
+      <point x="174" y="901.0" type="line"/>
+      <point x="165.88055943802198" y="854.0" type="line"/>
+      <point x="296.89762237544744" y="732.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="297" y="928.0" type="line"/>
+      <point x="318.06362948261545" y="893.0" type="line"/>
+      <point x="498.4442049724257" y="985.0" type="line"/>
+      <point x="471" y="1033.0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

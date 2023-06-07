@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="brevetilde.cap" format="2">
+  <outline>
+    <contour>
+      <point x="155" y="1083" type="qcurve"/>
+      <point x="176" y="1083"/>
+      <point x="208" y="1062"/>
+      <point x="232" y="1036" type="qcurve"/>
+      <point x="256" y="1012"/>
+      <point x="274" y="999"/>
+      <point x="283" y="999" type="qcurve"/>
+      <point x="301" y="999"/>
+      <point x="342" y="1043"/>
+      <point x="377" y="1094" type="qcurve"/>
+      <point x="421" y="1067" type="line"/>
+      <point x="374" y="994"/>
+      <point x="315" y="934"/>
+      <point x="284" y="934" type="qcurve"/>
+      <point x="262" y="934"/>
+      <point x="229" y="955"/>
+      <point x="205" y="981" type="qcurve"/>
+      <point x="180" y="1006"/>
+      <point x="163" y="1018"/>
+      <point x="154" y="1018" type="qcurve"/>
+      <point x="140" y="1018"/>
+      <point x="104" y="980"/>
+      <point x="70" y="932" type="qcurve"/>
+      <point x="26" y="956" type="line"/>
+      <point x="72" y="1027"/>
+      <point x="127" y="1083"/>
+    </contour>
+    <contour>
+      <point x="158" y="795" type="qcurve"/>
+      <point x="206" y="795"/>
+      <point x="283" y="845"/>
+      <point x="316" y="897" type="qcurve"/>
+      <point x="371" y="872" type="line"/>
+      <point x="330" y="800"/>
+      <point x="225" y="731"/>
+      <point x="155" y="731" type="qcurve"/>
+      <point x="78" y="731"/>
+      <point x="6" y="805"/>
+      <point x="6" y="884" type="qcurve"/>
+      <point x="58" y="900" type="line"/>
+      <point x="61" y="846"/>
+      <point x="110" y="795"/>
+    </contour>
+  </outline>
+</glyph>

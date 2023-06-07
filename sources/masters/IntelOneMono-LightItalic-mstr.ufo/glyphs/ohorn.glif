@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ohorn" format="2">
+  <advance width="614"/>
+  <unicode hex="01A1"/>
+  <anchor x="376" y="507" name="aboveLC"/>
+  <anchor x="366" y="472" name="aboveLCx"/>
+  <anchor x="244" y="-40" name="below"/>
+  <outline>
+    <contour>
+      <point x="495" y="418" type="curve" smooth="yes"/>
+      <point x="590" y="418"/>
+      <point x="625" y="447"/>
+      <point x="664" y="572" type="curve"/>
+      <point x="606" y="572" type="line"/>
+      <point x="576" y="482"/>
+      <point x="556" y="460"/>
+      <point x="474" y="460" type="curve" smooth="yes"/>
+      <point x="358" y="460" type="line"/>
+      <point x="366" y="428" type="line"/>
+      <point x="477" y="412" type="line"/>
+      <point x="481" y="418" type="line"/>
+      <point x="485" y="418"/>
+      <point x="490" y="418"/>
+    </contour>
+    <contour>
+      <point x="358" y="460" type="curve" smooth="yes"/>
+      <point x="178" y="460"/>
+      <point x="58" y="318"/>
+      <point x="58" y="180" type="curve" smooth="yes"/>
+      <point x="58" y="72"/>
+      <point x="132" y="-15"/>
+      <point x="258" y="-15" type="curve" smooth="yes"/>
+      <point x="437" y="-15"/>
+      <point x="556" y="127"/>
+      <point x="556" y="266" type="curve" smooth="yes"/>
+      <point x="556" y="328"/>
+      <point x="526" y="376"/>
+      <point x="472" y="416" type="curve"/>
+      <point x="478" y="421" type="line"/>
+      <point x="449" y="447"/>
+      <point x="408" y="460"/>
+    </contour>
+    <contour>
+      <point x="263" y="34" type="curve" smooth="yes"/>
+      <point x="180" y="34"/>
+      <point x="118" y="94"/>
+      <point x="118" y="178" type="curve" smooth="yes"/>
+      <point x="118" y="301"/>
+      <point x="227" y="411"/>
+      <point x="353" y="411" type="curve" smooth="yes"/>
+      <point x="435" y="411"/>
+      <point x="496" y="351"/>
+      <point x="496" y="268" type="curve" smooth="yes"/>
+      <point x="496" y="145"/>
+      <point x="388" y="34"/>
+    </contour>
+  </outline>
+</glyph>

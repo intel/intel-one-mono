@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dieresisbelowcmb" format="2">
+  <unicode hex="0324"/>
+  <anchor x="0" y="-35" name="_below"/>
+  <anchor x="0" y="-5" name="_belowx"/>
+  <outline>
+    <contour>
+      <point x="-117" y="-222" type="curve" smooth="yes"/>
+      <point x="-76" y="-222"/>
+      <point x="-51" y="-200"/>
+      <point x="-51" y="-160" type="curve" smooth="yes"/>
+      <point x="-51" y="-118"/>
+      <point x="-73" y="-96"/>
+      <point x="-116" y="-96" type="curve" smooth="yes"/>
+      <point x="-157" y="-96"/>
+      <point x="-182" y="-122"/>
+      <point x="-182" y="-160" type="curve" smooth="yes"/>
+      <point x="-182" y="-200"/>
+      <point x="-158" y="-222"/>
+    </contour>
+    <contour>
+      <point x="115" y="-222" type="curve" smooth="yes"/>
+      <point x="156" y="-222"/>
+      <point x="182" y="-200"/>
+      <point x="182" y="-160" type="curve" smooth="yes"/>
+      <point x="182" y="-118"/>
+      <point x="159" y="-96"/>
+      <point x="116" y="-96" type="curve" smooth="yes"/>
+      <point x="76" y="-96"/>
+      <point x="51" y="-122"/>
+      <point x="51" y="-160" type="curve" smooth="yes"/>
+      <point x="51" y="-200"/>
+      <point x="74" y="-222"/>
+    </contour>
+  </outline>
+</glyph>

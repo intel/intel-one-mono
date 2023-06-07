@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="brevegrave.cap" format="2">
+  <outline>
+    <contour>
+      <point x="-174" y="1068" type="line"/>
+      <point x="66" y="958" type="line"/>
+      <point x="41" y="895" type="line"/>
+      <point x="-206" y="990" type="line"/>
+    </contour>
+    <contour>
+      <point x="0" y="809" type="qcurve"/>
+      <point x="45" y="809"/>
+      <point x="106" y="857"/>
+      <point x="123" y="906" type="qcurve"/>
+      <point x="191" y="883" type="line"/>
+      <point x="171" y="808"/>
+      <point x="74" y="731"/>
+      <point x="0" y="731" type="qcurve"/>
+      <point x="-74" y="731"/>
+      <point x="-171" y="805"/>
+      <point x="-191" y="876" type="qcurve"/>
+      <point x="-123" y="900" type="line"/>
+      <point x="-107" y="854"/>
+      <point x="-46" y="809"/>
+    </contour>
+  </outline>
+</glyph>

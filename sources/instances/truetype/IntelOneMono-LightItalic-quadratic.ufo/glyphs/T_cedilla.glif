@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Tcedilla" format="2">
+  <advance width="614"/>
+  <unicode hex="0162"/>
+  <outline>
+    <contour>
+      <point x="381" y="604" type="line"/>
+      <point x="160" y="604" type="line"/>
+      <point x="175" y="655" type="line"/>
+      <point x="677" y="655" type="line"/>
+      <point x="662" y="604" type="line"/>
+      <point x="442" y="604" type="line"/>
+      <point x="269" y="0" type="line"/>
+      <point x="261" y="0" type="line"/>
+      <point x="223" y="-61" type="line"/>
+      <point x="299" y="-73"/>
+      <point x="357" y="-107"/>
+      <point x="357" y="-146" type="qcurve"/>
+      <point x="357" y="-187"/>
+      <point x="301" y="-228"/>
+      <point x="236" y="-242" type="qcurve"/>
+      <point x="204" y="-248"/>
+      <point x="120" y="-260"/>
+      <point x="66" y="-265" type="qcurve"/>
+      <point x="66" y="-216" type="line"/>
+      <point x="105" y="-212"/>
+      <point x="167" y="-205"/>
+      <point x="191" y="-202" type="qcurve"/>
+      <point x="247" y="-193"/>
+      <point x="293" y="-172"/>
+      <point x="293" y="-150" type="qcurve"/>
+      <point x="293" y="-130"/>
+      <point x="237" y="-111"/>
+      <point x="160" y="-103" type="qcurve"/>
+      <point x="157" y="-93" type="line"/>
+      <point x="217" y="0" type="line"/>
+      <point x="208" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

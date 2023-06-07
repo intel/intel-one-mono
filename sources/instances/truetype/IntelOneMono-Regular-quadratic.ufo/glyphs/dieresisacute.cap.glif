@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dieresisacute.cap" format="2">
+  <outline>
+    <contour>
+      <point x="194" y="1010" type="line"/>
+      <point x="-45" y="897" type="line"/>
+      <point x="-69" y="946" type="line"/>
+      <point x="161" y="1073" type="line"/>
+    </contour>
+    <contour>
+      <point x="-72" y="806" type="qcurve"/>
+      <point x="-72" y="779"/>
+      <point x="-103" y="751"/>
+      <point x="-132" y="751" type="qcurve"/>
+      <point x="-160" y="751"/>
+      <point x="-191" y="780"/>
+      <point x="-191" y="806" type="qcurve"/>
+      <point x="-191" y="831"/>
+      <point x="-158" y="862"/>
+      <point x="-131" y="862" type="qcurve"/>
+      <point x="-102" y="862"/>
+      <point x="-72" y="833"/>
+    </contour>
+    <contour>
+      <point x="190" y="806" type="qcurve"/>
+      <point x="190" y="780"/>
+      <point x="159" y="751"/>
+      <point x="130" y="751" type="qcurve"/>
+      <point x="102" y="751"/>
+      <point x="71" y="780"/>
+      <point x="71" y="806" type="qcurve"/>
+      <point x="71" y="831"/>
+      <point x="104" y="862"/>
+      <point x="131" y="862" type="qcurve"/>
+      <point x="160" y="862"/>
+      <point x="190" y="833"/>
+    </contour>
+  </outline>
+</glyph>

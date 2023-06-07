@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hungarumlautcmb.cap" format="2">
+  <outline>
+    <contour>
+      <point x="-121" y="731" type="line"/>
+      <point x="-162" y="769" type="line"/>
+      <point x="-46" y="918" type="line"/>
+      <point x="15" y="870" type="line"/>
+    </contour>
+    <contour>
+      <point x="121" y="731" type="line"/>
+      <point x="80" y="769" type="line"/>
+      <point x="196" y="918" type="line"/>
+      <point x="257" y="870" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tildecmb.cap" format="2">
+  <anchor x="0" y="691" name="_aboveUC"/>
+  <anchor x="0" y="661" name="_aboveUCx"/>
+  <outline>
+    <contour>
+      <point x="204" y="890" type="curve"/>
+      <point x="138" y="914" type="line"/>
+      <point x="104" y="823"/>
+      <point x="92" y="814"/>
+      <point x="79" y="814" type="curve" smooth="yes"/>
+      <point x="68" y="814"/>
+      <point x="57" y="818"/>
+      <point x="10" y="858" type="curve" smooth="yes"/>
+      <point x="-37" y="899"/>
+      <point x="-59" y="910"/>
+      <point x="-84" y="910" type="curve" smooth="yes"/>
+      <point x="-122" y="910"/>
+      <point x="-155" y="895"/>
+      <point x="-206" y="751" type="curve"/>
+      <point x="-140" y="727" type="line"/>
+      <point x="-106" y="818"/>
+      <point x="-94" y="827"/>
+      <point x="-81" y="827" type="curve" smooth="yes"/>
+      <point x="-70" y="827"/>
+      <point x="-59" y="823"/>
+      <point x="-12" y="783" type="curve" smooth="yes"/>
+      <point x="35" y="742"/>
+      <point x="57" y="731"/>
+      <point x="81" y="731" type="curve" smooth="yes"/>
+      <point x="119" y="731"/>
+      <point x="153" y="746"/>
+    </contour>
+  </outline>
+</glyph>

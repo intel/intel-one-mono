@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Yhookabove" format="2">
+  <advance width="614"/>
+  <unicode hex="1EF6"/>
+  <outline>
+    <component base="Y"/>
+    <component base="hookcmb.cap" xOffset="287" yOffset="-5"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.7843,0.7843,0.7843,1</string>
+    </dict>
+  </lib>
+</glyph>

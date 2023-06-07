@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="middotcat" format="2">
+  <advance width="614"/>
+  <outline>
+    <contour>
+      <point x="409" y="387" type="qcurve"/>
+      <point x="409" y="342"/>
+      <point x="353" y="278"/>
+      <point x="312" y="278" type="qcurve"/>
+      <point x="282" y="278"/>
+      <point x="248" y="306"/>
+      <point x="248" y="331" type="qcurve"/>
+      <point x="248" y="375"/>
+      <point x="305" y="440"/>
+      <point x="345" y="440" type="qcurve"/>
+      <point x="376" y="440"/>
+      <point x="409" y="412"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="bahtthai" format="2">
+  <advance width="614"/>
+  <unicode hex="0E3F"/>
+  <outline>
+    <contour>
+      <point x="284" y="0" type="qcurve"/>
+      <point x="243" y="-142" type="line"/>
+      <point x="165" y="-142" type="line"/>
+      <point x="206" y="0" type="line"/>
+      <point x="18" y="0" type="line"/>
+      <point x="206" y="655" type="line"/>
+      <point x="394" y="655" type="line"/>
+      <point x="436" y="796" type="line"/>
+      <point x="514" y="796" type="line"/>
+      <point x="473" y="655" type="line"/>
+      <point x="549" y="651"/>
+      <point x="631" y="583"/>
+      <point x="631" y="525" type="qcurve"/>
+      <point x="631" y="452"/>
+      <point x="529" y="355"/>
+      <point x="431" y="335" type="qcurve"/>
+      <point x="431" y="331" type="line"/>
+      <point x="491" y="318"/>
+      <point x="556" y="248"/>
+      <point x="556" y="196" type="qcurve"/>
+      <point x="556" y="103"/>
+      <point x="417" y="3"/>
+    </contour>
+    <contour>
+      <point x="510" y="501" type="qcurve"/>
+      <point x="510" y="534"/>
+      <point x="465" y="568"/>
+      <point x="420" y="568" type="qcurve"/>
+      <point x="292" y="568" type="line"/>
+      <point x="236" y="374" type="line"/>
+      <point x="334" y="379" type="line"/>
+      <point x="418" y="384"/>
+      <point x="510" y="448"/>
+    </contour>
+    <contour>
+      <point x="443" y="202" type="qcurve"/>
+      <point x="443" y="243"/>
+      <point x="379" y="288"/>
+      <point x="313" y="291" type="qcurve"/>
+      <point x="214" y="296" type="line"/>
+      <point x="154" y="86" type="line"/>
+      <point x="290" y="86" type="line"/>
+      <point x="362" y="86"/>
+      <point x="443" y="149"/>
+    </contour>
+  </outline>
+</glyph>

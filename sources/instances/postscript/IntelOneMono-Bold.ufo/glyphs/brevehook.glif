@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="brevehook" format="2">
+  <anchor x="0" y="502" name="_aboveLC"/>
+  <anchor x="0" y="472" name="_aboveLCx"/>
+  <outline>
+    <contour>
+      <point x="-50" y="742" type="line"/>
+      <point x="98" y="767"/>
+      <point x="150" y="812"/>
+      <point x="150" y="861" type="curve" smooth="yes"/>
+      <point x="150" y="903"/>
+      <point x="112" y="925"/>
+      <point x="-64" y="951" type="curve"/>
+      <point x="-116" y="887" type="line"/>
+      <point x="-116" y="885" type="line"/>
+      <point x="11" y="868"/>
+      <point x="26" y="858"/>
+      <point x="26" y="845" type="curve" smooth="yes"/>
+      <point x="26" y="832"/>
+      <point x="12" y="822"/>
+      <point x="-80" y="801" type="curve"/>
+      <point x="-80" y="799" type="line"/>
+    </contour>
+    <contour>
+      <point x="0" y="648" type="curve" smooth="yes"/>
+      <point x="-43" y="648"/>
+      <point x="-87" y="668"/>
+      <point x="-114" y="745" type="curve"/>
+      <point x="-198" y="715" type="line"/>
+      <point x="-166" y="595"/>
+      <point x="-82" y="553"/>
+      <point x="0" y="553" type="curve" smooth="yes"/>
+      <point x="82" y="553"/>
+      <point x="166" y="595"/>
+      <point x="198" y="715" type="curve"/>
+      <point x="114" y="745" type="line"/>
+      <point x="88" y="669"/>
+      <point x="43" y="648"/>
+    </contour>
+  </outline>
+</glyph>

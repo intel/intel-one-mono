@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="circumflexgrave.cap" format="2">
+  <anchor x="132.14106155933626" y="691" name="_aboveUC"/>
+  <anchor x="123.53869998657203" y="661" name="_aboveUCx"/>
+  <outline>
+    <contour>
+      <point x="424" y="924.0" type="line"/>
+      <point x="297" y="1037.0" type="line"/>
+      <point x="255.73816805849629" y="993.0" type="line"/>
+      <point x="397.06362948261545" y="893.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="-31" y="762.0" type="line"/>
+      <point x="-9" y="732.0" type="line"/>
+      <point x="192" y="854.0" type="line"/>
+      <point x="192" y="901.0" type="line"/>
+      <point x="165" y="901.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="332" y="758.0" type="line"/>
+      <point x="201" y="901.0" type="line"/>
+      <point x="174" y="901.0" type="line"/>
+      <point x="166" y="854.0" type="line"/>
+      <point x="297" y="732.0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

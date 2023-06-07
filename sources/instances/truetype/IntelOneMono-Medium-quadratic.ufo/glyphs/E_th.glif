@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Eth" format="2">
+  <advance width="614"/>
+  <unicode hex="00D0"/>
+  <outline>
+    <contour>
+      <point x="106" y="298" type="line"/>
+      <point x="26" y="298" type="line"/>
+      <point x="26" y="362" type="line"/>
+      <point x="106" y="362" type="line"/>
+      <point x="106" y="655" type="line"/>
+      <point x="199" y="655" type="line"/>
+      <point x="375" y="655"/>
+      <point x="565" y="489"/>
+      <point x="565" y="335" type="qcurve"/>
+      <point x="565" y="174"/>
+      <point x="362" y="0"/>
+      <point x="172" y="0" type="qcurve"/>
+      <point x="106" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="323" y="362" type="line"/>
+      <point x="323" y="298" type="line"/>
+      <point x="216" y="298" type="line"/>
+      <point x="216" y="92" type="line"/>
+      <point x="335" y="98"/>
+      <point x="453" y="218"/>
+      <point x="453" y="333" type="qcurve"/>
+      <point x="453" y="443"/>
+      <point x="331" y="562"/>
+      <point x="216" y="564" type="qcurve"/>
+      <point x="216" y="362" type="line"/>
+    </contour>
+  </outline>
+</glyph>

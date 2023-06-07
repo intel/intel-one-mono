@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="five.den" format="2">
+  <advance width="614"/>
+  <outline>
+    <contour>
+      <point x="243" y="380" type="line"/>
+      <point x="232" y="344" type="line"/>
+      <point x="239" y="338" type="line"/>
+      <point x="459" y="338" type="line"/>
+      <point x="472.0" y="380" type="line"/>
+    </contour>
+    <contour>
+      <point x="236" y="380" type="line"/>
+      <point x="164" y="179" type="line"/>
+      <point x="165" y="176" type="line"/>
+      <point x="198" y="171" type="line"/>
+      <point x="220" y="208" type="line"/>
+      <point x="283" y="380" type="line"/>
+    </contour>
+    <contour>
+      <point x="428" y="158" type="curve" smooth="yes"/>
+      <point x="428" y="214"/>
+      <point x="383" y="244"/>
+      <point x="322" y="244" type="curve" smooth="yes"/>
+      <point x="286" y="244"/>
+      <point x="247" y="236"/>
+      <point x="204" y="208" type="curve"/>
+      <point x="198" y="171" type="line"/>
+      <point x="242" y="195"/>
+      <point x="276" y="203"/>
+      <point x="307" y="203" type="curve" smooth="yes"/>
+      <point x="348" y="203"/>
+      <point x="375" y="184"/>
+      <point x="375" y="153" type="curve" smooth="yes"/>
+      <point x="375.0" y="99.0"/>
+      <point x="331" y="53"/>
+      <point x="196" y="41" type="curve" smooth="yes"/>
+      <point x="115" y="34" type="line"/>
+      <point x="106" y="-9.0" type="line"/>
+      <point x="197" y="-2" type="line" smooth="yes"/>
+      <point x="365" y="10"/>
+      <point x="428" y="75"/>
+    </contour>
+  </outline>
+</glyph>

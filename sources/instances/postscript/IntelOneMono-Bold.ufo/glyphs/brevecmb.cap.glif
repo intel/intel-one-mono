@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="brevecmb.cap" format="2">
+  <anchor x="0" y="691" name="_aboveUC"/>
+  <anchor x="0" y="661" name="_aboveUCx"/>
+  <outline>
+    <contour>
+      <point x="0" y="826" type="curve" smooth="yes"/>
+      <point x="-43" y="826"/>
+      <point x="-87" y="846"/>
+      <point x="-114" y="923" type="curve"/>
+      <point x="-198" y="893" type="line"/>
+      <point x="-166" y="773"/>
+      <point x="-82" y="731"/>
+      <point x="0" y="731" type="curve" smooth="yes"/>
+      <point x="82" y="731"/>
+      <point x="166" y="773"/>
+      <point x="198" y="893" type="curve"/>
+      <point x="114" y="923" type="line"/>
+      <point x="88" y="847"/>
+      <point x="43" y="826"/>
+    </contour>
+  </outline>
+</glyph>

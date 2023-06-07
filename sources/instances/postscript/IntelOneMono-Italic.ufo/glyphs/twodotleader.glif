@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="twodotleader" format="2">
+  <advance width="614"/>
+  <unicode hex="2025"/>
+  <outline>
+    <contour>
+      <point x="90" y="-15" type="curve" smooth="yes"/>
+      <point x="149" y="-15"/>
+      <point x="185" y="40"/>
+      <point x="185" y="96" type="curve" smooth="yes"/>
+      <point x="185" y="129"/>
+      <point x="164" y="147"/>
+      <point x="122" y="147" type="curve" smooth="yes"/>
+      <point x="62" y="147"/>
+      <point x="27" y="90"/>
+      <point x="27" y="37" type="curve" smooth="yes"/>
+      <point x="27" y="3"/>
+      <point x="47" y="-15"/>
+    </contour>
+    <contour>
+      <point x="397" y="-15" type="curve" smooth="yes"/>
+      <point x="456" y="-15"/>
+      <point x="492" y="40"/>
+      <point x="492" y="96" type="curve" smooth="yes"/>
+      <point x="492" y="129"/>
+      <point x="471" y="147"/>
+      <point x="430" y="147" type="curve" smooth="yes"/>
+      <point x="369" y="147"/>
+      <point x="334" y="90"/>
+      <point x="334" y="37" type="curve" smooth="yes"/>
+      <point x="334" y="3"/>
+      <point x="354" y="-15"/>
+    </contour>
+  </outline>
+</glyph>

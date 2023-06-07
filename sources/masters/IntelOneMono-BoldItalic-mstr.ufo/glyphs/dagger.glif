@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dagger" format="2">
+  <advance width="614"/>
+  <unicode hex="2020"/>
+  <outline>
+    <contour>
+      <point x="370.90287744905163" y="460.0" type="curve" smooth="yes"/>
+      <point x="447.90287744905163" y="460.0"/>
+      <point x="515.1463166329405" y="419.0"/>
+      <point x="591.1463166329405" y="419.0" type="curve"/>
+      <point x="623.8352906094447" y="533.0" type="line"/>
+      <point x="546.8352906094447" y="533.0"/>
+      <point x="457.93896595060994" y="495.0"/>
+      <point x="380.93896595060994" y="495.0" type="curve" smooth="yes"/>
+      <point x="303.93896595060994" y="495.0"/>
+      <point x="231.83529060944466" y="533.0"/>
+      <point x="159.83529060944463" y="533.0" type="curve"/>
+      <point x="127.14631663294051" y="419.0" type="line"/>
+      <point x="198.1463166329405" y="419.0"/>
+      <point x="293.90287744905163" y="460.0"/>
+    </contour>
+    <contour>
+      <point x="400.20405823543376" y="475.0" type="curve" smooth="yes"/>
+      <point x="422.5701983246208" y="553.0"/>
+      <point x="482.50982918532543" y="633.0"/>
+      <point x="504.5892238887536" y="710.0" type="curve"/>
+      <point x="380.5892238887536" y="710.0" type="line"/>
+      <point x="358.50982918532543" y="633.0"/>
+      <point x="374.5701983246208" y="553.0"/>
+      <point x="352.20405823543376" y="475.0" type="curve" smooth="yes"/>
+      <point x="306.8982872855421" y="317.0"/>
+      <point x="222.01902556413285" y="157.0"/>
+      <point x="177.0" y="0.0" type="curve"/>
+      <point x="301.0" y="0.0" type="line"/>
+      <point x="346.01902556413285" y="157.0"/>
+      <point x="354.8982872855421" y="317.0"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="breveacute" format="2">
+  <anchor x="0" y="502" name="_aboveLC"/>
+  <anchor x="0" y="472" name="_aboveLCx"/>
+  <outline>
+    <contour>
+      <point x="-69" y="800" type="line"/>
+      <point x="-39" y="739" type="line"/>
+      <point x="202" y="845" type="line"/>
+      <point x="166" y="921" type="line"/>
+    </contour>
+    <contour>
+      <point x="0" y="624" type="curve" smooth="yes"/>
+      <point x="-52" y="624"/>
+      <point x="-94" y="652"/>
+      <point x="-123" y="735" type="curve"/>
+      <point x="-191" y="712" type="line"/>
+      <point x="-159" y="592"/>
+      <point x="-87" y="547"/>
+      <point x="0" y="547" type="curve" smooth="yes"/>
+      <point x="87" y="547"/>
+      <point x="159" y="592"/>
+      <point x="191" y="712" type="curve"/>
+      <point x="123" y="735" type="line"/>
+      <point x="94" y="653"/>
+      <point x="52" y="624"/>
+    </contour>
+  </outline>
+</glyph>

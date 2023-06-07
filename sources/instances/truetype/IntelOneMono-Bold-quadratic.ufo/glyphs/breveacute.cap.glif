@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="breveacute.cap" format="2">
+  <outline>
+    <contour>
+      <point x="-34" y="901" type="line"/>
+      <point x="-60" y="982" type="line"/>
+      <point x="193" y="1071" type="line"/>
+      <point x="224" y="974" type="line"/>
+    </contour>
+    <contour>
+      <point x="0" y="826" type="qcurve"/>
+      <point x="43" y="826"/>
+      <point x="100" y="865"/>
+      <point x="114" y="903" type="qcurve"/>
+      <point x="198" y="873" type="line"/>
+      <point x="180" y="805"/>
+      <point x="75" y="731"/>
+      <point x="0" y="731" type="qcurve"/>
+      <point x="-74" y="731"/>
+      <point x="-179" y="810"/>
+      <point x="-198" y="883" type="qcurve"/>
+      <point x="-114" y="913" type="line"/>
+      <point x="-98" y="869"/>
+      <point x="-42" y="826"/>
+    </contour>
+  </outline>
+</glyph>

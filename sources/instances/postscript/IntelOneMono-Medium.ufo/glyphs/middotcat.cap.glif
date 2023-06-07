@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="middotcat.cap" format="2">
+  <advance width="614"/>
+  <outline>
+    <contour>
+      <point x="238" y="282" type="curve" smooth="yes"/>
+      <point x="287" y="282"/>
+      <point x="317" y="314"/>
+      <point x="317" y="376" type="curve" smooth="yes"/>
+      <point x="317" y="437"/>
+      <point x="291" y="468"/>
+      <point x="238" y="468" type="curve" smooth="yes"/>
+      <point x="188" y="468"/>
+      <point x="160" y="433"/>
+      <point x="160" y="375" type="curve" smooth="yes"/>
+      <point x="160" y="314"/>
+      <point x="186" y="282"/>
+    </contour>
+  </outline>
+</glyph>

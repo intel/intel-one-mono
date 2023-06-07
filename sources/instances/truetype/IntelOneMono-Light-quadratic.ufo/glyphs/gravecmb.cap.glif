@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="gravecmb.cap" format="2">
+  <outline>
+    <contour>
+      <point x="-137" y="915" type="line"/>
+      <point x="79" y="764" type="line"/>
+      <point x="54" y="731" type="line"/>
+      <point x="-171" y="869" type="line"/>
+    </contour>
+  </outline>
+</glyph>

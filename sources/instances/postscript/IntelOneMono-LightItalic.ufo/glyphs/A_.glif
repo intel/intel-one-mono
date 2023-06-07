@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="A" format="2">
+  <advance width="614"/>
+  <unicode hex="0041"/>
+  <anchor x="424" y="691" name="aboveUC"/>
+  <anchor x="412" y="651" name="aboveUCx"/>
+  <anchor x="466" y="-10" name="belowogonek"/>
+  <anchor x="263" y="-30" name="below"/>
+  <anchor x="272" y="0" name="belowx"/>
+  <outline>
+    <contour>
+      <point x="47" y="0" type="line"/>
+      <point x="171" y="201" type="line"/>
+      <point x="432" y="201" type="line"/>
+      <point x="442" y="0" type="line"/>
+      <point x="502" y="0" type="line"/>
+      <point x="467" y="655" type="line"/>
+      <point x="393" y="655" type="line"/>
+      <point x="-20" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="202" y="252" type="line"/>
+      <point x="414" y="596" type="line"/>
+      <point x="430" y="252" type="line"/>
+    </contour>
+  </outline>
+</glyph>

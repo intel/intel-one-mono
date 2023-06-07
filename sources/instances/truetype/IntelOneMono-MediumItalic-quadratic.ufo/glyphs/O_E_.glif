@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="OE" format="2">
+  <advance width="614"/>
+  <unicode hex="0152"/>
+  <outline>
+    <contour>
+      <point x="514" y="0" type="line"/>
+      <point x="233" y="0" type="line"/>
+      <point x="133" y="0"/>
+      <point x="30" y="102"/>
+      <point x="30" y="200" type="qcurve"/>
+      <point x="30" y="289"/>
+      <point x="104" y="505"/>
+      <point x="157" y="558" type="qcurve"/>
+      <point x="209" y="610"/>
+      <point x="341" y="655"/>
+      <point x="444" y="655" type="qcurve"/>
+      <point x="702" y="655" type="line"/>
+      <point x="676" y="566" type="line"/>
+      <point x="496" y="566" type="line"/>
+      <point x="441" y="374" type="line"/>
+      <point x="602" y="374" type="line"/>
+      <point x="577" y="287" type="line"/>
+      <point x="416" y="287" type="line"/>
+      <point x="360" y="89" type="line"/>
+      <point x="540" y="89" type="line"/>
+    </contour>
+    <contour>
+      <point x="250" y="511" type="qcurve"/>
+      <point x="206" y="467"/>
+      <point x="138" y="269"/>
+      <point x="138" y="198" type="qcurve"/>
+      <point x="138" y="137"/>
+      <point x="190" y="84"/>
+      <point x="251" y="84" type="qcurve"/>
+      <point x="251" y="84" type="line"/>
+      <point x="391" y="570" type="line"/>
+      <point x="345" y="567"/>
+      <point x="278" y="539"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="brevecmb" format="2">
+  <unicode hex="0306"/>
+  <anchor x="77.94618365092157" y="502" name="_aboveLC"/>
+  <anchor x="69.34382207815733" y="472" name="_aboveLCx"/>
+  <outline>
+    <contour>
+      <point x="102.03279605466145" y="586.0" type="curve" smooth="yes"/>
+      <point x="36.032796054661446" y="586.0"/>
+      <point x="11.936338413807789" y="631.0"/>
+      <point x="6.3241316039297715" y="730.0" type="curve"/>
+      <point x="-35" y="720.0" type="line"/>
+      <point x="-35" y="589"/>
+      <point x="1" y="536"/>
+      <point x="97" y="536.0" type="curve" smooth="yes"/>
+      <point x="193" y="536.0"/>
+      <point x="253" y="589.0"/>
+      <point x="324" y="716.0" type="curve"/>
+      <point x="280.3241316039298" y="730.0" type="line"/>
+      <point x="217.9363384138078" y="631.0"/>
+      <point x="168.03279605466145" y="586.0"/>
+    </contour>
+  </outline>
+</glyph>

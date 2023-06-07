@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="acutecmb.cap" format="2">
+  <guideline x="268" y="885" angle="335.4781714112636" identifier="0rsWLzZF6m"/>
+  <anchor x="130" y="691" name="_aboveUC"/>
+  <anchor x="122" y="661" name="_aboveUCx"/>
+  <outline>
+    <contour>
+      <point x="52" y="805" type="line"/>
+      <point x="82" y="731" type="line"/>
+      <point x="359" y="837" type="line"/>
+      <point x="326" y="926" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dotbelowcmb" format="2">
+  <unicode hex="0323"/>
+  <anchor x="-78.03608850155828" y="-35" name="_below"/>
+  <anchor x="-69.43372692879404" y="-5" name="_belowx"/>
+  <outline>
+    <contour>
+      <point x="-200.0" y="-233.0"/>
+      <point x="-175.0" y="-247.0"/>
+      <point x="-130" y="-247" type="curve" smooth="yes"/>
+      <point x="-71.0" y="-247.0"/>
+      <point x="-34.0" y="-202.0"/>
+      <point x="-34" y="-150" type="curve" smooth="yes"/>
+      <point x="-34.0" y="-115.0"/>
+      <point x="-59" y="-96"/>
+      <point x="-104" y="-96" type="curve" smooth="yes"/>
+      <point x="-163" y="-96"/>
+      <point x="-200.0" y="-144.0"/>
+      <point x="-200" y="-194" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="u" format="2">
+  <advance width="614"/>
+  <unicode hex="0075"/>
+  <anchor x="314" y="502" name="aboveLC"/>
+  <anchor x="309" y="-35" name="below"/>
+  <anchor x="476" y="-10" name="belowogonek"/>
+  <anchor x="314" y="465" name="aboveLCx"/>
+  <outline>
+    <contour>
+      <point x="526" y="0" type="line"/>
+      <point x="526" y="471" type="line"/>
+      <point x="414" y="471" type="line"/>
+      <point x="414" y="187" type="line"/>
+      <point x="340" y="121"/>
+      <point x="298" y="96"/>
+      <point x="260" y="96" type="curve" smooth="yes"/>
+      <point x="215" y="96"/>
+      <point x="196" y="119"/>
+      <point x="196" y="166" type="curve" smooth="yes"/>
+      <point x="196" y="471" type="line"/>
+      <point x="84" y="471" type="line"/>
+      <point x="84" y="145" type="line" smooth="yes"/>
+      <point x="84" y="47"/>
+      <point x="128" y="-9"/>
+      <point x="223" y="-9" type="curve" smooth="yes"/>
+      <point x="285" y="-9"/>
+      <point x="338" y="18"/>
+      <point x="420" y="93" type="curve"/>
+      <point x="427" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

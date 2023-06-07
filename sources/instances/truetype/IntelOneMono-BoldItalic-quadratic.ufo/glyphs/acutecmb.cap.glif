@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="acutecmb.cap" format="2">
+  <outline>
+    <contour>
+      <point x="82" y="731" type="line"/>
+      <point x="52" y="805" type="line"/>
+      <point x="326" y="926" type="line"/>
+      <point x="359" y="837" type="line"/>
+    </contour>
+  </outline>
+</glyph>

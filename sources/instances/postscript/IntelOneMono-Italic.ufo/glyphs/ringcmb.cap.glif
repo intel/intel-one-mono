@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ringcmb.cap" format="2">
+  <anchor x="131" y="691" name="_aboveUC"/>
+  <anchor x="123" y="661" name="_aboveUCx"/>
+  <outline>
+    <contour>
+      <point x="163" y="731" type="curve" smooth="yes"/>
+      <point x="283" y="731"/>
+      <point x="337" y="797"/>
+      <point x="337" y="868" type="curve" smooth="yes"/>
+      <point x="337" y="932"/>
+      <point x="279" y="971"/>
+      <point x="192" y="971" type="curve" smooth="yes"/>
+      <point x="72" y="971"/>
+      <point x="18" y="904"/>
+      <point x="18" y="834" type="curve" smooth="yes"/>
+      <point x="18" y="770"/>
+      <point x="76" y="731"/>
+    </contour>
+    <contour>
+      <point x="172" y="786" type="curve" smooth="yes"/>
+      <point x="112" y="786"/>
+      <point x="82" y="805"/>
+      <point x="82" y="837" type="curve" smooth="yes"/>
+      <point x="82" y="877"/>
+      <point x="114" y="916"/>
+      <point x="182" y="916" type="curve" smooth="yes"/>
+      <point x="242" y="916"/>
+      <point x="272" y="897"/>
+      <point x="272" y="865" type="curve" smooth="yes"/>
+      <point x="272" y="825"/>
+      <point x="240" y="786"/>
+    </contour>
+  </outline>
+</glyph>

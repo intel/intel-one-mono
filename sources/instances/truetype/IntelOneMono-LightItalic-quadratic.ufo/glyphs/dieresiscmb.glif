@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dieresiscmb" format="2">
+  <unicode hex="0308"/>
+  <outline>
+    <contour>
+      <point x="44" y="620" type="qcurve"/>
+      <point x="44" y="592"/>
+      <point x="9" y="556"/>
+      <point x="-21" y="556" type="qcurve"/>
+      <point x="-43" y="556"/>
+      <point x="-66" y="574"/>
+      <point x="-66" y="591" type="qcurve"/>
+      <point x="-66" y="617"/>
+      <point x="-28" y="655"/>
+      <point x="-1" y="655" type="qcurve"/>
+      <point x="21" y="655"/>
+      <point x="44" y="637"/>
+    </contour>
+    <contour>
+      <point x="280" y="620" type="qcurve"/>
+      <point x="280" y="591"/>
+      <point x="244" y="556"/>
+      <point x="215" y="556" type="qcurve"/>
+      <point x="194" y="556"/>
+      <point x="171" y="574"/>
+      <point x="171" y="591" type="qcurve"/>
+      <point x="171" y="617"/>
+      <point x="209" y="655"/>
+      <point x="236" y="655" type="qcurve"/>
+      <point x="257" y="655"/>
+      <point x="280" y="636"/>
+    </contour>
+  </outline>
+</glyph>

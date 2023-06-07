@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="brevebelowcmb" format="2">
+  <unicode hex="032E"/>
+  <outline>
+    <contour>
+      <point x="-135" y="-183" type="qcurve"/>
+      <point x="-96" y="-183"/>
+      <point x="-24" y="-130"/>
+      <point x="9" y="-76" type="qcurve"/>
+      <point x="93" y="-112" type="line"/>
+      <point x="46" y="-196"/>
+      <point x="-69" y="-278"/>
+      <point x="-141" y="-278" type="qcurve"/>
+      <point x="-214" y="-278"/>
+      <point x="-300" y="-185"/>
+      <point x="-300" y="-100" type="qcurve"/>
+      <point x="-219" y="-76" type="line"/>
+      <point x="-216" y="-130"/>
+      <point x="-174" y="-183"/>
+    </contour>
+  </outline>
+</glyph>

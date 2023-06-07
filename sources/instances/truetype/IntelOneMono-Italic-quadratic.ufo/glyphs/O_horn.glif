@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ohorn" format="2">
+  <advance width="614"/>
+  <unicode hex="01A0"/>
+  <outline>
+    <contour>
+      <point x="82" y="358" type="qcurve"/>
+      <point x="122" y="495"/>
+      <point x="296" y="655"/>
+      <point x="406" y="655" type="qcurve"/>
+      <point x="524" y="655" type="line"/>
+      <point x="595" y="655"/>
+      <point x="654" y="697"/>
+      <point x="677" y="768" type="qcurve"/>
+      <point x="758" y="768" type="line"/>
+      <point x="731" y="671"/>
+      <point x="651" y="603"/>
+      <point x="560" y="603" type="qcurve"/>
+      <point x="556" y="603"/>
+      <point x="546" y="604"/>
+      <point x="535" y="605" type="qcurve"/>
+      <point x="532" y="601" type="line"/>
+      <point x="573" y="575"/>
+      <point x="611" y="498"/>
+      <point x="611" y="441" type="qcurve"/>
+      <point x="611" y="400"/>
+      <point x="600" y="326"/>
+      <point x="588" y="283" type="qcurve"/>
+      <point x="548" y="146"/>
+      <point x="373" y="-15"/>
+      <point x="263" y="-15" type="qcurve"/>
+      <point x="164" y="-15"/>
+      <point x="59" y="94"/>
+      <point x="59" y="196" type="qcurve"/>
+      <point x="59" y="238"/>
+      <point x="70" y="316"/>
+    </contour>
+    <contour>
+      <point x="148" y="195" type="qcurve"/>
+      <point x="148" y="128"/>
+      <point x="210" y="57"/>
+      <point x="268" y="57" type="qcurve"/>
+      <point x="344" y="57"/>
+      <point x="467" y="181"/>
+      <point x="498" y="289" type="qcurve"/>
+      <point x="510" y="331"/>
+      <point x="522" y="411"/>
+      <point x="522" y="447" type="qcurve"/>
+      <point x="522" y="513"/>
+      <point x="460" y="583"/>
+      <point x="401" y="583" type="qcurve"/>
+      <point x="325" y="583"/>
+      <point x="203" y="459"/>
+      <point x="172" y="352" type="qcurve"/>
+      <point x="160" y="311"/>
+      <point x="148" y="231"/>
+    </contour>
+  </outline>
+</glyph>

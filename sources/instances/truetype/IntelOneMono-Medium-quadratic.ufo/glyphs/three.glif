@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="three" format="2">
+  <advance width="614"/>
+  <unicode hex="0033"/>
+  <outline>
+    <contour>
+      <point x="367" y="561" type="line"/>
+      <point x="73" y="561" type="line"/>
+      <point x="73" y="655" type="line"/>
+      <point x="512" y="655" type="line"/>
+      <point x="512" y="581" type="line"/>
+      <point x="333" y="394" type="line"/>
+      <point x="333" y="392" type="line"/>
+      <point x="430" y="391"/>
+      <point x="542" y="294"/>
+      <point x="542" y="218" type="qcurve"/>
+      <point x="542" y="119"/>
+      <point x="379" y="9"/>
+      <point x="216" y="-2" type="qcurve"/>
+      <point x="94" y="-10" type="line"/>
+      <point x="84" y="92" type="line"/>
+      <point x="205" y="101" type="line"/>
+      <point x="320" y="109"/>
+      <point x="427" y="165"/>
+      <point x="427" y="218" type="qcurve"/>
+      <point x="427" y="262"/>
+      <point x="360" y="307"/>
+      <point x="295" y="307" type="qcurve"/>
+      <point x="273" y="307"/>
+      <point x="226" y="302"/>
+      <point x="198" y="297" type="qcurve"/>
+      <point x="175" y="354" type="line"/>
+      <point x="367" y="558" type="line"/>
+    </contour>
+  </outline>
+</glyph>

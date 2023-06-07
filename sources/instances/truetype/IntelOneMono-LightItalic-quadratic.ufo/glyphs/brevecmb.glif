@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="brevecmb" format="2">
+  <unicode hex="0306"/>
+  <outline>
+    <contour>
+      <point x="102" y="586" type="qcurve"/>
+      <point x="149" y="586"/>
+      <point x="231" y="652"/>
+      <point x="280" y="730" type="qcurve"/>
+      <point x="324" y="716" type="line"/>
+      <point x="268" y="617"/>
+      <point x="166" y="536"/>
+      <point x="97" y="536" type="qcurve"/>
+      <point x="26" y="536"/>
+      <point x="-35" y="621"/>
+      <point x="-35" y="720" type="qcurve"/>
+      <point x="6" y="730" type="line"/>
+      <point x="11" y="652"/>
+      <point x="55" y="586"/>
+    </contour>
+  </outline>
+</glyph>

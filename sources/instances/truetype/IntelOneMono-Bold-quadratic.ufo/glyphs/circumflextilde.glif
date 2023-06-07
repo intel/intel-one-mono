@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="circumflextilde" format="2">
+  <outline>
+    <contour>
+      <point x="-67" y="937" type="qcurve"/>
+      <point x="-50" y="937"/>
+      <point x="-17" y="922"/>
+      <point x="21" y="897" type="qcurve"/>
+      <point x="65" y="869"/>
+      <point x="80" y="861"/>
+      <point x="86" y="861" type="qcurve"/>
+      <point x="99" y="861"/>
+      <point x="122" y="899"/>
+      <point x="138" y="940" type="qcurve"/>
+      <point x="213" y="917" type="line"/>
+      <point x="185" y="836"/>
+      <point x="132" y="768"/>
+      <point x="98" y="768" type="qcurve"/>
+      <point x="81" y="768"/>
+      <point x="48" y="783"/>
+      <point x="10" y="808" type="qcurve"/>
+      <point x="-34" y="836"/>
+      <point x="-49" y="844"/>
+      <point x="-55" y="844" type="qcurve"/>
+      <point x="-68" y="844"/>
+      <point x="-91" y="806"/>
+      <point x="-107" y="765" type="qcurve"/>
+      <point x="-182" y="788" type="line"/>
+      <point x="-154" y="869"/>
+      <point x="-101" y="937"/>
+    </contour>
+    <contour>
+      <point x="-141" y="553" type="line"/>
+      <point x="-188" y="609" type="line"/>
+      <point x="-31" y="738" type="line"/>
+      <point x="31" y="738" type="line"/>
+      <point x="188" y="609" type="line"/>
+      <point x="141" y="553" type="line"/>
+      <point x="0" y="638" type="line"/>
+    </contour>
+  </outline>
+</glyph>

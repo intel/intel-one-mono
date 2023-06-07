@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="three.den" format="2">
+  <advance width="614"/>
+  <outline>
+    <contour>
+      <point x="194" y="316" type="line"/>
+      <point x="369" y="316" type="line"/>
+      <point x="369" y="314" type="line"/>
+      <point x="234" y="203" type="line"/>
+      <point x="237" y="170" type="line"/>
+      <point x="340" y="169"/>
+      <point x="358" y="156"/>
+      <point x="358" y="128" type="curve" smooth="yes"/>
+      <point x="358" y="98"/>
+      <point x="320" y="71"/>
+      <point x="206" y="63" type="curve" smooth="yes"/>
+      <point x="126" y="58" type="line"/>
+      <point x="114" y="-10" type="line"/>
+      <point x="197" y="-5" type="line" smooth="yes"/>
+      <point x="375" y="6"/>
+      <point x="441" y="57"/>
+      <point x="441" y="136" type="curve" smooth="yes"/>
+      <point x="441" y="184"/>
+      <point x="409" y="209"/>
+      <point x="340" y="219" type="curve"/>
+      <point x="340" y="221" type="line"/>
+      <point x="490" y="344" type="line"/>
+      <point x="490" y="380" type="line"/>
+      <point x="214" y="380" type="line"/>
+    </contour>
+  </outline>
+</glyph>

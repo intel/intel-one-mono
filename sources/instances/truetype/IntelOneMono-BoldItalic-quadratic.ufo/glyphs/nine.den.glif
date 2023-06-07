@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="nine.den" format="2">
+  <advance width="614"/>
+  <outline>
+    <contour>
+      <point x="138" y="1" type="line"/>
+      <point x="231" y="77" type="line"/>
+      <point x="246" y="89"/>
+      <point x="273" y="113"/>
+      <point x="287" y="126" type="qcurve"/>
+      <point x="220" y="145"/>
+      <point x="164" y="195"/>
+      <point x="164" y="240" type="qcurve"/>
+      <point x="164" y="304"/>
+      <point x="265" y="395"/>
+      <point x="341" y="395" type="qcurve"/>
+      <point x="405" y="395"/>
+      <point x="477" y="335"/>
+      <point x="477" y="283" type="qcurve"/>
+      <point x="477" y="228"/>
+      <point x="409" y="128"/>
+      <point x="326" y="58" type="qcurve"/>
+      <point x="257" y="0" type="line"/>
+      <point x="138" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="334" y="317" type="qcurve"/>
+      <point x="303" y="317"/>
+      <point x="262" y="275"/>
+      <point x="262" y="246" type="qcurve"/>
+      <point x="262" y="217"/>
+      <point x="296" y="184"/>
+      <point x="335" y="174" type="qcurve"/>
+      <point x="359" y="202"/>
+      <point x="382" y="249"/>
+      <point x="382" y="271" type="qcurve"/>
+      <point x="382" y="293"/>
+      <point x="357" y="317"/>
+    </contour>
+  </outline>
+</glyph>
