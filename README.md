@@ -12,7 +12,11 @@ Intel One Mono also covers a wide range of over 200 languages using the Latin sc
 
 ## Using the Fonts
 
-To install the fonts, please use the provided builds under [Releases](https://github.com/intel/intel-one-mono/releases). Refer to your software’s documentation for how to activate and use these fonts.
+To install the fonts, please use the provided builds under [Releases](https://github.com/intel/intel-one-mono/releases). Please refer to your software’s documentation for how to activate and use these fonts.
+
+### Activating the Fonts in Code Editors
+- VSCode - In Settings, search Font Family, then specify `IntelOne Mono`
+- Sublime Text - Go to Sublime Text -> Preferences -> Settings and set `font_face` to `IntelOne Mono`
 
 ### Font Formats
 - We recommend the .otf or .ttf format for desktop use.
@@ -24,10 +28,10 @@ We recommend using these fonts at 7 points and larger in print, 9 pixels and lar
 
 ### Available OpenType Features
 Outside of the default characters, there are a few extra features that are accessible in some applications, as well as via CSS:
-**Raised Colon:** there is an option for a raised colon, either applied contextually between numbers or activated generally. The contextual option is available via ss11 (Stylistic Set #11), or use ss12 (Stylistic Set #12) or salt (Stylistic Alternates) for the global switch.
-**Language Support:** ccmp and locl features ensure correct display across a wide range of languages. These are usually activated by default. We recommend setting the language tag/setting in your software to the desired language for best results.
-**Superior/superscript and inferior/subscript figures** are included via their Unicode codepoints, or you can produce them from the default figures via the sups (Superscript), subs (Subscript), and si (Scientific Inferior) features.
-**Fraction numerals** are similarly available via the numr (Numerator) and dnom (Denominator) features. A set of premade fractions is also available in the fonts.
+- **Raised Colon:** there is an option for a raised colon, either applied contextually between numbers or activated generally. The contextual option is available via ss11 (Stylistic Set #11), or use ss12 (Stylistic Set #12) or salt (Stylistic Alternates) for the global switch.
+- **Language Support:** ccmp and locl features ensure correct display across a wide range of languages. These are usually activated by default. We recommend setting the language tag/setting in your software to the desired language for best results.
+- **Superior/superscript and inferior/subscript figures** are included via their Unicode codepoints, or you can produce them from the default figures via the sups (Superscript), subs (Subscript), and si (Scientific Inferior) features.
+- **Fraction numerals** are similarly available via the numr (Numerator) and dnom (Denominator) features. A set of premade fractions is also available in the fonts.
 
 ## Viewing and Editing Sources
 
