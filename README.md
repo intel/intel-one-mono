@@ -15,8 +15,8 @@ Intel One Mono also covers a wide range of over 200 languages using the Latin sc
 To install the fonts, please use the provided builds under [Releases](https://github.com/intel/intel-one-mono/releases). Please refer to your software’s documentation for how to activate and use these fonts.
 
 ### Activating the Fonts in Code Editors
-- VSCode - In Settings, search Font Family, then specify `IntelOne Mono`
-- Sublime Text - Go to Sublime Text -> Preferences -> Settings and set `font_face` to `IntelOne Mono`
+- VSCode - In Settings, search Font Family, then specify `IntelOne Mono`.
+- Sublime Text - Go to Sublime Text -> Preferences -> Settings and set `font_face` to `IntelOne Mono`.
 
 ### Font Formats
 - We recommend the .otf or .ttf format for desktop use.
