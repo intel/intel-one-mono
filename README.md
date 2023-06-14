@@ -17,6 +17,7 @@ To install the fonts, please use the provided builds under [Releases](https://gi
 ### Activating the Fonts in Code Editors
 - VSCode - In Settings, search Font Family, then specify `IntelOne Mono`
 - Sublime Text - Go to Sublime Text -> Preferences -> Settings and set `font_face` to `IntelOne Mono`
+- IntelliJ Platform - Go to File -> Settings -> Editor -> Font and set Font to `IntelOne Mono`
 
 ### Font Formats
 - We recommend the .otf or .ttf format for desktop use.
