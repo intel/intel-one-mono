@@ -93,6 +93,7 @@
           <string>hyphen</string>
           <string>endash</string>
           <string>emdash</string>
+          <string>hyphen.calt</string>
           <string>periodcentered</string>
           <string>bullet</string>
           <string>underscore</string>
@@ -717,16 +718,12 @@
     <integer>0</integer>
     <key>com.typemytype.robofont.compileSettings.releaseMode</key>
     <integer>1</integer>
-    <key>com.typemytype.robofont.generateFeaturesWithFontTools</key>
-    <false/>
     <key>com.typemytype.robofont.italicSlantOffset</key>
     <integer>0</integer>
     <key>com.typemytype.robofont.segmentType</key>
     <string>curve</string>
     <key>com.typemytype.robofont.shouldAddPointsInSplineConversion</key>
     <integer>1</integer>
-    <key>com.typemytype.robofont.smartSets.uniqueKey</key>
-    <string>5338607504</string>
     <key>public.glyphOrder</key>
     <array>
       <string>.notdef</string>
@@ -2000,7 +1997,5 @@
       <key>zlinebelow</key>
       <string>uni1E95</string>
     </dict>
-    <key>public.skipExportGlyphs</key>
-    <array/>
   </dict>
 </plist>

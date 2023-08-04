@@ -3,24 +3,11 @@
   <advance width="614"/>
   <unicode hex="0060"/>
   <outline>
-    <component base="gravecmb" xOffset="307" identifier="component0"/>
+    <contour>
+      <point x="487" y="359" type="line"/>
+      <point x="354" y="359" type="line"/>
+      <point x="238" y="710" type="line"/>
+      <point x="444" y="710" type="line"/>
+    </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.7843,0.7843,0.7843,1</string>
-      <key>public.objectLibs</key>
-      <dict>
-        <key>component0</key>
-        <dict>
-          <key>public.truetype.roundOffsetToGrid</key>
-          <true/>
-          <key>public.truetype.useMyMetrics</key>
-          <false/>
-        </dict>
-      </dict>
-      <key>public.truetype.overlap</key>
-      <false/>
-    </dict>
-  </lib>
 </glyph>

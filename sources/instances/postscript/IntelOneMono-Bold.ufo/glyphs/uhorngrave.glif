@@ -6,10 +6,4 @@
     <component base="uhorn"/>
     <component base="gravecmb" xOffset="319" yOffset="-5"/>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.7843,0.7843,0.7843,1</string>
-    </dict>
-  </lib>
 </glyph>

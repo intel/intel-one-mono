@@ -2,11 +2,8 @@
 <glyph name="at" format="2">
   <advance width="614"/>
   <unicode hex="0040"/>
-  <guideline x="396.9711291987534" y="-28" angle="93.35444357690159" identifier="3whqXdGgid"/>
   <outline>
     <contour>
-      <point x="293" y="308"/>
-      <point x="326" y="394"/>
       <point x="361" y="429" type="curve" smooth="yes"/>
       <point x="390" y="458"/>
       <point x="426" y="469"/>
@@ -69,6 +66,8 @@
       <point x="323" y="175"/>
       <point x="293" y="194"/>
       <point x="293" y="249" type="curve" smooth="yes"/>
+      <point x="293" y="308"/>
+      <point x="326" y="394"/>
     </contour>
   </outline>
 </glyph>

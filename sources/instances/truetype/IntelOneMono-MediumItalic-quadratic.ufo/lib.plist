@@ -14,16 +14,12 @@
     <integer>1</integer>
     <key>com.typemytype.robofont.compileSettings.releaseMode</key>
     <integer>1</integer>
-    <key>com.typemytype.robofont.generateFeaturesWithFontTools</key>
-    <false/>
     <key>com.typemytype.robofont.italicSlantOffset</key>
     <integer>0</integer>
     <key>com.typemytype.robofont.segmentType</key>
     <string>curve</string>
     <key>com.typemytype.robofont.shouldAddPointsInSplineConversion</key>
     <integer>1</integer>
-    <key>com.typemytype.robofont.smartSets.uniqueKey</key>
-    <string>5928306640</string>
     <key>public.glyphOrder</key>
     <array>
       <string>.notdef</string>

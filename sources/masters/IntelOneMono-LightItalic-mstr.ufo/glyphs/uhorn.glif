@@ -7,7 +7,7 @@
   <anchor x="373" y="461" name="aboveLCx"/>
   <outline>
     <contour>
-      <point x="546" y="419" type="line" smooth="yes"/>
+      <point x="546" y="419" type="curve"/>
       <point x="655" y="419"/>
       <point x="699" y="441"/>
       <point x="737" y="572" type="curve"/>
@@ -16,7 +16,9 @@
       <point x="627" y="460"/>
       <point x="537" y="460" type="curve" smooth="yes"/>
       <point x="518" y="460" type="line"/>
-      <point x="516" y="419" type="line"/>
+      <point x="516" y="421" type="line"/>
+      <point x="526" y="420"/>
+      <point x="539" y="419"/>
     </contour>
     <contour>
       <point x="386" y="0" type="line"/>

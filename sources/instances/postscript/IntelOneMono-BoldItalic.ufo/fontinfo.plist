@@ -7,11 +7,11 @@
     <key>capHeight</key>
     <integer>655</integer>
     <key>copyright</key>
-    <string>(C) 2023 Intel Corporation</string>
+    <string>Copyright 2023 The Intel One Mono Project Authors (https://github.com/intel/intel-one-mono)</string>
     <key>descender</key>
     <integer>-260</integer>
     <key>familyName</key>
-    <string>IntelOne Mono</string>
+    <string>Intel One Mono</string>
     <key>guidelines</key>
     <array/>
     <key>italicAngle</key>
@@ -34,7 +34,7 @@
     <key>openTypeNameDesignerURL</key>
     <string>http://frerejones.com</string>
     <key>openTypeNameLicense</key>
-    <string>Licensed under the SIL Open Font License, Version 1.1</string>
+    <string>This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL</string>
     <key>openTypeNameLicenseURL</key>
     <string>https://github.com/intel/intel-one-mono/blob/main/license</string>
     <key>openTypeNameManufacturer</key>
@@ -42,7 +42,7 @@
     <key>openTypeNameManufacturerURL</key>
     <string>http://frerejones.com</string>
     <key>openTypeNamePreferredFamilyName</key>
-    <string>IntelOne Mono</string>
+    <string>Intel One Mono</string>
     <key>openTypeNamePreferredSubfamilyName</key>
     <string>Bold Italic</string>
     <key>openTypeNameRecords</key>
@@ -81,7 +81,7 @@
         <key>platformID</key>
         <integer>1</integer>
         <key>string</key>
-        <string>IntelOne Mono Bold</string>
+        <string>Intel One Mono</string>
       </dict>
       <dict>
         <key>encodingID</key>
@@ -93,7 +93,7 @@
         <key>platformID</key>
         <integer>3</integer>
         <key>string</key>
-        <string>IntelOne Mono Bold</string>
+        <string>Intel One Mono</string>
       </dict>
       <dict>
         <key>encodingID</key>
@@ -105,7 +105,7 @@
         <key>platformID</key>
         <integer>1</integer>
         <key>string</key>
-        <string>Italic</string>
+        <string>Bold Italic</string>
       </dict>
       <dict>
         <key>encodingID</key>
@@ -117,7 +117,7 @@
         <key>platformID</key>
         <integer>3</integer>
         <key>string</key>
-        <string>Italic</string>
+        <string>Bold Italic</string>
       </dict>
       <dict>
         <key>encodingID</key>
@@ -129,7 +129,7 @@
         <key>platformID</key>
         <integer>1</integer>
         <key>string</key>
-        <string>IntelOne Mono Bold Italic</string>
+        <string>Intel One Mono Bold Italic</string>
       </dict>
       <dict>
         <key>encodingID</key>
@@ -141,7 +141,7 @@
         <key>platformID</key>
         <integer>3</integer>
         <key>string</key>
-        <string>IntelOne Mono Bold Italic</string>
+        <string>Intel One Mono Bold Italic</string>
       </dict>
       <dict>
         <key>encodingID</key>
@@ -273,7 +273,7 @@
         <key>platformID</key>
         <integer>3</integer>
         <key>string</key>
-        <string>IntelOne Mono</string>
+        <string>Intel One Mono</string>
       </dict>
       <dict>
         <key>encodingID</key>
@@ -312,6 +312,7 @@
     </array>
     <key>openTypeOS2Selection</key>
     <array>
+      <integer>7</integer>
       <integer>8</integer>
     </array>
     <key>openTypeOS2StrikeoutPosition</key>
@@ -321,11 +322,11 @@
     <key>openTypeOS2Type</key>
     <array/>
     <key>openTypeOS2TypoAscender</key>
-    <integer>740</integer>
+    <integer>1090</integer>
     <key>openTypeOS2TypoDescender</key>
-    <integer>-260</integer>
+    <integer>-290</integer>
     <key>openTypeOS2TypoLineGap</key>
-    <integer>380</integer>
+    <integer>0</integer>
     <key>openTypeOS2UnicodeRanges</key>
     <array>
       <integer>0</integer>
@@ -370,7 +371,7 @@
     <key>postscriptForceBold</key>
     <false/>
     <key>postscriptFullName</key>
-    <string>IntelOne Mono Bold Italic</string>
+    <string>Intel One Mono Bold Italic</string>
     <key>postscriptIsFixedPitch</key>
     <true/>
     <key>postscriptOtherBlues</key>
@@ -391,9 +392,9 @@
     <key>postscriptUnderlineThickness</key>
     <integer>50</integer>
     <key>styleMapFamilyName</key>
-    <string>IntelOne Mono Bold</string>
+    <string>Intel One Mono</string>
     <key>styleMapStyleName</key>
-    <string>italic</string>
+    <string>bold italic</string>
     <key>styleName</key>
     <string>Bold Italic</string>
     <key>unitsPerEm</key>
@@ -401,7 +402,7 @@
     <key>versionMajor</key>
     <integer>1</integer>
     <key>versionMinor</key>
-    <integer>2</integer>
+    <integer>3</integer>
     <key>xHeight</key>
     <integer>477</integer>
   </dict>

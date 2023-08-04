@@ -1,7 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="middotcat.cap" format="2">
   <advance width="614"/>
-  <guideline x="114" y="416" angle="270.0" identifier="CgSf1NXqJn"/>
   <outline>
     <contour>
       <point x="231" y="288" type="curve" smooth="yes"/>

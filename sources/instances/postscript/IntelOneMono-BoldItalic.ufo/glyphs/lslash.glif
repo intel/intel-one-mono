@@ -6,7 +6,6 @@
     <contour>
       <point x="64" y="189" type="line"/>
       <point x="218" y="273" type="line"/>
-      <point x="218" y="273" type="line"/>
       <point x="196" y="210"/>
       <point x="186" y="167"/>
       <point x="186" y="132" type="curve" smooth="yes"/>

@@ -48,7 +48,6 @@
       <point x="419" y="328"/>
       <point x="417" y="321"/>
       <point x="409" y="297" type="curve"/>
-      <point x="409" y="297" type="line"/>
       <point x="279" y="289" type="line" smooth="yes"/>
       <point x="145" y="281"/>
       <point x="96" y="265"/>
