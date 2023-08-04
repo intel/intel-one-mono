@@ -29,6 +29,15 @@ languagesystem latn CAT;
 @figNum = [zero.num one.num two.num three.num four.num five.num six.num seven.num eight.num nine.num];
 @figDen = [zero.den one.den two.den three.den four.den five.den six.den seven.den eight.den nine.den];
 
+# Marks Above - no grave
+@deadMarks = [acute        hungarumlaut        circumflex        caron        breve        tilde        macron        dieresis        dotaccent        ring       ];
+@lcMarks =   [acutecmb     hungarumlautcmb     circumflexcmb     caroncmb     brevecmb     tildecmb     macroncmb     dieresiscmb     dotaccentcmb     ringcmb    ];
+@ucMarks =   [acutecmb.cap hungarumlautcmb.cap circumflexcmb.cap caroncmb.cap brevecmb.cap tildecmb.cap macroncmb.cap dieresiscmb.cap dotaccentcmb.cap ringcmb.cap];
+
+# Marks Below
+@deadbelowMarks = [uniA788            macronlowmod   cedilla    ogonek];
+@belowMarks =     [circumflexbelowcmb macronbelowcmb cedillacmb ogonekcmb];
+
 
 # ---------------
 # Localized Forms
@@ -65,6 +74,28 @@ feature ccmp {
         sub hlinebelow by h macronlowmod;
         sub jcaron by j caron;
     } Decomp;
+    
+    # Replace marks that follow a letter and another mark with their combining forms.
+        # grave is not included; we prioritize its use as a symbol for programming, which should not fuse with letters.
+    lookup DblMarks {
+        sub [@ltrLC] [@deadMarks @deadbelowMarks dotbelowcmb] [@deadMarks @deadbelowMarks]' by [@lcMarks @belowMarks];
+        sub [@ltrUC] [@deadMarks @deadbelowMarks dotbelowcmb] [@deadMarks @deadbelowMarks]' by [@ucMarks @belowMarks];
+        sub [@ltrUC] [@lcMarks @deadbelowMarks dotbelowcmb] [@lcMarks]' by [@ucMarks];
+    } DblMarks;
+    
+    # Replace marks that follow a letter with their combining forms.
+    lookup CmbMarks {
+        # grave is not included; we prioritize its use as a symbol for programming, which should not fuse with letters.
+        sub [@ltrLC] [@deadMarks @deadbelowMarks]' by [@lcMarks @belowMarks];
+        sub [@ltrUC] [@deadMarks @deadbelowMarks]' by [@ucMarks @belowMarks];
+        sub [@ltrUC] [@lcMarks]' by [@ucMarks];
+    } CmbMarks;
+    
+    # Replace letters with dotless counterparts when followed by a combining mark.
+    lookup Dotless {
+        sub [i j]' [@belowMarks dotbelowcmb] [@lcMarks] by [dotlessi dotlessj];
+        sub [i j]' [@lcMarks] by [dotlessi dotlessj];
+    } Dotless;
     
     # Replace e ogonek with eogonek.
     lookup eogonek {
@@ -143,7 +174,6 @@ feature ss12 {
 feature salt {
     lookup FigureColon; # SS12
 } salt;
-
 
 
 # --------------

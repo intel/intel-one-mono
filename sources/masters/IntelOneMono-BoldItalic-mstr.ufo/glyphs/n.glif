@@ -7,12 +7,12 @@
   <anchor x="243" y="0" name="belowx"/>
   <outline>
     <contour>
-      <point x="272.7775490069514" y="477.0" type="line"/>
-      <point x="146.77754900695138" y="477.0" type="line"/>
-      <point x="10.0" y="0.0" type="line"/>
-      <point x="155.0" y="0.0" type="line"/>
-      <point x="250.48621345768305" y="333.0" type="line"/>
-      <point x="245.48621345768305" y="333.0" type="line"/>
+      <point x="273" y="477" type="line"/>
+      <point x="147" y="477" type="line"/>
+      <point x="10" y="0" type="line"/>
+      <point x="155" y="0" type="line"/>
+      <point x="250" y="333" type="line"/>
+      <point x="245" y="333" type="line"/>
     </contour>
     <contour>
       <point x="206" y="232" type="line"/>

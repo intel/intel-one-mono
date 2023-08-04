@@ -6,10 +6,4 @@
     <component base="dotlessi"/>
     <component base="brevecmb" xOffset="321"/>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.7843,0.7843,0.7843,1</string>
-    </dict>
-  </lib>
 </glyph>

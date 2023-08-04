@@ -6,10 +6,4 @@
     <component base="z"/>
     <component base="acutecmb" xOffset="299"/>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.7843,0.7843,0.7843,1</string>
-    </dict>
-  </lib>
 </glyph>

@@ -2,7 +2,6 @@
 <glyph name="asterisk" format="2">
   <advance width="614"/>
   <unicode hex="002A"/>
-  <guideline x="294" y="359" angle="180.0" identifier="YkQCsAMSsB"/>
   <outline>
     <contour>
       <point x="111" y="225" type="curve"/>
