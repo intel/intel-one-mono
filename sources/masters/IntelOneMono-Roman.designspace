@@ -30,7 +30,7 @@
     </rule>
   </rules>
   <sources>
-    <source filename="IntelOneMono-Light-mstr.ufo" familyname="IntelOne Mono" stylename="Light">
+    <source filename="IntelOneMono-Light-mstr.ufo" familyname="Intel One Mono" stylename="Light">
       <lib copy="1"/>
       <groups copy="1"/>
       <features copy="1"/>
@@ -39,35 +39,35 @@
         <dimension name="weight" xvalue="60"/>
       </location>
     </source>
-    <source filename="IntelOneMono-Bold-mstr.ufo" familyname="IntelOne Mono" stylename="Bold">
+    <source filename="IntelOneMono-Bold-mstr.ufo" familyname="Intel One Mono" stylename="Bold">
       <location>
         <dimension name="weight" xvalue="144"/>
       </location>
     </source>
   </sources>
   <instances>
-    <instance familyname="IntelOne Mono" stylename="Light" filename="instances/IntelOneMono-Light.ufo">
+    <instance familyname="Intel One Mono" stylename="Light" filename="instances/IntelOneMono-Light.ufo">
       <location>
         <dimension name="weight" xvalue="60"/>
       </location>
       <kerning/>
       <info/>
     </instance>
-    <instance familyname="IntelOne Mono" stylename="Regular" filename="instances/IntelOneMono-Regular.ufo">
+    <instance familyname="Intel One Mono" stylename="Regular" filename="instances/IntelOneMono-Regular.ufo">
       <location>
         <dimension name="weight" xvalue="86"/>
       </location>
       <kerning/>
       <info/>
     </instance>
-    <instance familyname="IntelOne Mono" stylename="Medium" filename="instances/IntelOneMono-Medium.ufo">
+    <instance familyname="Intel One Mono" stylename="Medium" filename="instances/IntelOneMono-Medium.ufo">
       <location>
         <dimension name="weight" xvalue="112"/>
       </location>
       <kerning/>
       <info/>
     </instance>
-    <instance familyname="IntelOne Mono" stylename="Bold" filename="instances/IntelOneMono-Bold.ufo">
+    <instance familyname="Intel One Mono" stylename="Bold" filename="instances/IntelOneMono-Bold.ufo">
       <location>
         <dimension name="weight" xvalue="144"/>
       </location>
