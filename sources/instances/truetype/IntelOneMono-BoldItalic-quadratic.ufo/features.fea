@@ -29,13 +29,11 @@ languagesystem latn CAT;
 @figNum = [zero.num one.num two.num three.num four.num five.num six.num seven.num eight.num nine.num];
 @figDen = [zero.den one.den two.den three.den four.den five.den six.den seven.den eight.den nine.den];
 
-# Marks Above - no grave
-@deadMarks = [acute        hungarumlaut        circumflex        caron        breve        tilde        macron        dieresis        dotaccent        ring       ];
-@lcMarks =   [acutecmb     hungarumlautcmb     circumflexcmb     caroncmb     brevecmb     tildecmb     macroncmb     dieresiscmb     dotaccentcmb     ringcmb    ];
-@ucMarks =   [acutecmb.cap hungarumlautcmb.cap circumflexcmb.cap caroncmb.cap brevecmb.cap tildecmb.cap macroncmb.cap dieresiscmb.cap dotaccentcmb.cap ringcmb.cap];
+# Marks Above
+@lcMarks =   [acutecmb     gravecmb     hungarumlautcmb     circumflexcmb     caroncmb     brevecmb     tildecmb     macroncmb     dieresiscmb     dotaccentcmb     ringcmb    ];
+@ucMarks =   [acutecmb.cap gravecmb.cap hungarumlautcmb.cap circumflexcmb.cap caroncmb.cap brevecmb.cap tildecmb.cap macroncmb.cap dieresiscmb.cap dotaccentcmb.cap ringcmb.cap];
 
 # Marks Below
-@deadbelowMarks = [uniA788            macronlowmod   cedilla    ogonek];
 @belowMarks =     [circumflexbelowcmb macronbelowcmb cedillacmb ogonekcmb];
 
 
@@ -69,35 +67,54 @@ feature locl {
 
 feature ccmp {
     
-    # Decompose unicode lowercase characters whose capital counterparts have no unicode.
+    # Decompose unicode lowercase characters whose uppercase counterparts have no unicode.
     lookup Decomp {
         sub hlinebelow by h macronlowmod;
         sub jcaron by j caron;
     } Decomp;
     
-    # Replace marks that follow a letter and another mark with their combining forms.
-        # grave is not included; we prioritize its use as a symbol for programming, which should not fuse with letters.
+    # Replace double above accents by combined drawings.
     lookup DblMarks {
-        sub [@ltrLC] [@deadMarks @deadbelowMarks dotbelowcmb] [@deadMarks @deadbelowMarks]' by [@lcMarks @belowMarks];
-        sub [@ltrUC] [@deadMarks @deadbelowMarks dotbelowcmb] [@deadMarks @deadbelowMarks]' by [@ucMarks @belowMarks];
-        sub [@ltrUC] [@lcMarks @deadbelowMarks dotbelowcmb] [@lcMarks]' by [@ucMarks];
+        sub dieresiscmb acutecmb by dieresisacute;
+        sub dieresiscmb gravecmb by dieresisgrave;
+        sub dieresiscmb caroncmb by dieresiscaron;
+        sub dieresiscmb macroncmb by dieresismacron;
+        sub brevecmb acutecmb by breveacute;
+        sub brevecmb gravecmb by brevegrave;
+        sub brevecmb hookcmb by brevehook;
+        sub brevecmb tildecmb by brevetilde;
+        sub circumflexcmb acutecmb by circumflexacute;
+        sub circumflexcmb gravecmb by circumflexgrave;
+        sub circumflexcmb hookcmb by circumflexhook;
+        sub circumflexcmb tildecmb by circumflextilde;
+        # capital forms
+        sub dieresiscmb.cap acutecmb.cap by dieresisacute.cap;
+        sub dieresiscmb.cap gravecmb.cap by dieresisgrave.cap;
+        sub dieresiscmb.cap caroncmb.cap by dieresiscaron.cap;
+        sub dieresiscmb.cap macroncmb.cap by dieresismacron.cap;
+        sub brevecmb.cap acutecmb.cap by breveacute.cap;
+        sub brevecmb.cap gravecmb.cap by brevegrave.cap;
+        sub brevecmb.cap hookcmb.cap by brevehook.cap;
+        sub brevecmb.cap tildecmb.cap by brevetilde.cap;
+        sub circumflexcmb.cap acutecmb.cap by circumflexacute.cap;
+        sub circumflexcmb.cap gravecmb.cap by circumflexgrave.cap;
+        sub circumflexcmb.cap hookcmb.cap by circumflexhook.cap;
+        sub circumflexcmb.cap tildecmb.cap by circumflextilde.cap;
     } DblMarks;
-    
-    # Replace marks that follow a letter with their combining forms.
-    lookup CmbMarks {
-        # grave is not included; we prioritize its use as a symbol for programming, which should not fuse with letters.
-        sub [@ltrLC] [@deadMarks @deadbelowMarks]' by [@lcMarks @belowMarks];
-        sub [@ltrUC] [@deadMarks @deadbelowMarks]' by [@ucMarks @belowMarks];
+
+    # Replace combining marks that follow a uppercase letter by their uppercase form
+    lookup CapitalMarks {
+        sub [@ltrUC] [@lcMarks @belowMarks dotbelowcmb] [@lcMarks]' by [@ucMarks];
         sub [@ltrUC] [@lcMarks]' by [@ucMarks];
-    } CmbMarks;
+    } CapitalMarks;
     
-    # Replace letters with dotless counterparts when followed by a combining mark.
+    # Replace letters with dotless counterparts when followed by a combining mark
     lookup Dotless {
         sub [i j]' [@belowMarks dotbelowcmb] [@lcMarks] by [dotlessi dotlessj];
         sub [i j]' [@lcMarks] by [dotlessi dotlessj];
     } Dotless;
     
-    # Replace e ogonek with eogonek.
+    # Replace e ogonek with pre-drawn eogonek
     lookup eogonek {
         sub e ogonekcmb by eogonek;
     } eogonek;
@@ -142,6 +159,22 @@ feature sinf {
 } sinf;
 
 
+# ---------------------
+# Contextual Alternates
+# ---------------------
+
+feature calt {
+    # shifts colon to align with math symbols when used together
+
+    sub colon' [plus equal greater less hyphen] by colon.fig;
+    sub [plus equal less greater hyphen] colon' by colon.fig;
+
+    sub colon' [colon colon.fig] by colon.fig;
+    sub colon.fig colon' by colon.fig;
+
+} calt;
+
+
 # --------------
 # Stylistic Sets
 # --------------
@@ -174,103 +207,6 @@ feature ss12 {
 feature salt {
     lookup FigureColon; # SS12
 } salt;
-
-
-# ---------------------------------------------------------------------
-# MARK | Generated: November 23, 2022 - 02:37:46 PM by 'markFeature.py'
-# ---------------------------------------------------------------------
-
-markClass [acutecmb caroncmb circumflexcmb dieresiscmb dotaccentcmb gravecmb macroncmb tildecmb] <anchor 76 502> @mark_aboveLC;
-markClass [acutecmb.cap caroncmb.cap circumflexcmb.cap dieresiscmb.cap dotaccentcmb.cap gravecmb.cap macroncmb.cap tildecmb.cap] <anchor 130 691> @mark_aboveUC;
-markClass [dieresisbelowcmb dotbelowcmb macronbelowcmb] <anchor -78 -35> @mark_below;
-markClass [cedillacmb] <anchor -71 -10> @mark_belowcedilla;
-markClass [ogonekcmb] <anchor -71 -10> @mark_belowogonek;
-
-feature mark {
-
-    lookup aboveLC{
-        pos base [a] <anchor 372 507> mark @mark_aboveLC;
-        pos base [c] <anchor 389 507> mark @mark_aboveLC;
-        pos base [dotlessi] <anchor 388 502> mark @mark_aboveLC;
-        pos base [dotlessj] <anchor 476 502> mark @mark_aboveLC;
-        pos base [e] <anchor 395 507> mark @mark_aboveLC;
-        pos base [eogonek] <anchor 395 507> mark @mark_aboveLC;
-        pos base [g] <anchor 400 507> mark @mark_aboveLC;
-        pos base [m] <anchor 382 502> mark @mark_aboveLC;
-        pos base [n] <anchor 384 502> mark @mark_aboveLC;
-        pos base [o] <anchor 370 507> mark @mark_aboveLC;
-        pos base [p] <anchor 394 502> mark @mark_aboveLC;
-        pos base [s] <anchor 388 507> mark @mark_aboveLC;
-        pos base [u] <anchor 386 502> mark @mark_aboveLC;
-        pos base [z] <anchor 364 502> mark @mark_aboveLC;
-    } aboveLC;
-
-    lookup aboveUC{
-        pos base [A] <anchor 427 691> mark @mark_aboveUC;
-        pos base [C] <anchor 472 696> mark @mark_aboveUC;
-        pos base [E] <anchor 443 691> mark @mark_aboveUC;
-        pos base [Eogonek] <anchor 443 691> mark @mark_aboveUC;
-        pos base [G] <anchor 460 691> mark @mark_aboveUC;
-        pos base [I] <anchor 437 691> mark @mark_aboveUC;
-        pos base [J] <anchor 599 691> mark @mark_aboveUC;
-        pos base [M] <anchor 436 691> mark @mark_aboveUC;
-        pos base [N] <anchor 440 691> mark @mark_aboveUC;
-        pos base [O] <anchor 440 696> mark @mark_aboveUC;
-        pos base [P] <anchor 452 691> mark @mark_aboveUC;
-        pos base [S] <anchor 452 696> mark @mark_aboveUC;
-        pos base [U] <anchor 436 691> mark @mark_aboveUC;
-        pos base [Z] <anchor 422 691> mark @mark_aboveUC;
-    } aboveUC;
-
-    lookup below{
-        pos base [C] <anchor 275 -40> mark @mark_below;
-        pos base [Dcroat] <anchor 303 -35> mark @mark_below;
-        pos base [E] <anchor 246 -35> mark @mark_below;
-        pos base [H] <anchor 229 -35> mark @mark_below;
-        pos base [I] <anchor 228 -35> mark @mark_below;
-        pos base [O] <anchor 243 -40> mark @mark_below;
-        pos base [S] <anchor 271 -40> mark @mark_below;
-        pos base [U] <anchor 228 -40> mark @mark_below;
-        pos base [X] <anchor 230 -35> mark @mark_below;
-        pos base [Z] <anchor 239 -35> mark @mark_below;
-        pos base [c] <anchor 232 -35> mark @mark_below;
-        pos base [dcroat] <anchor 254 -30> mark @mark_below;
-        pos base [dotlessi] <anchor 235 -35> mark @mark_below;
-        pos base [e] <anchor 240 -40> mark @mark_below;
-        pos base [h] <anchor 240 -35> mark @mark_below;
-        pos base [o] <anchor 242 -40> mark @mark_below;
-        pos base [s] <anchor 222 -40> mark @mark_below;
-        pos base [u] <anchor 239 -35> mark @mark_below;
-        pos base [x] <anchor 227 -35> mark @mark_below;
-        pos base [z] <anchor 237 -35> mark @mark_below;
-    } below;
-
-    lookup belowcedilla{
-        pos base [Z] <anchor 246 -10> mark @mark_belowcedilla;
-        pos base [z] <anchor 244 -10> mark @mark_belowcedilla;
-    } belowcedilla;
-
-    lookup belowogonek{
-        pos base [A] <anchor 443 -10> mark @mark_belowogonek;
-        pos base [E] <anchor 396 -10> mark @mark_belowogonek;
-        pos base [I] <anchor 235 -10> mark @mark_belowogonek;
-        pos base [O] <anchor 248 -15> mark @mark_belowogonek;
-        pos base [U] <anchor 238 -15> mark @mark_belowogonek;
-        pos base [a] <anchor 391 -10> mark @mark_belowogonek;
-        pos base [dotlessi] <anchor 242 -9> mark @mark_belowogonek;
-        pos base [e] <anchor 339 -10> mark @mark_belowogonek;
-        pos base [o] <anchor 245 -15> mark @mark_belowogonek;
-        pos base [u] <anchor 401 -10> mark @mark_belowogonek;
-    } belowogonek;
-
-} mark;
-
-@BASES = [A C Dcroat E Eogonek G H I J M N O P S U X Z a c dcroat dotlessi dotlessj e eogonek g h m n o p s u x z];
-@MARKS = [@mark_aboveLC @mark_aboveUC @mark_below @mark_belowcedilla @mark_belowogonek];
-
-table GDEF {
-    GlyphClassDef @BASES,,@MARKS,;
-} GDEF;
 
 
 # --------------

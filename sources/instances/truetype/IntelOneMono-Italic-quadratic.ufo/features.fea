@@ -29,13 +29,11 @@ languagesystem latn CAT;
 @figNum = [zero.num one.num two.num three.num four.num five.num six.num seven.num eight.num nine.num];
 @figDen = [zero.den one.den two.den three.den four.den five.den six.den seven.den eight.den nine.den];
 
-# Marks Above - no grave
-@deadMarks = [acute        hungarumlaut        circumflex        caron        breve        tilde        macron        dieresis        dotaccent        ring       ];
-@lcMarks =   [acutecmb     hungarumlautcmb     circumflexcmb     caroncmb     brevecmb     tildecmb     macroncmb     dieresiscmb     dotaccentcmb     ringcmb    ];
-@ucMarks =   [acutecmb.cap hungarumlautcmb.cap circumflexcmb.cap caroncmb.cap brevecmb.cap tildecmb.cap macroncmb.cap dieresiscmb.cap dotaccentcmb.cap ringcmb.cap];
+# Marks Above
+@lcMarks =   [acutecmb     gravecmb     hungarumlautcmb     circumflexcmb     caroncmb     brevecmb     tildecmb     macroncmb     dieresiscmb     dotaccentcmb     ringcmb    ];
+@ucMarks =   [acutecmb.cap gravecmb.cap hungarumlautcmb.cap circumflexcmb.cap caroncmb.cap brevecmb.cap tildecmb.cap macroncmb.cap dieresiscmb.cap dotaccentcmb.cap ringcmb.cap];
 
 # Marks Below
-@deadbelowMarks = [uniA788            macronlowmod   cedilla    ogonek];
 @belowMarks =     [circumflexbelowcmb macronbelowcmb cedillacmb ogonekcmb];
 
 
@@ -69,35 +67,54 @@ feature locl {
 
 feature ccmp {
     
-    # Decompose unicode lowercase characters whose capital counterparts have no unicode.
+    # Decompose unicode lowercase characters whose uppercase counterparts have no unicode.
     lookup Decomp {
         sub hlinebelow by h macronlowmod;
         sub jcaron by j caron;
     } Decomp;
     
-    # Replace marks that follow a letter and another mark with their combining forms.
-        # grave is not included; we prioritize its use as a symbol for programming, which should not fuse with letters.
+    # Replace double above accents by combined drawings.
     lookup DblMarks {
-        sub [@ltrLC] [@deadMarks @deadbelowMarks dotbelowcmb] [@deadMarks @deadbelowMarks]' by [@lcMarks @belowMarks];
-        sub [@ltrUC] [@deadMarks @deadbelowMarks dotbelowcmb] [@deadMarks @deadbelowMarks]' by [@ucMarks @belowMarks];
-        sub [@ltrUC] [@lcMarks @deadbelowMarks dotbelowcmb] [@lcMarks]' by [@ucMarks];
+        sub dieresiscmb acutecmb by dieresisacute;
+        sub dieresiscmb gravecmb by dieresisgrave;
+        sub dieresiscmb caroncmb by dieresiscaron;
+        sub dieresiscmb macroncmb by dieresismacron;
+        sub brevecmb acutecmb by breveacute;
+        sub brevecmb gravecmb by brevegrave;
+        sub brevecmb hookcmb by brevehook;
+        sub brevecmb tildecmb by brevetilde;
+        sub circumflexcmb acutecmb by circumflexacute;
+        sub circumflexcmb gravecmb by circumflexgrave;
+        sub circumflexcmb hookcmb by circumflexhook;
+        sub circumflexcmb tildecmb by circumflextilde;
+        # capital forms
+        sub dieresiscmb.cap acutecmb.cap by dieresisacute.cap;
+        sub dieresiscmb.cap gravecmb.cap by dieresisgrave.cap;
+        sub dieresiscmb.cap caroncmb.cap by dieresiscaron.cap;
+        sub dieresiscmb.cap macroncmb.cap by dieresismacron.cap;
+        sub brevecmb.cap acutecmb.cap by breveacute.cap;
+        sub brevecmb.cap gravecmb.cap by brevegrave.cap;
+        sub brevecmb.cap hookcmb.cap by brevehook.cap;
+        sub brevecmb.cap tildecmb.cap by brevetilde.cap;
+        sub circumflexcmb.cap acutecmb.cap by circumflexacute.cap;
+        sub circumflexcmb.cap gravecmb.cap by circumflexgrave.cap;
+        sub circumflexcmb.cap hookcmb.cap by circumflexhook.cap;
+        sub circumflexcmb.cap tildecmb.cap by circumflextilde.cap;
     } DblMarks;
-    
-    # Replace marks that follow a letter with their combining forms.
-    lookup CmbMarks {
-        # grave is not included; we prioritize its use as a symbol for programming, which should not fuse with letters.
-        sub [@ltrLC] [@deadMarks @deadbelowMarks]' by [@lcMarks @belowMarks];
-        sub [@ltrUC] [@deadMarks @deadbelowMarks]' by [@ucMarks @belowMarks];
+
+    # Replace combining marks that follow a uppercase letter by their uppercase form
+    lookup CapitalMarks {
+        sub [@ltrUC] [@lcMarks @belowMarks dotbelowcmb] [@lcMarks]' by [@ucMarks];
         sub [@ltrUC] [@lcMarks]' by [@ucMarks];
-    } CmbMarks;
+    } CapitalMarks;
     
-    # Replace letters with dotless counterparts when followed by a combining mark.
+    # Replace letters with dotless counterparts when followed by a combining mark
     lookup Dotless {
         sub [i j]' [@belowMarks dotbelowcmb] [@lcMarks] by [dotlessi dotlessj];
         sub [i j]' [@lcMarks] by [dotlessi dotlessj];
     } Dotless;
     
-    # Replace e ogonek with eogonek.
+    # Replace e ogonek with pre-drawn eogonek
     lookup eogonek {
         sub e ogonekcmb by eogonek;
     } eogonek;
@@ -140,6 +157,22 @@ feature subs {
 feature sinf {
     sub @fig by @figInf;
 } sinf;
+
+
+# ---------------------
+# Contextual Alternates
+# ---------------------
+
+feature calt {
+    # shifts colon to align with math symbols when used together
+
+    sub colon' [plus equal greater less hyphen] by colon.fig;
+    sub [plus equal less greater hyphen] colon' by colon.fig;
+
+    sub colon' [colon colon.fig] by colon.fig;
+    sub colon.fig colon' by colon.fig;
+
+} calt;
 
 
 # --------------

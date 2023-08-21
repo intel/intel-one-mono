@@ -1,12 +1,18 @@
-Release Notes / IntelOne Mono
-2023-05-01
+Release Notes / Intel One Mono
+2023-08-18
 
 
 Family name
-	IntelOne Mono
+	Intel One Mono
 
 Version number
-	1.2 (2023-05-01) - edits to OpenType features
+	1.3 Updated font naming (“Intel One Mono”) - will require relinking
+		Improved linking of Regular and Bold weights
+		Improved alignment between hyphen, colon, and operators
+		Updated art for backtick/grave
+		Edited mark/ccmp features for language support
+		Edits to meta info and licensing text
+
 
 Supported scripts
 	Latin (full glyph complement supporting over 200 languages)
@@ -47,6 +53,7 @@ Available OpenType features
 	salt 	Stylistic Alternates
 	locl 	Localizations
 	ccmp	Glyph Composition/Decomposition Rules
+	mark 	Mark Attachment
 	numr 	Numerator
 	dnom	Denominator
 	sups	Superscript

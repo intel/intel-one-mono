@@ -30,7 +30,7 @@
     </rule>
   </rules>
   <sources>
-    <source filename="IntelOneMono-LightItalic-mstr.ufo" familyname="IntelOne Mono" stylename="Light Italic">
+    <source filename="IntelOneMono-LightItalic-mstr.ufo" familyname="Intel One Mono" stylename="Light Italic">
       <lib copy="1"/>
       <groups copy="1"/>
       <features copy="1"/>
@@ -39,35 +39,35 @@
         <dimension name="weight" xvalue="60"/>
       </location>
     </source>
-    <source filename="IntelOneMono-BoldItalic-mstr.ufo" familyname="IntelOne Mono" stylename="Bold Italic">
+    <source filename="IntelOneMono-BoldItalic-mstr.ufo" familyname="Intel One Mono" stylename="Bold Italic">
       <location>
         <dimension name="weight" xvalue="144"/>
       </location>
     </source>
   </sources>
   <instances>
-    <instance familyname="IntelOne Mono" stylename="Light Italic" filename="instances/IntelOneMono-LightItalic.ufo">
+    <instance familyname="Intel One Mono" stylename="Light Italic" filename="instances/IntelOneMono-LightItalic.ufo">
       <location>
         <dimension name="weight" xvalue="60"/>
       </location>
       <kerning/>
       <info/>
     </instance>
-    <instance familyname="IntelOne Mono" stylename="Italic" filename="instances/IntelOneMono-Italic.ufo">
+    <instance familyname="Intel One Mono" stylename="Italic" filename="instances/IntelOneMono-Italic.ufo">
       <location>
         <dimension name="weight" xvalue="86"/>
       </location>
       <kerning/>
       <info/>
     </instance>
-    <instance familyname="IntelOne Mono" stylename="Medium Italic" filename="instances/IntelOneMono-MediumItalic.ufo">
+    <instance familyname="Intel One Mono" stylename="Medium Italic" filename="instances/IntelOneMono-MediumItalic.ufo">
       <location>
         <dimension name="weight" xvalue="112"/>
       </location>
       <kerning/>
       <info/>
     </instance>
-    <instance familyname="IntelOne Mono" stylename="Bold Italic" filename="instances/IntelOneMono-BoldItalic.ufo">
+    <instance familyname="Intel One Mono" stylename="Bold Italic" filename="instances/IntelOneMono-BoldItalic.ufo">
       <location>
         <dimension name="weight" xvalue="144"/>
       </location>
