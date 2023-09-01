@@ -23534,7 +23534,7 @@
 
     <TTGlyph name="uacute" xMin="38" yMin="-11" xMax="608" yMax="747">
       <component glyphName="u" x="0" y="0" flags="0x204"/>
-      <component glyphName="acutecmb" x="305" y="-9" flags="0x4"/>
+      <component glyphName="acutecmb" x="309" y="-5" flags="0x4"/>
       <instructions>
         <assembly>
           PUSHB[ ]	/* 7 values pushed */
@@ -23674,7 +23674,7 @@
 
     <TTGlyph name="ugrave" xMin="38" yMin="-11" xMax="605" yMax="745">
       <component glyphName="u" x="0" y="0" flags="0x204"/>
-      <component glyphName="gravecmb" x="305" y="-9" flags="0x4"/>
+      <component glyphName="gravecmb" x="309" y="-5" flags="0x4"/>
       <instructions>
         <assembly>
           PUSHB[ ]	/* 7 values pushed */
@@ -34760,7 +34760,7 @@ IUP[X]
 
 USEMYMETRICS[]
 OFFSET[R], 47, 0, 0
-OFFSET[R], 626, 305, -9
+OFFSET[R], 626, 309, -5
 SVTCA[Y]
 CALL[], 26, 24, 1, 1, 67, 86
 SHC[2], 1
@@ -34900,7 +34900,7 @@ OFFSET[R], 644, 317, 0
 
 USEMYMETRICS[]
 OFFSET[R], 47, 0, 0
-OFFSET[R], 628, 305, -9
+OFFSET[R], 628, 309, -5
 SVTCA[Y]
 CALL[], 28, 24, 1, 1, 67, 86
 SHC[2], 1

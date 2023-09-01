@@ -11349,7 +11349,7 @@
 
     <TTGlyph name="Wcircumflex" xMin="58" yMin="0" xMax="693" yMax="920">
       <component glyphName="W" x="0" y="0" flags="0x204"/>
-      <component glyphName="circumflexcmb.cap" x="307" y="0" flags="0x4"/>
+      <component glyphName="circumflexcmb.cap" x="306" y="0" flags="0x4"/>
       <instructions>
         <assembly>
           PUSHB[ ]	/* 7 values pushed */
@@ -28404,7 +28404,7 @@ SHC[2], 1
 
 USEMYMETRICS[]
 OFFSET[R], 23, 0, 0
-OFFSET[R], 663, 307, 0
+OFFSET[R], 663, 306, 0
 SVTCA[Y]
 CALL[], 13, 6, 1, 1, 77, 86
 SHC[2], 1
