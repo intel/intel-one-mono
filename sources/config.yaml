@@ -10,6 +10,7 @@ sources:
     - instances/truetype/IntelOneMono-Regular.ufo
 buildVariable: false
 buildOTF: false
+buildWebfonts: false
 logLevel: WARNING
 removeOutlineOverlaps: false
 checkCompatibility: false

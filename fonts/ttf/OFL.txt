@@ -1,7 +1,7 @@
-Copyright 2023 The Intel One Mono Project Authors (https://github.com/intel/intel-one-mono) with Reserved Font Name 'Intel'
+Copyright 2023 The Intel One Mono Project Authors (https://github.com/intel/intel-one-mono), with Reserved Font Name 'Intel'
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
-This license is copied below, and is also available with a FAQ at: 
+This license is copied below, and is also available with a FAQ at:
 https://scripts.sil.org/OFL
 
 
