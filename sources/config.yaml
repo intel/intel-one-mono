@@ -13,6 +13,7 @@ buildOTF: false
 woffDir: ../fonts/woff2
 logLevel: WARNING
 removeOutlineOverlaps: false
+reverseOutlineDirection: false
 checkCompatibility: false
 autohintTTF: false
 vttSources:
