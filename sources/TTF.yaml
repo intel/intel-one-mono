@@ -1,0 +1,27 @@
+familyName: "Intel One Mono"
+sources:
+    - instances/truetype/IntelOneMono-Bold.ufo 
+    - instances/truetype/IntelOneMono-BoldItalic.ufo 
+    - instances/truetype/IntelOneMono-Italic.ufo 
+    - instances/truetype/IntelOneMono-Light.ufo 
+    - instances/truetype/IntelOneMono-LightItalic.ufo 
+    - instances/truetype/IntelOneMono-Medium.ufo 
+    - instances/truetype/IntelOneMono-MediumItalic.ufo 
+    - instances/truetype/IntelOneMono-Regular.ufo
+buildVariable: false
+buildOTF: false 
+woffDir: ../fonts/woff2
+logLevel: WARNING
+removeOutlineOverlaps: false
+reverseOutlineDirection: false
+checkCompatibility: false
+autohintTTF: false
+vttSources:
+  IntelOneMono-Light.ttf: other files/truetype hinting ttx/IntelOneMono-Light-vtt.ttx
+  IntelOneMono-LightItalic.ttf: other files/truetype hinting ttx/IntelOneMono-LightItalic-vtt.ttx
+  IntelOneMono-Regular.ttf: other files/truetype hinting ttx/IntelOneMono-Regular-vtt.ttx
+  IntelOneMono-Italic.ttf: other files/truetype hinting ttx/IntelOneMono-Italic-vtt.ttx
+  IntelOneMono-Medium.ttf: other files/truetype hinting ttx/IntelOneMono-Medium-vtt.ttx
+  IntelOneMono-MediumItalic.ttf: other files/truetype hinting ttx/IntelOneMono-MediumItalic-vtt.ttx
+  IntelOneMono-Bold.ttf: other files/truetype hinting ttx/IntelOneMono-Bold-vtt.ttx
+  IntelOneMono-BoldItalic.ttf: other files/truetype hinting ttx/IntelOneMono-BoldItalic-vtt.ttx
