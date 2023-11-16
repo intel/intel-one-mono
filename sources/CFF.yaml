@@ -1,0 +1,15 @@
+familyName: "Intel One Mono"
+sources:
+    - instances/postscript/IntelOneMono-Bold.ufo 
+    - instances/postscript/IntelOneMono-BoldItalic.ufo 
+    - instances/postscript/IntelOneMono-Italic.ufo 
+    - instances/postscript/IntelOneMono-Light.ufo 
+    - instances/postscript/IntelOneMono-LightItalic.ufo 
+    - instances/postscript/IntelOneMono-Medium.ufo 
+    - instances/postscript/IntelOneMono-MediumItalic.ufo 
+    - instances/postscript/IntelOneMono-Regular.ufo
+buildVariable: false
+buildTTF: false
+buildWebfont: false
+logLevel: WARNING
+checkCompatibility: false

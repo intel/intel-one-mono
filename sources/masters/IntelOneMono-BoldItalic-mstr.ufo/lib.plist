@@ -724,6 +724,8 @@
     <string>curve</string>
     <key>com.typemytype.robofont.shouldAddPointsInSplineConversion</key>
     <integer>1</integer>
+    <key>com.typemytype.robofont.smartSets.uniqueKey</key>
+    <string>4735196240</string>
     <key>public.glyphOrder</key>
     <array>
       <string>.notdef</string>

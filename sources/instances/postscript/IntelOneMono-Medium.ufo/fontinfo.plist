@@ -36,7 +36,7 @@
     <key>openTypeNameLicense</key>
     <string>This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL</string>
     <key>openTypeNameLicenseURL</key>
-    <string>https://github.com/intel/intel-one-mono/blob/main/license</string>
+    <string>https://github.com/intel/intel-one-mono/blob/main/OFL.txt</string>
     <key>openTypeNameManufacturer</key>
     <string>Frere-Jones Type LLC</string>
     <key>openTypeNameManufacturerURL</key>
@@ -403,7 +403,7 @@
     <key>versionMajor</key>
     <integer>1</integer>
     <key>versionMinor</key>
-    <integer>3</integer>
+    <integer>300</integer>
     <key>xHeight</key>
     <integer>471</integer>
   </dict>
