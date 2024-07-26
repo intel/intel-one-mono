@@ -1,0 +1,60 @@
+# --------------
+# All Alternates
+# --------------
+
+feature aalt {
+    sub germandbls from [germandbls uni1E9E];
+    sub uni1E9E from [uni1E9E germandbls];
+    sub colon from [colon colon.fig];
+    sub colon.fig from [colon.fig colon];
+    sub eight from [eight eight.den eight.sup eight.num eight.inf];
+    sub eight.inf from [eight.inf eight eight.den eight.sup eight.num];
+    sub eight.num from [eight.num eight.inf eight eight.den eight.sup];
+    sub eight.sup from [eight.sup eight.num eight.inf eight eight.den];
+    sub eight.den from [eight.den eight.sup eight.num eight.inf eight];
+    sub five from [five five.inf five.num five.den five.sup];
+    sub five.sup from [five.sup five five.inf five.num five.den];
+    sub five.den from [five.den five.sup five five.inf five.num];
+    sub five.num from [five.num five.den five.sup five five.inf];
+    sub five.inf from [five.inf five.num five.den five.sup five];
+    sub four from [four four.sup four.num four.den four.inf];
+    sub four.inf from [four.inf four four.sup four.num four.den];
+    sub four.den from [four.den four.inf four four.sup four.num];
+    sub four.num from [four.num four.den four.inf four four.sup];
+    sub four.sup from [four.sup four.num four.den four.inf four];
+    sub nine from [nine nine.den nine.inf nine.num nine.sup];
+    sub nine.sup from [nine.sup nine nine.den nine.inf nine.num];
+    sub nine.num from [nine.num nine.sup nine nine.den nine.inf];
+    sub nine.inf from [nine.inf nine.num nine.sup nine nine.den];
+    sub nine.den from [nine.den nine.inf nine.num nine.sup nine];
+    sub one from [one one.den one.num one.inf one.sup];
+    sub one.sup from [one.sup one one.den one.num one.inf];
+    sub one.inf from [one.inf one.sup one one.den one.num];
+    sub one.num from [one.num one.inf one.sup one one.den];
+    sub one.den from [one.den one.num one.inf one.sup one];
+    sub seven from [seven seven.inf seven.num seven.sup seven.den];
+    sub seven.den from [seven.den seven seven.inf seven.num seven.sup];
+    sub seven.sup from [seven.sup seven.den seven seven.inf seven.num];
+    sub seven.num from [seven.num seven.sup seven.den seven seven.inf];
+    sub seven.inf from [seven.inf seven.num seven.sup seven.den seven];
+    sub six from [six six.num six.sup six.den six.inf];
+    sub six.inf from [six.inf six six.num six.sup six.den];
+    sub six.den from [six.den six.inf six six.num six.sup];
+    sub six.sup from [six.sup six.den six.inf six six.num];
+    sub six.num from [six.num six.sup six.den six.inf six];
+    sub three from [three three.inf three.den three.num three.sup];
+    sub three.sup from [three.sup three three.inf three.den three.num];
+    sub three.num from [three.num three.sup three three.inf three.den];
+    sub three.den from [three.den three.num three.sup three three.inf];
+    sub three.inf from [three.inf three.den three.num three.sup three];
+    sub two from [two two.inf two.sup two.num two.den];
+    sub two.den from [two.den two two.inf two.sup two.num];
+    sub two.num from [two.num two.den two two.inf two.sup];
+    sub two.sup from [two.sup two.num two.den two two.inf];
+    sub two.inf from [two.inf two.sup two.num two.den two];
+    sub zero from [zero zero.sup zero.num zero.den zero.inf];
+    sub zero.inf from [zero.inf zero zero.sup zero.num zero.den];
+    sub zero.den from [zero.den zero.inf zero zero.sup zero.num];
+    sub zero.num from [zero.num zero.den zero.inf zero zero.sup];
+    sub zero.sup from [zero.sup zero.num zero.den zero.inf zero];
+} aalt;

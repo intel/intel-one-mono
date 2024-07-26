@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lightquaddashvertbxd" format="2">
+  <advance width="614"/>
+  <unicode hex="250A"/>
+  <outline>
+    <contour>
+      <point x="351" y="611" type="line"/>
+      <point x="264" y="611" type="line"/>
+      <point x="264" y="799" type="line"/>
+      <point x="351" y="799" type="line"/>
+    </contour>
+    <contour>
+      <point x="351" y="361" type="line"/>
+      <point x="264" y="361" type="line"/>
+      <point x="264" y="549" type="line"/>
+      <point x="351" y="549" type="line"/>
+    </contour>
+    <contour>
+      <point x="351" y="111" type="line"/>
+      <point x="264" y="111" type="line"/>
+      <point x="264" y="299" type="line"/>
+      <point x="351" y="299" type="line"/>
+    </contour>
+    <contour>
+      <point x="351" y="-139" type="line"/>
+      <point x="264" y="-139" type="line"/>
+      <point x="264" y="49" type="line"/>
+      <point x="351" y="49" type="line"/>
+    </contour>
+  </outline>
+</glyph>

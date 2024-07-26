@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="less_exclam_hyphen_hyphen.liga" format="2">
+  <advance width="614"/>
+  <outline>
+    <contour>
+      <point x="-885" y="277" type="line"/>
+      <point x="-983" y="277" type="line"/>
+      <point x="-941" y="710" type="line"/>
+      <point x="-676" y="710" type="line"/>
+    </contour>
+    <contour>
+      <point x="-1742" y="345" type="line"/>
+      <point x="-1741" y="349" type="line"/>
+      <point x="-1317" y="665" type="line"/>
+      <point x="-1243" y="573" type="line"/>
+      <point x="-1493" y="388" type="line"/>
+      <point x="-1145" y="388" type="line"/>
+      <point x="-1178" y="272" type="line"/>
+      <point x="-1536" y="272" type="line"/>
+      <point x="-1366" y="56" type="line"/>
+      <point x="-1461" y="-11" type="line"/>
+    </contour>
+    <contour>
+      <point x="561" y="272" type="line"/>
+      <point x="-682" y="272" type="line"/>
+      <point x="-649" y="388" type="line"/>
+      <point x="594" y="388" type="line"/>
+    </contour>
+    <contour>
+      <point x="-1126" y="46" type="qcurve" smooth="yes"/>
+      <point x="-1126" y="102"/>
+      <point x="-1052" y="161"/>
+      <point x="-980" y="161" type="qcurve" smooth="yes"/>
+      <point x="-924" y="161"/>
+      <point x="-872" y="132"/>
+      <point x="-872" y="100" type="qcurve" smooth="yes"/>
+      <point x="-872" y="44"/>
+      <point x="-946" y="-15"/>
+      <point x="-1018" y="-15" type="qcurve" smooth="yes"/>
+      <point x="-1074" y="-15"/>
+      <point x="-1126" y="14"/>
+    </contour>
+  </outline>
+</glyph>

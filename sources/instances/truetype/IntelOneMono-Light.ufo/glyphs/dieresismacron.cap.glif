@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dieresismacron.cap" format="2">
+  <outline>
+    <contour>
+      <point x="164" y="956" type="line"/>
+      <point x="-164" y="956" type="line"/>
+      <point x="-164" y="1006" type="line"/>
+      <point x="164" y="1006" type="line"/>
+    </contour>
+    <contour>
+      <point x="-81" y="801" type="qcurve" smooth="yes"/>
+      <point x="-81" y="777"/>
+      <point x="-109" y="751"/>
+      <point x="-135" y="751" type="qcurve" smooth="yes"/>
+      <point x="-160" y="751"/>
+      <point x="-187" y="777"/>
+      <point x="-187" y="801" type="qcurve" smooth="yes"/>
+      <point x="-187" y="825"/>
+      <point x="-158" y="852"/>
+      <point x="-134" y="852" type="qcurve" smooth="yes"/>
+      <point x="-108" y="852"/>
+      <point x="-81" y="826"/>
+    </contour>
+    <contour>
+      <point x="186" y="801" type="qcurve" smooth="yes"/>
+      <point x="186" y="777"/>
+      <point x="158" y="751"/>
+      <point x="132" y="751" type="qcurve" smooth="yes"/>
+      <point x="107" y="751"/>
+      <point x="80" y="777"/>
+      <point x="80" y="801" type="qcurve" smooth="yes"/>
+      <point x="80" y="825"/>
+      <point x="109" y="852"/>
+      <point x="133" y="852" type="qcurve" smooth="yes"/>
+      <point x="159" y="852"/>
+      <point x="186" y="826"/>
+    </contour>
+  </outline>
+</glyph>

@@ -8,7 +8,6 @@
   <outline>
     <component base="middotcat.cap" xOffset="230"/>
     <component base="L"/>
-    <component base="L"/>
   </outline>
   <lib>
     <dict>

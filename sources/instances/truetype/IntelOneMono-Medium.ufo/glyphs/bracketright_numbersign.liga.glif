@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="bracketright_numbersign.liga" format="2">
+  <advance width="614"/>
+  <outline>
+    <contour>
+      <point x="143" y="503" type="line"/>
+      <point x="172" y="666" type="line"/>
+      <point x="247" y="666" type="line"/>
+      <point x="217" y="502" type="line"/>
+      <point x="328" y="502" type="line"/>
+      <point x="357" y="666" type="line"/>
+      <point x="432" y="666" type="line"/>
+      <point x="403" y="503" type="line"/>
+      <point x="511" y="503" type="line"/>
+      <point x="511" y="398" type="line"/>
+      <point x="385" y="398" type="line"/>
+      <point x="361" y="263" type="line"/>
+      <point x="480" y="263" type="line"/>
+      <point x="480" y="158" type="line"/>
+      <point x="342" y="158" type="line"/>
+      <point x="312" y="-12" type="line"/>
+      <point x="236" y="-12" type="line"/>
+      <point x="267" y="159" type="line"/>
+      <point x="156" y="159" type="line"/>
+      <point x="126" y="-12" type="line"/>
+      <point x="52" y="-12" type="line"/>
+      <point x="82" y="158" type="line"/>
+      <point x="-156" y="158" type="line"/>
+      <point x="-156" y="-141" type="line"/>
+      <point x="-516" y="-141" type="line"/>
+      <point x="-516" y="-47" type="line"/>
+      <point x="-269" y="-47" type="line"/>
+      <point x="-269" y="699" type="line"/>
+      <point x="-516" y="699" type="line"/>
+      <point x="-516" y="792" type="line"/>
+      <point x="-156" y="792" type="line"/>
+      <point x="-156" y="503" type="line"/>
+    </contour>
+    <contour>
+      <point x="157" y="225" type="line"/>
+      <point x="289" y="225" type="line"/>
+      <point x="327" y="434" type="line"/>
+      <point x="194" y="434" type="line"/>
+    </contour>
+    <contour>
+      <point x="-156" y="404" type="line"/>
+      <point x="-156" y="256" type="line"/>
+      <point x="99" y="256" type="line"/>
+      <point x="126" y="404" type="line"/>
+    </contour>
+  </outline>
+</glyph>

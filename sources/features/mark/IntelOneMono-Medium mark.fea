@@ -1,0 +1,95 @@
+# ---------------------------------------------------------------------
+# MARK | Generated: November 23, 2022 - 02:38:01 PM by 'markFeature.py'
+# ---------------------------------------------------------------------
+
+markClass [acutecmb caroncmb circumflexcmb dieresiscmb dotaccentcmb gravecmb macroncmb tildecmb] <anchor 0 502> @mark_aboveLC;
+markClass [acutecmb.cap caroncmb.cap circumflexcmb.cap dieresiscmb.cap dotaccentcmb.cap gravecmb.cap macroncmb.cap tildecmb.cap] <anchor 0 691> @mark_aboveUC;
+markClass [dieresisbelowcmb dotbelowcmb macronbelowcmb] <anchor 0 -35> @mark_below;
+markClass [cedillacmb] <anchor 0 -10> @mark_belowcedilla;
+markClass [ogonekcmb] <anchor 0 -10> @mark_belowogonek;
+
+feature mark {
+
+    lookup aboveLC{
+        pos base [a] <anchor 301 507> mark @mark_aboveLC;
+        pos base [c] <anchor 319 507> mark @mark_aboveLC;
+        pos base [dotlessi] <anchor 319 502> mark @mark_aboveLC;
+        pos base [dotlessj] <anchor 387 502> mark @mark_aboveLC;
+        pos base [e] <anchor 319 507> mark @mark_aboveLC;
+        pos base [eogonek] <anchor 319 507> mark @mark_aboveLC;
+        pos base [g] <anchor 309 505> mark @mark_aboveLC;
+        pos base [m] <anchor 308 502> mark @mark_aboveLC;
+        pos base [n] <anchor 308 502> mark @mark_aboveLC;
+        pos base [o] <anchor 308 507> mark @mark_aboveLC;
+        pos base [p] <anchor 323 502> mark @mark_aboveLC;
+        pos base [s] <anchor 317 507> mark @mark_aboveLC;
+        pos base [u] <anchor 314 502> mark @mark_aboveLC;
+        pos base [z] <anchor 309 502> mark @mark_aboveLC;
+    } aboveLC;
+
+    lookup aboveUC{
+        pos base [A] <anchor 301 691> mark @mark_aboveUC;
+        pos base [C] <anchor 351 694> mark @mark_aboveUC;
+        pos base [E] <anchor 322 691> mark @mark_aboveUC;
+        pos base [Eogonek] <anchor 322 691> mark @mark_aboveUC;
+        pos base [G] <anchor 339 693> mark @mark_aboveUC;
+        pos base [I] <anchor 307 691> mark @mark_aboveUC;
+        pos base [J] <anchor 471 691> mark @mark_aboveUC;
+        pos base [M] <anchor 310 691> mark @mark_aboveUC;
+        pos base [N] <anchor 312 691> mark @mark_aboveUC;
+        pos base [O] <anchor 308 696> mark @mark_aboveUC;
+        pos base [P] <anchor 323 691> mark @mark_aboveUC;
+        pos base [S] <anchor 318 696> mark @mark_aboveUC;
+        pos base [U] <anchor 307 691> mark @mark_aboveUC;
+        pos base [Z] <anchor 313 691> mark @mark_aboveUC;
+    } aboveUC;
+
+    lookup below{
+        pos base [C] <anchor 345 -40> mark @mark_below;
+        pos base [Dcroat] <anchor 301 -33> mark @mark_below;
+        pos base [E] <anchor 322 -35> mark @mark_below;
+        pos base [H] <anchor 307 -35> mark @mark_below;
+        pos base [I] <anchor 307 -35> mark @mark_below;
+        pos base [O] <anchor 309 -40> mark @mark_below;
+        pos base [S] <anchor 300 -38> mark @mark_below;
+        pos base [U] <anchor 307 -40> mark @mark_below;
+        pos base [X] <anchor 308 -35> mark @mark_below;
+        pos base [Z] <anchor 313 -35> mark @mark_below;
+        pos base [c] <anchor 315 -37> mark @mark_below;
+        pos base [dcroat] <anchor 328 -32> mark @mark_below;
+        pos base [dotlessi] <anchor 323 -35> mark @mark_below;
+        pos base [e] <anchor 319 -38> mark @mark_below;
+        pos base [h] <anchor 315 -35> mark @mark_below;
+        pos base [o] <anchor 307 -40> mark @mark_below;
+        pos base [s] <anchor 300 -40> mark @mark_below;
+        pos base [u] <anchor 309 -35> mark @mark_below;
+        pos base [x] <anchor 305 -35> mark @mark_below;
+        pos base [z] <anchor 309 -35> mark @mark_below;
+    } below;
+
+    lookup belowcedilla{
+        pos base [Z] <anchor 313 -10> mark @mark_belowcedilla;
+        pos base [z] <anchor 309 -10> mark @mark_belowcedilla;
+    } belowcedilla;
+
+    lookup belowogonek{
+        pos base [A] <anchor 505 -10> mark @mark_belowogonek;
+        pos base [E] <anchor 463 -10> mark @mark_belowogonek;
+        pos base [I] <anchor 307 -10> mark @mark_belowogonek;
+        pos base [O] <anchor 318 -15> mark @mark_belowogonek;
+        pos base [U] <anchor 316 -15> mark @mark_belowogonek;
+        pos base [a] <anchor 466 -10> mark @mark_belowogonek;
+        pos base [dotlessi] <anchor 323 -9> mark @mark_belowogonek;
+        pos base [e] <anchor 400 -10> mark @mark_belowogonek;
+        pos base [o] <anchor 313 -15> mark @mark_belowogonek;
+        pos base [u] <anchor 476 -10> mark @mark_belowogonek;
+    } belowogonek;
+
+} mark;
+
+@BASES = [A C Dcroat E Eogonek G H I J M N O P S U X Z a c dcroat dotlessi dotlessj e eogonek g h m n o p s u x z];
+@MARKS = [@mark_aboveLC @mark_aboveUC @mark_below @mark_belowcedilla @mark_belowogonek];
+
+table GDEF {
+    GlyphClassDef @BASES,,@MARKS,;
+} GDEF;

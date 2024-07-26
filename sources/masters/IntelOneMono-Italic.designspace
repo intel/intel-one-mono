@@ -14,6 +14,9 @@
       <sub name="bahtthai" with="bahtthai.bar"/>
       <sub name="won" with="won.bar"/>
       <sub name="cent" with="cent.bar"/>
+      <sub name="less_dollar.liga" with="less_dollar.ligabar"/>
+      <sub name="dollar_greater.liga" with="dollar_greater.ligabar"/>
+      <sub name="less_dollar_greater.liga" with="less_dollar_greater.ligabar"/>
     </rule>
     <rule name="Q">
       <conditionset>

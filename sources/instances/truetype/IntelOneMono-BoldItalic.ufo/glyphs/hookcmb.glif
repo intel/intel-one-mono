@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hookcmb" format="2">
+  <unicode hex="0309"/>
+  <outline>
+    <contour>
+      <point x="252" y="684" type="qcurve" smooth="yes"/>
+      <point x="252" y="631"/>
+      <point x="124" y="568"/>
+      <point x="-9" y="553" type="qcurve"/>
+      <point x="-17" y="615" type="line"/>
+      <point x="-17" y="617" type="line"/>
+      <point x="57" y="633"/>
+      <point x="126" y="660"/>
+      <point x="126" y="676" type="qcurve" smooth="yes"/>
+      <point x="126" y="691"/>
+      <point x="64" y="712"/>
+      <point x="-2" y="721" type="qcurve"/>
+      <point x="-2" y="723" type="line"/>
+      <point x="64" y="787" type="line"/>
+      <point x="158" y="776"/>
+      <point x="252" y="725"/>
+    </contour>
+  </outline>
+</glyph>

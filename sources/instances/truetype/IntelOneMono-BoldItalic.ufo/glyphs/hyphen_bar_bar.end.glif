@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hyphen_bar_bar.end" format="2">
+  <advance width="614"/>
+  <outline>
+    <contour>
+      <point x="68" y="755" type="line"/>
+      <point x="198" y="755" type="line"/>
+      <point x="-47" y="-100" type="line"/>
+      <point x="-177" y="-100" type="line"/>
+      <point x="-70" y="272" type="line"/>
+      <point x="-1228" y="272" type="line"/>
+      <point x="-1195" y="388" type="line"/>
+      <point x="-37" y="388" type="line"/>
+    </contour>
+    <contour>
+      <point x="390" y="755" type="line"/>
+      <point x="520" y="755" type="line"/>
+      <point x="275" y="-100" type="line"/>
+      <point x="145" y="-100" type="line"/>
+    </contour>
+  </outline>
+</glyph>

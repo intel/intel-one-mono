@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="less_colon.liga" format="2">
+  <advance width="614"/>
+  <outline>
+    <contour>
+      <point x="397" y="490" type="qcurve" smooth="yes"/>
+      <point x="397" y="447"/>
+      <point x="343" y="402"/>
+      <point x="293" y="402" type="qcurve" smooth="yes"/>
+      <point x="244" y="402"/>
+      <point x="191" y="447"/>
+      <point x="191" y="490" type="qcurve" smooth="yes"/>
+      <point x="191" y="531"/>
+      <point x="246" y="578"/>
+      <point x="294" y="578" type="qcurve" smooth="yes"/>
+      <point x="346" y="578"/>
+      <point x="397" y="534"/>
+    </contour>
+    <contour>
+      <point x="0" y="173" type="line"/>
+      <point x="0" y="69" type="line"/>
+      <point x="-477" y="272" type="line"/>
+      <point x="-477" y="374" type="line"/>
+      <point x="0" y="577" type="line"/>
+      <point x="0" y="472" type="line"/>
+      <point x="-371" y="323" type="line"/>
+    </contour>
+    <contour>
+      <point x="397" y="166" type="qcurve" smooth="yes"/>
+      <point x="397" y="124"/>
+      <point x="343" y="79"/>
+      <point x="293" y="79" type="qcurve" smooth="yes"/>
+      <point x="244" y="79"/>
+      <point x="191" y="125"/>
+      <point x="191" y="168" type="qcurve" smooth="yes"/>
+      <point x="191" y="208"/>
+      <point x="246" y="255"/>
+      <point x="294" y="255" type="qcurve" smooth="yes"/>
+      <point x="346" y="255"/>
+      <point x="397" y="211"/>
+    </contour>
+  </outline>
+</glyph>

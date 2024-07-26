@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ringcmb.cap" format="2">
+  <outline>
+    <contour>
+      <point x="171" y="867" type="qcurve" smooth="yes"/>
+      <point x="171" y="805"/>
+      <point x="78" y="731"/>
+      <point x="-1" y="731" type="qcurve" smooth="yes"/>
+      <point x="-79" y="731"/>
+      <point x="-171" y="804"/>
+      <point x="-171" y="866" type="qcurve" smooth="yes"/>
+      <point x="-171" y="929"/>
+      <point x="-78" y="1003"/>
+      <point x="1" y="1003" type="qcurve" smooth="yes"/>
+      <point x="79" y="1003"/>
+      <point x="171" y="929"/>
+    </contour>
+    <contour>
+      <point x="-73" y="865" type="qcurve" smooth="yes"/>
+      <point x="-73" y="837"/>
+      <point x="-36" y="808"/>
+      <point x="0" y="808" type="qcurve" smooth="yes"/>
+      <point x="37" y="808"/>
+      <point x="73" y="838"/>
+      <point x="73" y="868" type="qcurve" smooth="yes"/>
+      <point x="73" y="897"/>
+      <point x="36" y="926"/>
+      <point x="0" y="926" type="qcurve" smooth="yes"/>
+      <point x="-37" y="926"/>
+      <point x="-73" y="896"/>
+    </contour>
+  </outline>
+</glyph>
