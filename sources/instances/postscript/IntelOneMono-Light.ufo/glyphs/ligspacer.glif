@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ligspacer" format="2">
+  <advance width="614"/>
+  <outline>
+    <component base="space"/>
+  </outline>
+</glyph>

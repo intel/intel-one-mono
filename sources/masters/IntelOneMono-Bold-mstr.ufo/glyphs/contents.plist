@@ -502,6 +502,8 @@
     <string>amacron.glif</string>
     <key>ampersand</key>
     <string>ampersand.glif</string>
+    <key>ampersand_ampersand.liga</key>
+    <string>ampersand_ampersand.liga.glif</string>
     <key>aogonek</key>
     <string>aogonek.glif</string>
     <key>apostrophemod</key>
@@ -510,12 +512,40 @@
     <string>approxequal.glif</string>
     <key>aring</key>
     <string>aring.glif</string>
+    <key>arrowheadleft</key>
+    <string>arrowheadleft.glif</string>
+    <key>arrowheadleftopen</key>
+    <string>arrowheadleftopen.glif</string>
+    <key>arrowheadright</key>
+    <string>arrowheadright.glif</string>
+    <key>arrowheadrightopen</key>
+    <string>arrowheadrightopen.glif</string>
     <key>asciicircum</key>
     <string>asciicircum.glif</string>
+    <key>asciicircum_equal.liga</key>
+    <string>asciicircum_equal.liga.glif</string>
     <key>asciitilde</key>
     <string>asciitilde.glif</string>
+    <key>asciitilde_asciitilde.liga</key>
+    <string>asciitilde_asciitilde.liga.glif</string>
+    <key>asciitilde_asciitilde_greater</key>
+    <string>asciitilde_asciitilde_greater.glif</string>
+    <key>asciitilde_at.liga</key>
+    <string>asciitilde_at.liga.glif</string>
+    <key>asciitilde_greater.liga</key>
+    <string>asciitilde_greater.liga.glif</string>
+    <key>asciitilde_hyphen.liga</key>
+    <string>asciitilde_hyphen.liga.glif</string>
     <key>asterisk</key>
     <string>asterisk.glif</string>
+    <key>asterisk_asterisk.liga</key>
+    <string>asterisk_asterisk.liga.glif</string>
+    <key>asterisk_asterisk_asterisk.liga</key>
+    <string>asterisk_asterisk_asterisk.liga.glif</string>
+    <key>asterisk_greater.liga</key>
+    <string>asterisk_greater.liga.glif</string>
+    <key>asterisk_slash.liga</key>
+    <string>asterisk_slash.liga.glif</string>
     <key>at</key>
     <string>at.glif</string>
     <key>atilde</key>
@@ -524,22 +554,60 @@
     <string>b.glif</string>
     <key>backslash</key>
     <string>backslash.glif</string>
+    <key>backslash_slash.liga</key>
+    <string>backslash_slash.liga.glif</string>
     <key>bahtthai</key>
     <string>bahtthai.glif</string>
     <key>bahtthai.bar</key>
     <string>bahtthai.bar.glif</string>
     <key>bar</key>
     <string>bar.glif</string>
+    <key>bar_bar.liga</key>
+    <string>bar_bar.liga.glif</string>
+    <key>bar_bar_bar.liga</key>
+    <string>bar_bar_bar.liga.glif</string>
+    <key>bar_bar_bar_greater.liga</key>
+    <string>bar_bar_bar_greater.liga.glif</string>
+    <key>bar_bar_equal.liga</key>
+    <string>bar_bar_equal.liga.glif</string>
+    <key>bar_bar_equal.start</key>
+    <string>bar_bar_equal.start.glif</string>
+    <key>bar_bar_greater.liga</key>
+    <string>bar_bar_greater.liga.glif</string>
+    <key>bar_bar_hyphen.liga</key>
+    <string>bar_bar_hyphen.liga.glif</string>
+    <key>bar_bar_hyphen.start</key>
+    <string>bar_bar_hyphen.start.glif</string>
+    <key>bar_braceright.liga</key>
+    <string>bar_braceright.liga.glif</string>
+    <key>bar_bracketright.liga</key>
+    <string>bar_bracketright.liga.glif</string>
+    <key>bar_equal.liga</key>
+    <string>bar_equal.liga.glif</string>
+    <key>bar_equal.start</key>
+    <string>bar_equal.start.glif</string>
+    <key>bar_greater.liga</key>
+    <string>bar_greater.liga.glif</string>
+    <key>bar_hyphen.liga</key>
+    <string>bar_hyphen.liga.glif</string>
+    <key>bar_hyphen.start</key>
+    <string>bar_hyphen.start.glif</string>
     <key>blinebelow</key>
     <string>blinebelow.glif</string>
     <key>braceleft</key>
     <string>braceleft.glif</string>
+    <key>braceleft_bar.liga</key>
+    <string>braceleft_bar.liga.glif</string>
     <key>braceright</key>
     <string>braceright.glif</string>
     <key>bracketleft</key>
     <string>bracketleft.glif</string>
+    <key>bracketleft_bar.liga</key>
+    <string>bracketleft_bar.liga.glif</string>
     <key>bracketright</key>
     <string>bracketright.glif</string>
+    <key>bracketright_numbersign.liga</key>
+    <string>bracketright_numbersign.liga.glif</string>
     <key>breve</key>
     <string>breve.glif</string>
     <key>breveacute</key>
@@ -620,6 +688,18 @@
     <string>colon.glif</string>
     <key>colon.fig</key>
     <string>colon.fig.glif</string>
+    <key>colon_colon.liga</key>
+    <string>colon_colon.liga.glif</string>
+    <key>colon_colon_colon.liga</key>
+    <string>colon_colon_colon.liga.glif</string>
+    <key>colon_colon_equal.liga</key>
+    <string>colon_colon_equal.liga.glif</string>
+    <key>colon_equal.liga</key>
+    <string>colon_equal.liga.glif</string>
+    <key>colon_greater.liga</key>
+    <string>colon_greater.liga.glif</string>
+    <key>colon_less.liga</key>
+    <string>colon_less.liga.glif</string>
     <key>comma</key>
     <string>comma.glif</string>
     <key>commaaboverightcmb</key>
@@ -636,8 +716,32 @@
     <string>dagger.glif</string>
     <key>daggerdbl</key>
     <string>daggerdbl.glif</string>
+    <key>darkshade</key>
+    <string>darkshade.glif</string>
+    <key>dbldnhorzbxd</key>
+    <string>dbldnhorzbxd.glif</string>
+    <key>dbldnleftbxd</key>
+    <string>dbldnleftbxd.glif</string>
+    <key>dbldnrightbxd</key>
+    <string>dbldnrightbxd.glif</string>
+    <key>dblhorzbxd</key>
+    <string>dblhorzbxd.glif</string>
     <key>dblprimemod</key>
     <string>dblprimemod.glif</string>
+    <key>dbluphorzbxd</key>
+    <string>dbluphorzbxd.glif</string>
+    <key>dblupleftbxd</key>
+    <string>dblupleftbxd.glif</string>
+    <key>dbluprightbxd</key>
+    <string>dbluprightbxd.glif</string>
+    <key>dblvertbxd</key>
+    <string>dblvertbxd.glif</string>
+    <key>dblverthorzbxd</key>
+    <string>dblverthorzbxd.glif</string>
+    <key>dblvertleftbxd</key>
+    <string>dblvertleftbxd.glif</string>
+    <key>dblvertrightbxd</key>
+    <string>dblvertrightbxd.glif</string>
     <key>dcaron</key>
     <string>dcaron.glif</string>
     <key>dcircumflexbelow</key>
@@ -676,10 +780,68 @@
     <string>divide.glif</string>
     <key>dlinebelow</key>
     <string>dlinebelow.glif</string>
+    <key>dndblhorzsngbxd</key>
+    <string>dndblhorzsngbxd.glif</string>
+    <key>dndblleftsngbxd</key>
+    <string>dndblleftsngbxd.glif</string>
+    <key>dndblrightsngbxd</key>
+    <string>dndblrightsngbxd.glif</string>
+    <key>dneighthblock</key>
+    <string>dneighthblock.glif</string>
+    <key>dnfiveeighthsblock</key>
+    <string>dnfiveeighthsblock.glif</string>
+    <key>dnhalfblock</key>
+    <string>dnhalfblock.glif</string>
+    <key>dnheavyhorzlightbxd</key>
+    <string>dnheavyhorzlightbxd.glif</string>
+    <key>dnheavyleftlightbxd</key>
+    <string>dnheavyleftlightbxd.glif</string>
+    <key>dnheavyleftuplightbxd</key>
+    <string>dnheavyleftuplightbxd.glif</string>
+    <key>dnheavyrightlightbxd</key>
+    <string>dnheavyrightlightbxd.glif</string>
+    <key>dnheavyrightuplightbxd</key>
+    <string>dnheavyrightuplightbxd.glif</string>
+    <key>dnheavyuphorzlightbxd</key>
+    <string>dnheavyuphorzlightbxd.glif</string>
+    <key>dnleftquadrant</key>
+    <string>dnleftquadrant.glif</string>
+    <key>dnlighthorzheavybxd</key>
+    <string>dnlighthorzheavybxd.glif</string>
+    <key>dnlightleftheavybxd</key>
+    <string>dnlightleftheavybxd.glif</string>
+    <key>dnlightleftupheavybxd</key>
+    <string>dnlightleftupheavybxd.glif</string>
+    <key>dnlightrightheavybxd</key>
+    <string>dnlightrightheavybxd.glif</string>
+    <key>dnlightrightupheavybxd</key>
+    <string>dnlightrightupheavybxd.glif</string>
+    <key>dnlightuphorzheavybxd</key>
+    <string>dnlightuphorzheavybxd.glif</string>
+    <key>dnquarterblock</key>
+    <string>dnquarterblock.glif</string>
+    <key>dnrightquadrant</key>
+    <string>dnrightquadrant.glif</string>
+    <key>dnseveneighthsblock</key>
+    <string>dnseveneighthsblock.glif</string>
+    <key>dnsnghorzdblbxd</key>
+    <string>dnsnghorzdblbxd.glif</string>
+    <key>dnsngleftdblbxd</key>
+    <string>dnsngleftdblbxd.glif</string>
+    <key>dnsngrightdblbxd</key>
+    <string>dnsngrightdblbxd.glif</string>
+    <key>dnthreeeighthsblock</key>
+    <string>dnthreeeighthsblock.glif</string>
+    <key>dnthreequartersblock</key>
+    <string>dnthreequartersblock.glif</string>
     <key>dollar</key>
     <string>dollar.glif</string>
     <key>dollar.bar</key>
     <string>dollar.bar.glif</string>
+    <key>dollar_greater.liga</key>
+    <string>dollar_greater.liga.glif</string>
+    <key>dollar_greater.ligabar</key>
+    <string>dollar_greater.ligabar.glif</string>
     <key>dong</key>
     <string>dong.glif</string>
     <key>dotaccent</key>
@@ -748,12 +910,86 @@
     <string>eogonek.glif</string>
     <key>equal</key>
     <string>equal.glif</string>
+    <key>equal.end</key>
+    <string>equal.end.glif</string>
+    <key>equal.middle</key>
+    <string>equal.middle.glif</string>
+    <key>equal.start</key>
+    <string>equal.start.glif</string>
+    <key>equal_asciitilde.liga</key>
+    <string>equal_asciitilde.liga.glif</string>
+    <key>equal_bar.end</key>
+    <string>equal_bar.end.glif</string>
+    <key>equal_bar.liga</key>
+    <string>equal_bar.liga.glif</string>
+    <key>equal_bar_bar.end</key>
+    <string>equal_bar_bar.end.glif</string>
+    <key>equal_bar_bar.liga</key>
+    <string>equal_bar_bar.liga.glif</string>
+    <key>equal_bar_bar_equal.middle</key>
+    <string>equal_bar_bar_equal.middle.glif</string>
+    <key>equal_bar_equal.middle</key>
+    <string>equal_bar_equal.middle.glif</string>
+    <key>equal_colon_equal.middle</key>
+    <string>equal_colon_equal.middle.glif</string>
+    <key>equal_equal.liga</key>
+    <string>equal_equal.liga.glif</string>
+    <key>equal_equal_equal.liga</key>
+    <string>equal_equal_equal.liga.glif</string>
+    <key>equal_exclam_equal.middle</key>
+    <string>equal_exclam_equal.middle.glif</string>
+    <key>equal_greater.end</key>
+    <string>equal_greater.end.glif</string>
+    <key>equal_greater.liga</key>
+    <string>equal_greater.liga.glif</string>
+    <key>equal_greater_equal.middle</key>
+    <string>equal_greater_equal.middle.glif</string>
+    <key>equal_greater_greater.end</key>
+    <string>equal_greater_greater.end.glif</string>
+    <key>equal_greater_greater.liga</key>
+    <string>equal_greater_greater.liga.glif</string>
+    <key>equal_greater_greater_equal.m</key>
+    <string>equal_greater_greater_equal.m.glif</string>
+    <key>equal_less.end</key>
+    <string>equal_less.end.glif</string>
+    <key>equal_less.liga</key>
+    <string>equal_less.liga.glif</string>
+    <key>equal_less_equal.middle</key>
+    <string>equal_less_equal.middle.glif</string>
+    <key>equal_less_less.end</key>
+    <string>equal_less_less.end.glif</string>
+    <key>equal_less_less.liga</key>
+    <string>equal_less_less.liga.glif</string>
+    <key>equal_less_less_equal.middle</key>
+    <string>equal_less_less_equal.middle.glif</string>
+    <key>equal_slash.end</key>
+    <string>equal_slash.end.glif</string>
+    <key>equal_slash.liga</key>
+    <string>equal_slash.liga.glif</string>
+    <key>equal_slash_equal.middle</key>
+    <string>equal_slash_equal.middle.glif</string>
+    <key>equal_slash_slash.end</key>
+    <string>equal_slash_slash.end.glif</string>
+    <key>equal_slash_slash.liga</key>
+    <string>equal_slash_slash.liga.glif</string>
+    <key>equal_slash_slash_equal.middle</key>
+    <string>equal_slash_slash_equal.middle.glif</string>
     <key>eth</key>
     <string>eth.glif</string>
     <key>etilde</key>
     <string>etilde.glif</string>
     <key>exclam</key>
     <string>exclam.glif</string>
+    <key>exclam_asciitilde.liga</key>
+    <string>exclam_asciitilde.liga.glif</string>
+    <key>exclam_equal.liga</key>
+    <string>exclam_equal.liga.glif</string>
+    <key>exclam_equal_equal.liga</key>
+    <string>exclam_equal_equal.liga.glif</string>
+    <key>exclam_exclam.liga</key>
+    <string>exclam_exclam.liga.glif</string>
+    <key>exclam_exclam_period.liga</key>
+    <string>exclam_exclam_period.liga.glif</string>
     <key>exclamdown</key>
     <string>exclamdown.glif</string>
     <key>f</key>
@@ -788,6 +1024,8 @@
     <string>fracbar.glif</string>
     <key>fraction</key>
     <string>fraction.glif</string>
+    <key>fullblock</key>
+    <string>fullblock.glif</string>
     <key>g</key>
     <string>g.glif</string>
     <key>gbreve</key>
@@ -812,6 +1050,34 @@
     <string>gravecmb.cap.glif</string>
     <key>greater</key>
     <string>greater.glif</string>
+    <key>greater_colon.liga</key>
+    <string>greater_colon.liga.glif</string>
+    <key>greater_equal</key>
+    <string>greater_equal.glif</string>
+    <key>greater_equal.liga</key>
+    <string>greater_equal.liga.glif</string>
+    <key>greater_equal.start</key>
+    <string>greater_equal.start.glif</string>
+    <key>greater_equal_greater.liga</key>
+    <string>greater_equal_greater.liga.glif</string>
+    <key>greater_greater.liga</key>
+    <string>greater_greater.liga.glif</string>
+    <key>greater_greater_equal.liga</key>
+    <string>greater_greater_equal.liga.glif</string>
+    <key>greater_greater_equal.start</key>
+    <string>greater_greater_equal.start.glif</string>
+    <key>greater_greater_greater.liga</key>
+    <string>greater_greater_greater.liga.glif</string>
+    <key>greater_greater_hyphen.liga</key>
+    <string>greater_greater_hyphen.liga.glif</string>
+    <key>greater_greater_hyphen.start</key>
+    <string>greater_greater_hyphen.start.glif</string>
+    <key>greater_hyphen.liga</key>
+    <string>greater_hyphen.liga.glif</string>
+    <key>greater_hyphen.start</key>
+    <string>greater_hyphen.start.glif</string>
+    <key>greater_hyphen_greater.liga</key>
+    <string>greater_hyphen_greater.liga.glif</string>
     <key>greaterequal</key>
     <string>greaterequal.glif</string>
     <key>guillemetleft</key>
@@ -834,6 +1100,52 @@
     <string>hcircumflex.glif</string>
     <key>hdotbelow</key>
     <string>hdotbelow.glif</string>
+    <key>heavydbldashhorzbxd</key>
+    <string>heavydbldashhorzbxd.glif</string>
+    <key>heavydbldashvertbxd</key>
+    <string>heavydbldashvertbxd.glif</string>
+    <key>heavydnbxd</key>
+    <string>heavydnbxd.glif</string>
+    <key>heavydnhorzbxd</key>
+    <string>heavydnhorzbxd.glif</string>
+    <key>heavydnleftbxd</key>
+    <string>heavydnleftbxd.glif</string>
+    <key>heavydnrightbxd</key>
+    <string>heavydnrightbxd.glif</string>
+    <key>heavyhorzbxd</key>
+    <string>heavyhorzbxd.glif</string>
+    <key>heavyleftbxd</key>
+    <string>heavyleftbxd.glif</string>
+    <key>heavyleftlightrightbxd</key>
+    <string>heavyleftlightrightbxd.glif</string>
+    <key>heavyquaddashhorzbxd</key>
+    <string>heavyquaddashhorzbxd.glif</string>
+    <key>heavyquaddashvertbxd</key>
+    <string>heavyquaddashvertbxd.glif</string>
+    <key>heavyrightbxd</key>
+    <string>heavyrightbxd.glif</string>
+    <key>heavytrpldashhorzbxd</key>
+    <string>heavytrpldashhorzbxd.glif</string>
+    <key>heavytrpldashvertbxd</key>
+    <string>heavytrpldashvertbxd.glif</string>
+    <key>heavyupbxd</key>
+    <string>heavyupbxd.glif</string>
+    <key>heavyuphorzbxd</key>
+    <string>heavyuphorzbxd.glif</string>
+    <key>heavyupleftbxd</key>
+    <string>heavyupleftbxd.glif</string>
+    <key>heavyuplightdnbxd</key>
+    <string>heavyuplightdnbxd.glif</string>
+    <key>heavyuprightbxd</key>
+    <string>heavyuprightbxd.glif</string>
+    <key>heavyvertbxd</key>
+    <string>heavyvertbxd.glif</string>
+    <key>heavyverthorzbxd</key>
+    <string>heavyverthorzbxd.glif</string>
+    <key>heavyvertleftbxd</key>
+    <string>heavyvertleftbxd.glif</string>
+    <key>heavyvertrightbxd</key>
+    <string>heavyvertrightbxd.glif</string>
     <key>hlinebelow</key>
     <string>hlinebelow.glif</string>
     <key>hookcmb</key>
@@ -850,6 +1162,54 @@
     <string>hungarumlautcmb.cap.glif</string>
     <key>hyphen</key>
     <string>hyphen.glif</string>
+    <key>hyphen.end</key>
+    <string>hyphen.end.glif</string>
+    <key>hyphen.middle</key>
+    <string>hyphen.middle.glif</string>
+    <key>hyphen.start</key>
+    <string>hyphen.start.glif</string>
+    <key>hyphen_asciitilde.liga</key>
+    <string>hyphen_asciitilde.liga.glif</string>
+    <key>hyphen_bar.end</key>
+    <string>hyphen_bar.end.glif</string>
+    <key>hyphen_bar.liga</key>
+    <string>hyphen_bar.liga.glif</string>
+    <key>hyphen_bar_bar.end</key>
+    <string>hyphen_bar_bar.end.glif</string>
+    <key>hyphen_bar_bar.liga</key>
+    <string>hyphen_bar_bar.liga.glif</string>
+    <key>hyphen_bar_bar_hyphen.middle</key>
+    <string>hyphen_bar_bar_hyphen.middle.glif</string>
+    <key>hyphen_bar_hyphen.middle</key>
+    <string>hyphen_bar_hyphen.middle.glif</string>
+    <key>hyphen_greater.end</key>
+    <string>hyphen_greater.end.glif</string>
+    <key>hyphen_greater.liga</key>
+    <string>hyphen_greater.liga.glif</string>
+    <key>hyphen_greater_greater.end</key>
+    <string>hyphen_greater_greater.end.glif</string>
+    <key>hyphen_greater_greater.liga</key>
+    <string>hyphen_greater_greater.liga.glif</string>
+    <key>hyphen_greater_greater_hyphen.m</key>
+    <string>hyphen_greater_greater_hyphen.m.glif</string>
+    <key>hyphen_greater_hyphen.middle</key>
+    <string>hyphen_greater_hyphen.middle.glif</string>
+    <key>hyphen_hyphen.liga</key>
+    <string>hyphen_hyphen.liga.glif</string>
+    <key>hyphen_hyphen_hyphen.liga</key>
+    <string>hyphen_hyphen_hyphen.liga.glif</string>
+    <key>hyphen_less.end</key>
+    <string>hyphen_less.end.glif</string>
+    <key>hyphen_less.liga</key>
+    <string>hyphen_less.liga.glif</string>
+    <key>hyphen_less_hyphen.middle</key>
+    <string>hyphen_less_hyphen.middle.glif</string>
+    <key>hyphen_less_less.end</key>
+    <string>hyphen_less_less.end.glif</string>
+    <key>hyphen_less_less.liga</key>
+    <string>hyphen_less_less.liga.glif</string>
+    <key>hyphen_less_less_hyphen.middle</key>
+    <string>hyphen_less_less_hyphen.middle.glif</string>
     <key>i</key>
     <string>i.glif</string>
     <key>iacute</key>
@@ -904,10 +1264,174 @@
     <string>lcommaaccent.glif</string>
     <key>ldotbelow</key>
     <string>ldotbelow.glif</string>
+    <key>leftdnheavyrightuplightbxd</key>
+    <string>leftdnheavyrightuplightbxd.glif</string>
+    <key>lefteighthblock</key>
+    <string>lefteighthblock.glif</string>
+    <key>leftfiveeighthsblock</key>
+    <string>leftfiveeighthsblock.glif</string>
+    <key>lefthalfblock</key>
+    <string>lefthalfblock.glif</string>
+    <key>leftheavyrightdnlightbxd</key>
+    <string>leftheavyrightdnlightbxd.glif</string>
+    <key>leftheavyrightuplightbxd</key>
+    <string>leftheavyrightuplightbxd.glif</string>
+    <key>leftheavyrightvertlightbxd</key>
+    <string>leftheavyrightvertlightbxd.glif</string>
+    <key>leftlightrightdnheavybxd</key>
+    <string>leftlightrightdnheavybxd.glif</string>
+    <key>leftlightrightupheavybxd</key>
+    <string>leftlightrightupheavybxd.glif</string>
+    <key>leftlightrightvertheavybxd</key>
+    <string>leftlightrightvertheavybxd.glif</string>
+    <key>leftquarterblock</key>
+    <string>leftquarterblock.glif</string>
+    <key>leftseveneighthsblock</key>
+    <string>leftseveneighthsblock.glif</string>
+    <key>leftthreeeighthsblock</key>
+    <string>leftthreeeighthsblock.glif</string>
+    <key>leftthreequartersblock</key>
+    <string>leftthreequartersblock.glif</string>
+    <key>leftupheavyrightdnlightbxd</key>
+    <string>leftupheavyrightdnlightbxd.glif</string>
     <key>less</key>
     <string>less.glif</string>
+    <key>less_asciitilde.liga</key>
+    <string>less_asciitilde.liga.glif</string>
+    <key>less_asciitilde_asciitilde.liga</key>
+    <string>less_asciitilde_asciitilde.liga.glif</string>
+    <key>less_asciitilde_greater.liga</key>
+    <string>less_asciitilde_greater.liga.glif</string>
+    <key>less_asterisk.liga</key>
+    <string>less_asterisk.liga.glif</string>
+    <key>less_asterisk_greater.liga</key>
+    <string>less_asterisk_greater.liga.glif</string>
+    <key>less_bar.liga</key>
+    <string>less_bar.liga.glif</string>
+    <key>less_bar_bar.liga</key>
+    <string>less_bar_bar.liga.glif</string>
+    <key>less_bar_bar_bar.liga</key>
+    <string>less_bar_bar_bar.liga.glif</string>
+    <key>less_bar_greater.liga</key>
+    <string>less_bar_greater.liga.glif</string>
+    <key>less_colon.liga</key>
+    <string>less_colon.liga.glif</string>
+    <key>less_dollar.liga</key>
+    <string>less_dollar.liga.glif</string>
+    <key>less_dollar.ligabar</key>
+    <string>less_dollar.ligabar.glif</string>
+    <key>less_dollar_greater.liga</key>
+    <string>less_dollar_greater.liga.glif</string>
+    <key>less_dollar_greater.ligabar</key>
+    <string>less_dollar_greater.ligabar.glif</string>
+    <key>less_equal</key>
+    <string>less_equal.glif</string>
+    <key>less_equal.liga</key>
+    <string>less_equal.liga.glif</string>
+    <key>less_equal.start</key>
+    <string>less_equal.start.glif</string>
+    <key>less_equal_greater.liga</key>
+    <string>less_equal_greater.liga.glif</string>
+    <key>less_equal_less.liga</key>
+    <string>less_equal_less.liga.glif</string>
+    <key>less_exclam_hyphen_hyphen.liga</key>
+    <string>less_exclam_hyphen_hyphen.liga.glif</string>
+    <key>less_greater.liga</key>
+    <string>less_greater.liga.glif</string>
+    <key>less_hyphen.liga</key>
+    <string>less_hyphen.liga.glif</string>
+    <key>less_hyphen.start</key>
+    <string>less_hyphen.start.glif</string>
+    <key>less_hyphen_greater.liga</key>
+    <string>less_hyphen_greater.liga.glif</string>
+    <key>less_hyphen_less.liga</key>
+    <string>less_hyphen_less.liga.glif</string>
+    <key>less_less.liga</key>
+    <string>less_less.liga.glif</string>
+    <key>less_less_equal.liga</key>
+    <string>less_less_equal.liga.glif</string>
+    <key>less_less_equal.start</key>
+    <string>less_less_equal.start.glif</string>
+    <key>less_less_hyphen.liga</key>
+    <string>less_less_hyphen.liga.glif</string>
+    <key>less_less_hyphen.start</key>
+    <string>less_less_hyphen.start.glif</string>
+    <key>less_less_less.liga</key>
+    <string>less_less_less.liga.glif</string>
+    <key>less_plus.liga</key>
+    <string>less_plus.liga.glif</string>
+    <key>less_plus_greater.liga</key>
+    <string>less_plus_greater.liga.glif</string>
+    <key>less_slash.liga</key>
+    <string>less_slash.liga.glif</string>
+    <key>less_slash_greater.liga</key>
+    <string>less_slash_greater.liga.glif</string>
     <key>lessequal</key>
     <string>lessequal.glif</string>
+    <key>lightarcdnleftbxd</key>
+    <string>lightarcdnleftbxd.glif</string>
+    <key>lightarcdnrightbxd</key>
+    <string>lightarcdnrightbxd.glif</string>
+    <key>lightarcupleftbxd</key>
+    <string>lightarcupleftbxd.glif</string>
+    <key>lightarcuprightbxd</key>
+    <string>lightarcuprightbxd.glif</string>
+    <key>lightdbldashhorzbxd</key>
+    <string>lightdbldashhorzbxd.glif</string>
+    <key>lightdbldashvertbxd</key>
+    <string>lightdbldashvertbxd.glif</string>
+    <key>lightdiagcrossbxd</key>
+    <string>lightdiagcrossbxd.glif</string>
+    <key>lightdiagupleftdnrightbxd</key>
+    <string>lightdiagupleftdnrightbxd.glif</string>
+    <key>lightdiaguprightdnleftbxd</key>
+    <string>lightdiaguprightdnleftbxd.glif</string>
+    <key>lightdnbxd</key>
+    <string>lightdnbxd.glif</string>
+    <key>lightdnhorzbxd</key>
+    <string>lightdnhorzbxd.glif</string>
+    <key>lightdnleftbxd</key>
+    <string>lightdnleftbxd.glif</string>
+    <key>lightdnrightbxd</key>
+    <string>lightdnrightbxd.glif</string>
+    <key>lighthorzbxd</key>
+    <string>lighthorzbxd.glif</string>
+    <key>lightleftbxd</key>
+    <string>lightleftbxd.glif</string>
+    <key>lightleftheavyrightbxd</key>
+    <string>lightleftheavyrightbxd.glif</string>
+    <key>lightquaddashhorzbxd</key>
+    <string>lightquaddashhorzbxd.glif</string>
+    <key>lightquaddashvertbxd</key>
+    <string>lightquaddashvertbxd.glif</string>
+    <key>lightrightbxd</key>
+    <string>lightrightbxd.glif</string>
+    <key>lightshade</key>
+    <string>lightshade.glif</string>
+    <key>lighttrpldashhorzbxd</key>
+    <string>lighttrpldashhorzbxd.glif</string>
+    <key>lighttrpldashvertbxd</key>
+    <string>lighttrpldashvertbxd.glif</string>
+    <key>lightupbxd</key>
+    <string>lightupbxd.glif</string>
+    <key>lightupheavydnbxd</key>
+    <string>lightupheavydnbxd.glif</string>
+    <key>lightuphorzbxd</key>
+    <string>lightuphorzbxd.glif</string>
+    <key>lightupleftbxd</key>
+    <string>lightupleftbxd.glif</string>
+    <key>lightuprightbxd</key>
+    <string>lightuprightbxd.glif</string>
+    <key>lightvertbxd</key>
+    <string>lightvertbxd.glif</string>
+    <key>lightverthorzbxd</key>
+    <string>lightverthorzbxd.glif</string>
+    <key>lightvertleftbxd</key>
+    <string>lightvertleftbxd.glif</string>
+    <key>lightvertrightbxd</key>
+    <string>lightvertrightbxd.glif</string>
+    <key>ligspacer</key>
+    <string>ligspacer.glif</string>
     <key>llinebelow</key>
     <string>llinebelow.glif</string>
     <key>lmacrondotbelow</key>
@@ -932,6 +1456,8 @@
     <string>mdotaccent.glif</string>
     <key>mdotbelow</key>
     <string>mdotbelow.glif</string>
+    <key>mediumshade</key>
+    <string>mediumshade.glif</string>
     <key>middotcat</key>
     <string>middotcat.glif</string>
     <key>middotcat.cap</key>
@@ -980,6 +1506,30 @@
     <string>ntilde.glif</string>
     <key>numbersign</key>
     <string>numbersign.glif</string>
+    <key>numbersign.end</key>
+    <string>numbersign.end.glif</string>
+    <key>numbersign.middle</key>
+    <string>numbersign.middle.glif</string>
+    <key>numbersign.start</key>
+    <string>numbersign.start.glif</string>
+    <key>numbersign_braceleft.liga</key>
+    <string>numbersign_braceleft.liga.glif</string>
+    <key>numbersign_bracketleft.liga</key>
+    <string>numbersign_bracketleft.liga.glif</string>
+    <key>numbersign_colon.liga</key>
+    <string>numbersign_colon.liga.glif</string>
+    <key>numbersign_equal.liga</key>
+    <string>numbersign_equal.liga.glif</string>
+    <key>numbersign_exclam.liga</key>
+    <string>numbersign_exclam.liga.glif</string>
+    <key>numbersign_parenleft.liga</key>
+    <string>numbersign_parenleft.liga.glif</string>
+    <key>numbersign_question.liga</key>
+    <string>numbersign_question.liga.glif</string>
+    <key>numbersign_underscore.liga</key>
+    <string>numbersign_underscore.liga.glif</string>
+    <key>numbersign_underscore_parenleft</key>
+    <string>numbersign_underscore_parenleft.glif</string>
     <key>o</key>
     <string>o.glif</string>
     <key>oacute</key>
@@ -1076,8 +1626,24 @@
     <string>parenright.glif</string>
     <key>percent</key>
     <string>percent.glif</string>
+    <key>percent_percent.liga</key>
+    <string>percent_percent.liga.glif</string>
     <key>period</key>
     <string>period.glif</string>
+    <key>period_equal.liga</key>
+    <string>period_equal.liga.glif</string>
+    <key>period_hyphen.liga</key>
+    <string>period_hyphen.liga.glif</string>
+    <key>period_period.liga</key>
+    <string>period_period.liga.glif</string>
+    <key>period_period_equal.liga</key>
+    <string>period_period_equal.liga.glif</string>
+    <key>period_period_less.liga</key>
+    <string>period_period_less.liga.glif</string>
+    <key>period_period_period.liga</key>
+    <string>period_period_period.liga.glif</string>
+    <key>period_question.liga</key>
+    <string>period_question.liga.glif</string>
     <key>periodcentered</key>
     <string>periodcentered.glif</string>
     <key>peso</key>
@@ -1086,6 +1652,12 @@
     <string>peso.bar.glif</string>
     <key>plus</key>
     <string>plus.glif</string>
+    <key>plus_greater.liga</key>
+    <string>plus_greater.liga.glif</string>
+    <key>plus_plus.liga</key>
+    <string>plus_plus.liga.glif</string>
+    <key>plus_plus_plus.liga</key>
+    <string>plus_plus_plus.liga.glif</string>
     <key>plusminus</key>
     <string>plusminus.glif</string>
     <key>primemod</key>
@@ -1096,6 +1668,14 @@
     <string>q.glif</string>
     <key>question</key>
     <string>question.glif</string>
+    <key>question_colon.liga</key>
+    <string>question_colon.liga.glif</string>
+    <key>question_equal.liga</key>
+    <string>question_equal.liga.glif</string>
+    <key>question_period.liga</key>
+    <string>question_period.liga.glif</string>
+    <key>question_question.liga</key>
+    <string>question_question.liga.glif</string>
     <key>questiondown</key>
     <string>questiondown.glif</string>
     <key>quotedbl</key>
@@ -1128,6 +1708,26 @@
     <string>rdotbelow.glif</string>
     <key>registered</key>
     <string>registered.glif</string>
+    <key>rightdnheavyleftuplightbxd</key>
+    <string>rightdnheavyleftuplightbxd.glif</string>
+    <key>righteighthblock</key>
+    <string>righteighthblock.glif</string>
+    <key>righthalfblock</key>
+    <string>righthalfblock.glif</string>
+    <key>rightheavyleftdnlightbxd</key>
+    <string>rightheavyleftdnlightbxd.glif</string>
+    <key>rightheavyleftuplightbxd</key>
+    <string>rightheavyleftuplightbxd.glif</string>
+    <key>rightheavyleftvertlightbxd</key>
+    <string>rightheavyleftvertlightbxd.glif</string>
+    <key>rightlightleftdnheavybxd</key>
+    <string>rightlightleftdnheavybxd.glif</string>
+    <key>rightlightleftupheavybxd</key>
+    <string>rightlightleftupheavybxd.glif</string>
+    <key>rightlightleftvertheavybxd</key>
+    <string>rightlightleftvertheavybxd.glif</string>
+    <key>rightupheavyleftdnlightbxd</key>
+    <string>rightupheavyleftdnlightbxd.glif</string>
     <key>ring</key>
     <string>ring.glif</string>
     <key>ringcmb</key>
@@ -1162,6 +1762,8 @@
     <string>section.glif</string>
     <key>semicolon</key>
     <string>semicolon.glif</string>
+    <key>semicolon_semicolon.liga</key>
+    <string>semicolon_semicolon.liga.glif</string>
     <key>servicemark</key>
     <string>servicemark.glif</string>
     <key>seven</key>
@@ -1188,6 +1790,24 @@
     <string>six.sup.glif</string>
     <key>slash</key>
     <string>slash.glif</string>
+    <key>slash_asterisk.liga</key>
+    <string>slash_asterisk.liga.glif</string>
+    <key>slash_backslash.liga</key>
+    <string>slash_backslash.liga.glif</string>
+    <key>slash_equal.liga</key>
+    <string>slash_equal.liga.glif</string>
+    <key>slash_equal.start</key>
+    <string>slash_equal.start.glif</string>
+    <key>slash_greater.liga</key>
+    <string>slash_greater.liga.glif</string>
+    <key>slash_slash.liga</key>
+    <string>slash_slash.liga.glif</string>
+    <key>slash_slash_equal.liga</key>
+    <string>slash_slash_equal.liga.glif</string>
+    <key>slash_slash_equal.start</key>
+    <string>slash_slash_equal.start.glif</string>
+    <key>slash_slash_slash.liga</key>
+    <string>slash_slash_slash.liga.glif</string>
     <key>space</key>
     <string>space.glif</string>
     <key>sterling</key>
@@ -1294,6 +1914,14 @@
     <string>umacron.glif</string>
     <key>underscore</key>
     <string>underscore.glif</string>
+    <key>underscore.end</key>
+    <string>underscore.end.glif</string>
+    <key>underscore.middle</key>
+    <string>underscore.middle.glif</string>
+    <key>underscore.start</key>
+    <string>underscore.start.glif</string>
+    <key>underscore_bar_underscore.m</key>
+    <string>underscore_bar_underscore.m.glif</string>
     <key>uni00A0</key>
     <string>uni00A_0.glif</string>
     <key>uni0326</key>
@@ -1308,10 +1936,88 @@
     <string>uni20B_A_.glif</string>
     <key>uni20BD</key>
     <string>uni20B_D_.glif</string>
+    <key>uni2610</key>
+    <string>uni2610.glif</string>
+    <key>uni2611</key>
+    <string>uni2611.glif</string>
+    <key>uni2612</key>
+    <string>uni2612.glif</string>
+    <key>uni2713</key>
+    <string>uni2713.glif</string>
     <key>uniA788</key>
     <string>uniA_788.glif</string>
+    <key>uniE0A0</key>
+    <string>uniE_0A_0.glif</string>
+    <key>uniE0A1</key>
+    <string>uniE_0A_1.glif</string>
+    <key>uniE0A2</key>
+    <string>uniE_0A_2.glif</string>
+    <key>uniE0B0</key>
+    <string>uniE_0B_0.glif</string>
+    <key>uniE0B1</key>
+    <string>uniE_0B_1.glif</string>
+    <key>uniE0B2</key>
+    <string>uniE_0B_2.glif</string>
+    <key>uniE0B3</key>
+    <string>uniE_0B_3.glif</string>
     <key>uogonek</key>
     <string>uogonek.glif</string>
+    <key>updblhorzsngbxd</key>
+    <string>updblhorzsngbxd.glif</string>
+    <key>updblleftsngbxd</key>
+    <string>updblleftsngbxd.glif</string>
+    <key>updblrightsngbxd</key>
+    <string>updblrightsngbxd.glif</string>
+    <key>upeighthblock</key>
+    <string>upeighthblock.glif</string>
+    <key>uphalfblock</key>
+    <string>uphalfblock.glif</string>
+    <key>upheavydnhorzlightbxd</key>
+    <string>upheavydnhorzlightbxd.glif</string>
+    <key>upheavyhorzlightbxd</key>
+    <string>upheavyhorzlightbxd.glif</string>
+    <key>upheavyleftdnlightbxd</key>
+    <string>upheavyleftdnlightbxd.glif</string>
+    <key>upheavyleftlightbxd</key>
+    <string>upheavyleftlightbxd.glif</string>
+    <key>upheavyrightdnlightbxd</key>
+    <string>upheavyrightdnlightbxd.glif</string>
+    <key>upheavyrightlightbxd</key>
+    <string>upheavyrightlightbxd.glif</string>
+    <key>upleftdnleftdnrightquadrant</key>
+    <string>upleftdnleftdnrightquadrant.glif</string>
+    <key>upleftdnrightquadrant</key>
+    <string>upleftdnrightquadrant.glif</string>
+    <key>upleftquadrant</key>
+    <string>upleftquadrant.glif</string>
+    <key>upleftuprightdnleftquadrant</key>
+    <string>upleftuprightdnleftquadrant.glif</string>
+    <key>upleftuprightdnrightquadrant</key>
+    <string>upleftuprightdnrightquadrant.glif</string>
+    <key>uplightdnhorzheavybxd</key>
+    <string>uplightdnhorzheavybxd.glif</string>
+    <key>uplighthorzheavybxd</key>
+    <string>uplighthorzheavybxd.glif</string>
+    <key>uplightleftdnheavybxd</key>
+    <string>uplightleftdnheavybxd.glif</string>
+    <key>uplightleftheavybxd</key>
+    <string>uplightleftheavybxd.glif</string>
+    <key>uplightrightdnheavybxd</key>
+    <string>uplightrightdnheavybxd.glif</string>
+    <key>uplightrightheavybxd</key>
+    <string>uplightrightheavybxd.glif</string>
+    <key>uprightdnleftdnrightquadrant</key>
+    <string>uprightdnleftdnrightquadrant.glif</string>
+    <key>uprightdnleftquadrant</key>
+    <string>uprightdnleftquadrant.glif</string>
+    <key>uprightquadrant</key>
+    <string>uprightquadrant.glif</string>
+    <key>upsnghorzdblbxd</key>
+    <string>upsnghorzdblbxd.glif</string>
+    <key>upsngleftdblbxd</key>
+    <string>upsngleftdblbxd.glif</string>
+    <key>upsngrightdblbxd</key>
+    <string>upsngrightdblbxd.glif</string>
     <key>uring</key>
     <string>uring.glif</string>
     <key>utilde</key>
@@ -1320,12 +2026,38 @@
     <string>v.glif</string>
     <key>vdotbelow</key>
     <string>vdotbelow.glif</string>
+    <key>vertdblhorzsngbxd</key>
+    <string>vertdblhorzsngbxd.glif</string>
+    <key>vertdblleftsngbxd</key>
+    <string>vertdblleftsngbxd.glif</string>
+    <key>vertdblrightsngbxd</key>
+    <string>vertdblrightsngbxd.glif</string>
+    <key>vertheavyhorzlightbxd</key>
+    <string>vertheavyhorzlightbxd.glif</string>
+    <key>vertheavyleftlightbxd</key>
+    <string>vertheavyleftlightbxd.glif</string>
+    <key>vertheavyrightlightbxd</key>
+    <string>vertheavyrightlightbxd.glif</string>
     <key>verticallinelowmod</key>
     <string>verticallinelowmod.glif</string>
     <key>verticallinemod</key>
     <string>verticallinemod.glif</string>
+    <key>vertlighthorzheavybxd</key>
+    <string>vertlighthorzheavybxd.glif</string>
+    <key>vertlightleftheavybxd</key>
+    <string>vertlightleftheavybxd.glif</string>
+    <key>vertlightrightheavybxd</key>
+    <string>vertlightrightheavybxd.glif</string>
+    <key>vertsnghorzdblbxd</key>
+    <string>vertsnghorzdblbxd.glif</string>
+    <key>vertsngleftdblbxd</key>
+    <string>vertsngleftdblbxd.glif</string>
+    <key>vertsngrightdblbxd</key>
+    <string>vertsngrightdblbxd.glif</string>
     <key>w</key>
     <string>w.glif</string>
+    <key>w_w_w.liga</key>
+    <string>w_w_w.liga.glif</string>
     <key>wacute</key>
     <string>wacute.glif</string>
     <key>wcircumflex</key>

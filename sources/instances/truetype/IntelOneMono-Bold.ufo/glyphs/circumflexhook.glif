@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="circumflexhook" format="2">
+  <outline>
+    <contour>
+      <point x="307" y="850" type="qcurve" smooth="yes"/>
+      <point x="307" y="808"/>
+      <point x="206" y="748"/>
+      <point x="107" y="731" type="qcurve"/>
+      <point x="77" y="788" type="line"/>
+      <point x="77" y="790" type="line"/>
+      <point x="136" y="803"/>
+      <point x="183" y="822"/>
+      <point x="183" y="834" type="qcurve" smooth="yes"/>
+      <point x="183" y="847"/>
+      <point x="119" y="864"/>
+      <point x="41" y="874" type="qcurve"/>
+      <point x="41" y="876" type="line"/>
+      <point x="93" y="940" type="line"/>
+      <point x="214" y="922"/>
+      <point x="307" y="884"/>
+    </contour>
+    <contour>
+      <point x="-141" y="553" type="line"/>
+      <point x="-188" y="609" type="line"/>
+      <point x="-31" y="738" type="line"/>
+      <point x="31" y="738" type="line"/>
+      <point x="188" y="609" type="line"/>
+      <point x="141" y="553" type="line"/>
+      <point x="0" y="638" type="line"/>
+    </contour>
+  </outline>
+</glyph>

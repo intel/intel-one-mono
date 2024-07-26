@@ -2,7 +2,6 @@
 <glyph name="dotlessj" format="2">
   <advance width="614"/>
   <unicode hex="0237"/>
-  <anchor x="366" y="502" name="aboveLC"/>
   <outline>
     <contour>
       <point x="395" y="-74" type="curve" smooth="yes"/>

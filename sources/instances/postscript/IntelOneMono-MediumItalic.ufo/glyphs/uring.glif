@@ -6,10 +6,4 @@
     <component base="u"/>
     <component base="ringcmb" xOffset="307" yOffset="-7"/>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.7843,0.7843,0.7843,1</string>
-    </dict>
-  </lib>
 </glyph>

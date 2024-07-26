@@ -1,7 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="dieresiscaron.cap" format="2">
-  <anchor x="132" y="691" name="_aboveUC"/>
-  <anchor x="123" y="661" name="_aboveUCx"/>
   <outline>
     <contour>
       <point x="44" y="1039" type="line"/>

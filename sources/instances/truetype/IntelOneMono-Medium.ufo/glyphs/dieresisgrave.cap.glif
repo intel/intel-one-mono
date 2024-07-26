@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dieresisgrave.cap" format="2">
+  <outline>
+    <contour>
+      <point x="-174" y="1078" type="line"/>
+      <point x="66" y="968" type="line"/>
+      <point x="41" y="904" type="line"/>
+      <point x="-206" y="1000" type="line"/>
+    </contour>
+    <contour>
+      <point x="-62" y="811" type="qcurve" smooth="yes"/>
+      <point x="-62" y="783"/>
+      <point x="-97" y="751"/>
+      <point x="-129" y="751" type="qcurve" smooth="yes"/>
+      <point x="-160" y="751"/>
+      <point x="-194" y="782"/>
+      <point x="-194" y="811" type="qcurve" smooth="yes"/>
+      <point x="-194" y="839"/>
+      <point x="-158" y="872"/>
+      <point x="-128" y="872" type="qcurve" smooth="yes"/>
+      <point x="-96" y="872"/>
+      <point x="-62" y="841"/>
+    </contour>
+    <contour>
+      <point x="194" y="811" type="qcurve" smooth="yes"/>
+      <point x="194" y="783"/>
+      <point x="159" y="751"/>
+      <point x="127" y="751" type="qcurve" smooth="yes"/>
+      <point x="96" y="751"/>
+      <point x="62" y="782"/>
+      <point x="62" y="811" type="qcurve" smooth="yes"/>
+      <point x="62" y="839"/>
+      <point x="98" y="872"/>
+      <point x="128" y="872" type="qcurve" smooth="yes"/>
+      <point x="160" y="872"/>
+      <point x="194" y="841"/>
+    </contour>
+  </outline>
+</glyph>

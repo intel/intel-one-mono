@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="equal_bar_bar.end" format="2">
+  <advance width="614"/>
+  <outline>
+    <contour>
+      <point x="-1244.0702143764092" y="209.0" type="line"/>
+      <point x="-16.07021437640914" y="209.0" type="line"/>
+      <point x="-1.1594543169511269" y="261.0" type="line"/>
+      <point x="-1229.159454316951" y="261.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="-1191.5958087825472" y="392.0" type="line"/>
+      <point x="36.404191217452706" y="392.0" type="line"/>
+      <point x="51.02820589115191" y="443.0" type="line"/>
+      <point x="-1176.9717941088481" y="443.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="168.4927662479" y="755.0" type="line"/>
+      <point x="110.4927662479" y="755.0" type="line"/>
+      <point x="-134.67453857588077" y="-100.0" type="line"/>
+      <point x="-76.67453857588079" y="-100.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="486.4927662479" y="755.0" type="line"/>
+      <point x="428.4927662479" y="755.0" type="line"/>
+      <point x="183.3254614241192" y="-100.0" type="line"/>
+      <point x="241.32546142411923" y="-100.0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

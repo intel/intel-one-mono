@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="asciitilde_hyphen.liga" format="2">
+  <advance width="614"/>
+  <outline>
+    <contour>
+      <point x="-64" y="364" type="qcurve" smooth="yes"/>
+      <point x="-29" y="378"/>
+      <point x="20" y="388"/>
+      <point x="46" y="388" type="qcurve" smooth="yes"/>
+      <point x="414" y="388" type="line"/>
+      <point x="414" y="272" type="line"/>
+      <point x="63" y="272" type="line" smooth="yes"/>
+      <point x="38" y="272"/>
+      <point x="-9" y="262"/>
+      <point x="-46" y="246" type="qcurve" smooth="yes"/>
+      <point x="-75" y="234"/>
+      <point x="-105" y="227"/>
+      <point x="-119" y="227" type="qcurve" smooth="yes"/>
+      <point x="-145" y="227"/>
+      <point x="-198" y="252"/>
+      <point x="-237" y="282" type="qcurve" smooth="yes"/>
+      <point x="-279" y="314"/>
+      <point x="-299" y="326"/>
+      <point x="-307" y="326" type="qcurve" smooth="yes"/>
+      <point x="-320" y="326"/>
+      <point x="-344" y="275"/>
+      <point x="-369" y="196" type="qcurve"/>
+      <point x="-480" y="226" type="line"/>
+      <point x="-444" y="359"/>
+      <point x="-378" y="460"/>
+      <point x="-320" y="460" type="qcurve" smooth="yes"/>
+      <point x="-297" y="460"/>
+      <point x="-257" y="441"/>
+      <point x="-189" y="390" type="qcurve" smooth="yes"/>
+      <point x="-158" y="367"/>
+      <point x="-125" y="352"/>
+      <point x="-108" y="352" type="qcurve" smooth="yes"/>
+      <point x="-101" y="352"/>
+      <point x="-83" y="356"/>
+    </contour>
+  </outline>
+</glyph>

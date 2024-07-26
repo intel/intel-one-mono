@@ -1,24 +1,21 @@
 Release Notes / Intel One Mono
-2023-08-18
+2024-07-26
 
 
-Family name
+Font family
 	Intel One Mono
 
-Version number
-	1.3 Updated font naming (“Intel One Mono”) - will require relinking
-		Improved linking of Regular and Bold weights
-		Improved alignment between hyphen, colon, and operators
-		Updated art for backtick/grave
-		Edited mark/ccmp features for language support
-		Edits to meta info and licensing text
+Version
+	1.4 Added optional programming ligatures
+		Added box-drawing glyphs
+		Small bugfixes and improvements
 
 
 Supported scripts
 	Latin (full glyph complement supporting over 200 languages)
 
 Number of glyphs 
-	684
+	1043
 
 Weights/Styles
 	Light
@@ -34,7 +31,7 @@ Usage
 	Text 
 	Use at 7 pt and up in print, 9 px and up on screen.
 
-File formats
+Font file formats
 	OTF 	(Desktop)
 	TTF 	(Desktop/App)
 	WOFF 	(Web)
@@ -48,14 +45,18 @@ Embedding settings
 	No embedding restrictions
 
 Available OpenType features 
-	ss11 	Raised Colon (Figures Only)
-	ss12 	Raised Colon (Global)
-	salt 	Stylistic Alternates
+	ss01 	Programming ligatures
+	ss02 	Arrow forms for less/equal and greater/equal combinations
+	ss03 	www ligature
+	ss11 	Raised colon (contextual with figures)
+	ss12 	Raised colon (global)
+	salt 	Raised colon (global)
 	locl 	Localizations
-	ccmp	Glyph Composition/Decomposition Rules
+	ccmp	Glyph composition/decomposition rules
 	mark 	Mark Attachment
 	numr 	Numerator
 	dnom	Denominator
 	sups	Superscript
 	subs 	Subscript
-	sinf	Scientific Inferior
+	sinf	Scientific inferior
+	aalt 	Access all alternates

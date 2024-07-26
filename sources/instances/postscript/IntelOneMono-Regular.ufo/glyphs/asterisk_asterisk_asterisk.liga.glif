@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="asterisk_asterisk_asterisk.liga" format="2">
+  <advance width="614"/>
+  <outline>
+    <component base="asterisk" xOffset="-1200" yOffset="-70"/>
+    <component base="asterisk" xOffset="-614" yOffset="25"/>
+    <component base="asterisk" xOffset="-28" yOffset="-70"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.7843,0.7843,0.7843,1</string>
+    </dict>
+  </lib>
+</glyph>

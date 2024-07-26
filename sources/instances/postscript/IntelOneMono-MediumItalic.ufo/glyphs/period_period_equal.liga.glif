@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="period_period_equal.liga" format="2">
+  <advance width="614"/>
+  <outline>
+    <contour>
+      <point x="-111" y="387" type="line"/>
+      <point x="382" y="387" type="line"/>
+      <point x="408" y="478" type="line"/>
+      <point x="-85" y="478" type="line"/>
+    </contour>
+    <contour>
+      <point x="-170" y="179" type="line"/>
+      <point x="323" y="179" type="line"/>
+      <point x="349" y="270" type="line"/>
+      <point x="-144" y="270" type="line"/>
+    </contour>
+    <contour>
+      <point x="-950" y="-15" type="curve" smooth="yes"/>
+      <point x="-866" y="-15"/>
+      <point x="-830" y="39"/>
+      <point x="-830" y="101" type="curve" smooth="yes"/>
+      <point x="-830" y="147"/>
+      <point x="-863" y="172"/>
+      <point x="-929" y="172" type="curve" smooth="yes"/>
+      <point x="-1013" y="172"/>
+      <point x="-1048" y="114"/>
+      <point x="-1048" y="57" type="curve" smooth="yes"/>
+      <point x="-1048" y="10"/>
+      <point x="-1015" y="-15"/>
+    </contour>
+    <contour>
+      <point x="-547" y="-15" type="curve" smooth="yes"/>
+      <point x="-463" y="-15"/>
+      <point x="-427" y="39"/>
+      <point x="-427" y="101" type="curve" smooth="yes"/>
+      <point x="-427" y="147"/>
+      <point x="-460" y="172"/>
+      <point x="-526" y="172" type="curve" smooth="yes"/>
+      <point x="-610" y="172"/>
+      <point x="-645" y="114"/>
+      <point x="-645" y="57" type="curve" smooth="yes"/>
+      <point x="-645" y="10"/>
+      <point x="-612" y="-15"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="equal_slash_equal.middle" format="2">
+  <advance width="614"/>
+  <outline>
+    <contour>
+      <point x="214" y="209" type="line"/>
+      <point x="-10" y="209" type="line"/>
+      <point x="-10" y="261" type="line"/>
+      <point x="242" y="261" type="line"/>
+      <point x="279" y="327" type="line"/>
+      <point x="314" y="392" type="line"/>
+      <point x="-10" y="392" type="line"/>
+      <point x="-10" y="443" type="line"/>
+      <point x="341" y="443" type="line"/>
+      <point x="507" y="755" type="line"/>
+      <point x="572" y="755" type="line"/>
+      <point x="399" y="443" type="line"/>
+      <point x="624" y="443" type="line"/>
+      <point x="624" y="392" type="line"/>
+      <point x="371" y="392" type="line"/>
+      <point x="335" y="327" type="line"/>
+      <point x="300" y="261" type="line"/>
+      <point x="624" y="261" type="line"/>
+      <point x="624" y="209" type="line"/>
+      <point x="273" y="209" type="line"/>
+      <point x="109" y="-100" type="line"/>
+      <point x="42" y="-100" type="line"/>
+    </contour>
+  </outline>
+</glyph>

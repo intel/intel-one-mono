@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hyphen_greater.end" format="2">
+  <advance width="614"/>
+  <outline>
+    <contour>
+      <point x="-614.0052550736043" y="272.0" type="line"/>
+      <point x="444.9947449263957" y="272.0" type="line"/>
+      <point x="478.2572096744175" y="388.0" type="line"/>
+      <point x="-580.7427903255825" y="388.0" type="line"/>
+    </contour>
+    <component base="arrowheadright"/>
+  </outline>
+</glyph>

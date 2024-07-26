@@ -1,8 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="commaturnedabovecmb" format="2">
   <unicode hex="0312"/>
-  <anchor x="77" y="502" name="_aboveLC"/>
-  <anchor x="68" y="472" name="_aboveLCx"/>
   <outline>
     <contour>
       <point x="247" y="773" type="line"/>

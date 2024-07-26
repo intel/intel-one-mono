@@ -2,7 +2,6 @@
 <glyph name="germandbls" format="2">
   <advance width="614"/>
   <unicode hex="00DF"/>
-  <guideline x="77" y="740" angle="332.30769230769226" identifier="MQxeJ95gZr"/>
   <outline>
     <contour>
       <point x="536" y="562" type="curve" smooth="yes"/>

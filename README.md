@@ -15,9 +15,9 @@ Intel One Mono also covers a wide range of over 200 languages using the Latin sc
 To install the fonts, please use the provided builds under [Releases](https://github.com/intel/intel-one-mono/releases). Please refer to your software’s documentation for how to activate and use these fonts.
 
 ### Activating the Fonts in Code Editors
-- VSCode - In Settings, search Font Family, then specify `IntelOne Mono`
-- Sublime Text - Go to Sublime Text -> Preferences -> Settings and set `font_face` to `IntelOne Mono`
-- IntelliJ Platform - Go to File -> Settings -> Editor -> Font and set Font to `IntelOne Mono`
+- VSCode - In Settings, search Font Family, then specify `Intel One Mono`
+- Sublime Text - Go to Sublime Text -> Preferences -> Settings and set `font_face` to `Intel One Mono`
+- IntelliJ Platform - Go to File -> Settings -> Editor -> Font and set Font to `Intel One Mono`
 
 ### Font Formats
 - We recommend the .otf or .ttf format for desktop use.
@@ -29,43 +29,49 @@ We recommend using these fonts at 7 points and larger in print, 9 pixels and lar
 
 ### Available OpenType Features
 Outside of the default characters, there are a few extra features that are accessible in some applications, as well as via CSS:
-- **Raised Colon:** there is an option for a raised colon, either applied contextually between numbers or activated generally. The contextual option is available via ss11 (Stylistic Set #11), or use ss12 (Stylistic Set #12) or salt (Stylistic Alternates) for the global switch. Also, the colon will automatically be raised in operators, to align with math symbols.
-- **Language Support:** ccmp and locl features ensure correct display across a wide range of languages. These are usually activated by default. We recommend setting the language tag/setting in your software to the desired language for best results.
-- **Superior/superscript and inferior/subscript figures** are included via their Unicode codepoints, or you can produce them from the default figures via the sups (Superscript), subs (Subscript), and si (Scientific Inferior) features.
-- **Fraction numerals** are similarly available via the numr (Numerator) and dnom (Denominator) features. A set of premade fractions is also available in the fonts.
+- **Programming Ligatures:** New in release 1.4, by popular demand. To use programming ligatures, activate the `ss01` feature (Stylistic Set #1). Additional refinements are available via `ss02` and `ss03`: Stylistic Set #2 switches the <= and >= combinations to arrow forms (math contractions being the default otherwise), and Stylistic Set #3 additionally activates a “www” ligature.
+- **Raised Colon:** The colon is automatically raised in operators, to align with math symbols. For non-programming contexts, the raised colon can be applied contextually between numbers or activated generally. The contextual option is available via `ss11` (Stylistic Set #11); for the global switch use `ss12` (Stylistic Set #12) or `salt` (Stylistic Alternates).
+- **Language Support:** `ccmp` and `locl` features ensure correct display across a wide range of languages. These are usually active by default. We recommend setting the language tag/setting in your software to the desired language for best results.
+- **Superior/superscript and inferior/subscript figures** are included via their Unicode codepoints, or you can produce them from the default figures via the `sups` (Superscript) and `subs`/`sinf` (Subscript) features.
+- **Fraction numerals** are similarly available via the `numr` (Numerator) and `dnom` (Denominator) features. A set of premade fractions is also available in the fonts.
+
+### Activating Programming Ligatures in Code Editors
+Programming ligatures are not active by default. To use them, activate the stylistic sets of your preference in your code editor. For example:
+- VSCode - In Settings, add `"editor.fontLigatures": "'ss01'"`
+- Sublime Text - In Settings, add `"font_options": ["ss01"]`
 
 ## Viewing and Editing Sources
 
 ### UFO Source Files: Instances
-You will find editable sources in the sources directory. The instances subfolder contains separate source files for each style of the typeface. Sources are provided in .ufo files, which contain complete artwork, OpenType features, as well as meta information like naming and vertical alignments for each style of the typeface.
+You will find editable sources in the `sources` directory. The `instances` subfolder contains separate source files for each style of the typeface. Sources are provided in .ufo files, which contain complete artwork, links to OpenType features provided in separate .fea files, as well as meta information like naming and vertical alignments for each style of the typeface.
 
 These are not installable fonts, but rather the source files that produce them: UFO (Unified Font Object) is an open, human-readable font source file format; you can find the [file spec here](https://github.com/unified-font-object/ufo-spec). 
-These sources were created using [RoboFont](https://robofont.com/). Many other font editors will also be able to open .ufo files; we recommend using RoboFont version 3.4 or up for the closest approximation of the original design and development environment.
+These sources were created using [RoboFont](https://robofont.com/). Many other font editors will also be able to open .ufo files; we recommend using RoboFont version 4.4.
 
 ### Outline Formats
-For instances, you will find postscript and truetype subfolders; these contain separate source files for the .otf format and the .ttf/.woff/.woff2 files respectively. Since the format for the outline drawings differs between these sets of formats, for best results we recommend using the postscript sources to create .otf fonts, and the TrueType sources to create .ttf, .woff, or .woff2 fonts.
+For instances, you will find `postscript` and `truetype` subfolders; these contain separate source files for the .otf format and the .ttf/.woff/.woff2 files respectively. Since the format for the outline drawings differs between these sets of formats, for best results we recommend using the postscript sources to create .otf fonts, and the TrueType sources to create .ttf, .woff, or .woff2 fonts.
  
 ### Generating Fonts
 After making your desired edits, you can generate installable fonts directly from the font editor using its “Generate Font” functionality. If you use RoboFont, any install options should default to the ideal settings, but here they are for reference:
 - For .otf builds, we recommend activating “Decompose” as well as “Autohint” options.
-- For .ttf, .woff and .woff2 builds, we recommend activating the “Autohint” option only for more compact files (see note on hinting below).
+- For .ttf, .woff and .woff2 builds, we recommend activating the “Autohint” option only (see note on hinting below).
 - In any case, we recommend using the “Release Mode” setting for best results.
  
 ### UFO Source Files: Masters
 
 If you would like to apply edits across multiple weights, a more advanced yet potentially efficient way is to edit the masters. These are special sources that describe the extreme points in the design space — the lightest and heaviest weights for both roman and italic designs.
 
-After editing masters, you will need to rerun interpolation to generate individual weights and styles within that design space. This requires the .designspace files enclosed with the masters; the designspace format is an open, XML-based format that describes interpolation spaces ([format specification](https://github.com/fonttools/fonttools/tree/main/Doc/source/designspaceLib) for reference). For a RoboFont-based workflow we recommend [Skateboard](https://extensionstore.robofont.com/extensions/skateboard/) for interpolation; you can also use the free [DesignSpaceEditor](https://github.com/LettError/designSpaceRoboFontExtension) extension to view and edit these files.
+After editing masters, you will need to rerun interpolation to generate individual weights and styles within that design space. This requires the .designspace files enclosed with the masters. The designspace format is an open, XML-based format that describes interpolation spaces ([format specification](https://github.com/fonttools/fonttools/tree/main/Doc/source/designspaceLib) for reference). For a RoboFont-based workflow we recommend [Skateboard](https://extensionstore.robofont.com/extensions/skateboard/) for interpolation; you can also use the free [DesignSpaceEditor](https://github.com/LettError/designSpaceRoboFontExtension) extension to view and edit these files.
 
 Note that masters are only available in postscript format, so they will be best for creating .otf fonts. If you need to make TrueType based builds from the masters, we recommend [QuadraticConverter](https://github.com/BlackFoundry/QuadraticConverter) for best quality conversion of the curves before generating .ttf, .woff, or .woff2 files; mind that the results will not match the provided instances precisely.
 
-NB: The prepared instances contain some additional data that cannot be stored in the masters and maintained through interpolation. For best results, compare new interpolations to the existing instance sources and update them accordingly, specifically the information accessible through the Font Info panels.
+NB: The prepared instances contain some additional data that cannot be maintained through interpolation. For best results, compare new interpolations to the existing instance sources and update them accordingly, specifically the information accessible through the Font Info panels.
 
 
-### Other Files: Hinting Source
+### Hinting Source
 For TrueType-based formats (.ttf, .woff, .woff2 files), the official releases are manually optimized for screen rendering. These “hinting” sources are stored separately from the .ufo files, which do not contain any TrueType hinting information. When rebuilding TrueType-based formats, we recommend using the “autohint” option to achieve reasonable, though not identical screen rendering.
 
-If you would like to access and edit manual hinting instructions, you will find these in the separate set of source files under other files/truetype hinting source. These special TTF files will be viewable and editable using [Microsoft VTT](https://learn.microsoft.com/en-us/typography/tools/vtt/).
+If you would like to access and edit manual hinting instructions, you will find these in the separate set of source files under `hinting/truetype hinting source`. These special TTF files will be viewable and editable using [Microsoft VTT](https://learn.microsoft.com/en-us/typography/tools/vtt/).
  
  
 ## Suggesting Edits

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="equal_slash_slash.end" format="2">
+  <advance width="614"/>
+  <outline>
+    <contour>
+      <point x="429" y="755" type="line"/>
+      <point x="564" y="755" type="line"/>
+      <point x="166" y="-100" type="line"/>
+      <point x="30" y="-100" type="line"/>
+    </contour>
+    <contour>
+      <point x="103" y="755" type="line"/>
+      <point x="238" y="755" type="line"/>
+      <point x="-160" y="-100" type="line"/>
+      <point x="-296" y="-100" type="line"/>
+      <point x="-174" y="161" type="line"/>
+      <point x="-1238" y="161" type="line"/>
+      <point x="-1238" y="276" type="line"/>
+      <point x="-121" y="276" type="line"/>
+      <point x="-70" y="384" type="line"/>
+      <point x="-1238" y="384" type="line"/>
+      <point x="-1238" y="500" type="line"/>
+      <point x="-16" y="500" type="line"/>
+    </contour>
+  </outline>
+</glyph>
