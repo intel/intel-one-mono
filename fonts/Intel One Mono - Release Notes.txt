@@ -1,11 +1,11 @@
 Release Notes / Intel One Mono
-2024-07-26
+02/17/2025
 
+Font 
+Family
+	Intel
 
-Font family
-	Intel One Mono
-
-Version
+Version 1.0
 	1.4 Added optional programming ligatures
 		Added box-drawing glyphs
 		Small bugfixes and improvements
