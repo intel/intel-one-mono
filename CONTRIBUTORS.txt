@@ -8,7 +8,7 @@
 #
 # Names should be added to this file as:
 # Name <email address>
-
+McCoy L Stevens
 Fred Shallcrass
 Nina Stössinger
 Tobias Frere-Jones
