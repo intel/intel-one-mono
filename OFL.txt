@@ -1,14 +1,9 @@
-Copyright 2023-2024 The Intel One Mono Project Authors (https://github.com/intel/intel-one-mono), with Reserved Font Name 'Intel'
-
+Copyright 2025-2026 The Intel One Mono Project Authors (https://github.com/intel/intel-one-mono), with Reserved Font [Name: 'Intel']
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
 This license is copied below, and is also available with a FAQ at:
 https://scripts.sil.org/OFL
 
-
------------------------------------------------------------
 SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007
------------------------------------------------------------
-
 PREAMBLE
 The goals of the Open Font License (OFL) are to stimulate worldwide
 development of collaborative font projects, to support the font creation
