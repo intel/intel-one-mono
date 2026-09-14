@@ -76,4 +76,4 @@ If you would like to access and edit manual hinting instructions, you will find 
  
  
 ## Suggesting Edits
-If you have suggestions for edits or additions to the official releases, please email brand_q@intel.com. 
+Intel One Mono is currently considered 'feature complete' and not under active development. If you have suggestions for edits or additions to the official releases, please email brand_q@intel.com. 
