@@ -73,6 +73,8 @@ For TrueType-based formats (.ttf, .woff, .woff2 files), the official releases ar
 
 If you would like to access and edit manual hinting instructions, you will find these in the separate set of source files under `hinting/truetype hinting source`. These special TTF files will be viewable and editable using [Microsoft VTT](https://learn.microsoft.com/en-us/typography/tools/vtt/).
 
+### Linespacing
+Intel One Mono has a relatively large linespacing default where the 1.38 em matches the 1380 span. This larger linespace has been chosen to enhance legibility by reducing crowding, increasing negative space and allowing for longer ascenders, descenders and other characteristics crucial for distinguishing glyphs from one another.
  
  
 ## Suggesting Edits
