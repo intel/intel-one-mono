@@ -7,10 +7,4 @@
     <component base="macroncmb.cap" xOffset="319"/>
     <component base="dotbelowcmb" xOffset="332"/>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.7843,0.7843,0.7843,1</string>
-    </dict>
-  </lib>
 </glyph>

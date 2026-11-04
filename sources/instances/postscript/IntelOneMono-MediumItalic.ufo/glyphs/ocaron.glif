@@ -6,10 +6,4 @@
     <component base="o"/>
     <component base="caroncmb" xOffset="296" yOffset="5"/>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.7843,0.7843,0.7843,1</string>
-    </dict>
-  </lib>
 </glyph>

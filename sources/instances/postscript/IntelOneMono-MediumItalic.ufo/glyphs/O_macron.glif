@@ -6,10 +6,4 @@
     <component base="O"/>
     <component base="macroncmb.cap" xOffset="304" yOffset="5"/>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.7843,0.7843,0.7843,1</string>
-    </dict>
-  </lib>
 </glyph>

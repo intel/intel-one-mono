@@ -7,10 +7,4 @@
     <component base="circumflexcmb" xOffset="318" yOffset="-1"/>
     <component base="dotbelowcmb" xOffset="319" yOffset="-3"/>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.7843,0.7843,0.7843,1</string>
-    </dict>
-  </lib>
 </glyph>
