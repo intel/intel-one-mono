@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="circleblack" format="2">
+  <advance width="1000"/>
+  <outline>
+    <contour>
+      <point x="-120" y="267" type="line"/>
+      <point x="0" y="315.0" type="line"/>
+      <point x="0" y="339.0" type="line"/>
+      <point x="-120" y="387" type="line"/>
+    </contour>
+    <contour>
+      <point x="1000" y="315.0" type="line"/>
+      <point x="1120" y="267" type="line"/>
+      <point x="1120" y="387" type="line"/>
+      <point x="1000" y="339.0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

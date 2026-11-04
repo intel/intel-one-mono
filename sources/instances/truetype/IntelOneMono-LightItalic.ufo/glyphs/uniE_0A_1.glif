@@ -4,24 +4,39 @@
   <unicode hex="E0A1"/>
   <outline>
     <contour>
-      <point x="188" y="373" type="line"/>
-      <point x="313" y="808" type="line"/>
-      <point x="374" y="808" type="line"/>
-      <point x="263" y="423" type="line"/>
-      <point x="522" y="423" type="line"/>
-      <point x="508" y="373" type="line"/>
+      <point x="147" y="808" type="line"/>
+      <point x="147" y="373" type="line"/>
+      <point x="467" y="373" type="line"/>
+      <point x="467" y="419" type="line"/>
+      <point x="198" y="419" type="line"/>
+      <point x="198" y="808" type="line"/>
     </contour>
     <contour>
-      <point x="201" y="232" type="line"/>
-      <point x="92" y="-163" type="line"/>
-      <point x="34" y="-163" type="line"/>
-      <point x="159" y="272" type="line"/>
-      <point x="258" y="272" type="line"/>
-      <point x="317" y="-106" type="line"/>
-      <point x="421" y="272" type="line"/>
-      <point x="479" y="272" type="line"/>
-      <point x="354" y="-163" type="line"/>
-      <point x="263" y="-163" type="line"/>
+      <point x="191" y="-163" type="line"/>
+      <point x="186" y="236" type="line"/>
+      <point x="404" y="-163" type="line"/>
+      <point x="467" y="-163" type="line"/>
+      <point x="467" y="272" type="line"/>
+      <point x="423" y="272" type="line"/>
+      <point x="427" y="-114" type="line"/>
+      <point x="218" y="272" type="line"/>
+      <point x="147" y="272" type="line"/>
+      <point x="147" y="-163" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>1c49526950f18e844eacebe8b0fca4eaab538ec222a5ae6f4998d85450d5c3910c63483b3db63b2ab518e1de3c0dd32734fe4c401cfb03d655c0b6a87ecd44c8</string>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="three.den_round" format="2">
+  <advance width="614"/>
+  <outline>
+    <contour>
+      <point x="182" y="-5" type="line"/>
+      <point x="292" y="2"/>
+      <point x="427" y="79"/>
+      <point x="427" y="137" type="qcurve"/>
+      <point x="427" y="163"/>
+      <point x="391" y="201"/>
+      <point x="355" y="207" type="qcurve"/>
+      <point x="418" y="225"/>
+      <point x="477" y="287"/>
+      <point x="477" y="317" type="qcurve"/>
+      <point x="477" y="346"/>
+      <point x="428" y="388"/>
+      <point x="374" y="388" type="qcurve"/>
+      <point x="337" y="388"/>
+      <point x="249" y="371"/>
+      <point x="203" y="354" type="qcurve"/>
+      <point x="203" y="299" type="line"/>
+      <point x="246" y="315"/>
+      <point x="325" y="333"/>
+      <point x="354" y="333" type="qcurve"/>
+      <point x="385" y="333"/>
+      <point x="409" y="315"/>
+      <point x="409" y="302" type="qcurve"/>
+      <point x="409" y="291"/>
+      <point x="383" y="258"/>
+      <point x="305" y="225"/>
+      <point x="227" y="212" type="qcurve"/>
+      <point x="223" y="168" type="line"/>
+      <point x="240" y="171"/>
+      <point x="278" y="175"/>
+      <point x="293" y="175" type="qcurve"/>
+      <point x="330" y="175"/>
+      <point x="365" y="152"/>
+      <point x="365" y="135" type="qcurve"/>
+      <point x="365" y="112"/>
+      <point x="292" y="57"/>
+      <point x="191" y="50" type="qcurve"/>
+      <point x="115" y="45" type="line"/>
+      <point x="104" y="-10" type="line"/>
+    </contour>
+  </outline>
+</glyph>

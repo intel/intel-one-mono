@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="checkheavy" format="2">
+  <advance width="614"/>
+  <unicode hex="2714"/>
+  <outline>
+    <contour>
+      <point x="205.0" y="61.92307692307692" type="line"/>
+      <point x="309.36508082068485" y="61.92307692307692" type="line"/>
+      <point x="637.9259453774955" y="585.3076923076923" type="line"/>
+      <point x="536.0" y="609.0769230769231" type="line"/>
+    </contour>
+    <contour>
+      <point x="267.84615384615387" y="61.92307692307692" type="line"/>
+      <point x="185.53846153846155" y="376.0" type="line"/>
+      <point x="86.70880801349912" y="335.3076923076923" type="line"/>
+      <point x="172.1343115899156" y="61.92307692307692" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.1961,0.7451,0.4314,1</string>
+    </dict>
+  </lib>
+</glyph>

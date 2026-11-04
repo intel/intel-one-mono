@@ -6,4 +6,10 @@
     <component base="asterisk" xOffset="-614" yOffset="-66"/>
     <component base="greater" xOffset="-25" yOffset="2"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.7843,0.7843,0.7843,1</string>
+    </dict>
+  </lib>
 </glyph>

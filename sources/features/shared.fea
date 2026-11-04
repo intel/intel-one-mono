@@ -23,11 +23,15 @@ languagesystem latn CAT;
 @ltrLC =   [a    b    c    d    e    f    g    h    i    j    k    l    m    n    o    p    q    r    s    t    u    v    w    x    y    z    germandbls    ae    oe    schwa    eng    thorn    eth    dcroat    hbar    tbar    lslash    oslash    aring    ohorn    uhorn    dotlessi];
 
 # Figures
-@fig =    [zero     one     two     three     four     five     six     seven     eight     nine];
-@figSup = [zero.sup one.sup two.sup three.sup four.sup five.sup six.sup seven.sup eight.sup nine.sup];
-@figInf = [zero.inf one.inf two.inf three.inf four.inf five.inf six.inf seven.inf eight.inf nine.inf];
-@figNum = [zero.num one.num two.num three.num four.num five.num six.num seven.num eight.num nine.num];
-@figDen = [zero.den one.den two.den three.den four.den five.den six.den seven.den eight.den nine.den];
+@fig =    [zero     one     two     three     three.round     four     five     six     seven     eight     nine];
+@figSup = [zero.sup one.sup two.sup three.sup three.sup_round four.sup five.sup six.sup seven.sup eight.sup nine.sup];
+@figInf = [zero.inf one.inf two.inf three.inf three.inf_round four.inf five.inf six.inf seven.inf eight.inf nine.inf];
+@figNum = [zero.num one.num two.num three.num three.num_round four.num five.num six.num seven.num eight.num nine.num];
+@figDen = [zero.den one.den two.den three.den three.den_round four.den five.den six.den seven.den eight.den nine.den];
+
+# Alternate Three
+@threeD   = [three       onethird       twothirds       threequarters       threefifths       threeeighths       three.sup       three.inf       three.num       three.den      ];
+@threeAlt = [three.round onethird.round twothirds.round threequarters.round threefifths.round threeeighths.round three.sup_round three.inf_round three.num_round three.den_round];
 
 # Marks Above
 @lcMarks =   [acutecmb     gravecmb     hungarumlautcmb     circumflexcmb     caroncmb     brevecmb     tildecmb     macroncmb     dieresiscmb     dotaccentcmb     ringcmb    ];
@@ -1671,6 +1675,17 @@ feature ss03 {
       sub ligspacer w' w by ligspacer;
     } w_w_w;
 } ss03;
+
+
+feature ss04 {
+    featureNames {
+        name "Round-top 3"; # Windows English
+        name 1 0 0 "Round-top 3"; # Mac English
+    };
+    lookup roundThree {
+      sub @threeD by @threeAlt;
+    } roundThree;
+} ss04;
 
 
 feature ss11 {

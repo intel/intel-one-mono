@@ -5,4 +5,10 @@
     <component base="numbersign" xOffset="-514"/>
     <component base="exclam" xOffset="-7"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.7843,0.7843,0.7843,1</string>
+    </dict>
+  </lib>
 </glyph>

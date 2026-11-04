@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="onethird.round" format="2">
+  <advance width="614"/>
+  <outline>
+    <component base="three.den_round" xOffset="136.05714874411305" yOffset="-230.52197802197804"/>
+    <component base="fracbar"/>
+    <component base="one.den" xOffset="-91.89205259026687" yOffset="275"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.7843,0.7843,0.7843,1</string>
+    </dict>
+  </lib>
+</glyph>

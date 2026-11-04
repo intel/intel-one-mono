@@ -6,4 +6,10 @@
     <component base="exclam" xOffset="-608"/>
     <component base="period" xOffset="-113"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.7843,0.7843,0.7843,1</string>
+    </dict>
+  </lib>
 </glyph>

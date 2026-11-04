@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="three.inf_round" format="2">
+  <advance width="614"/>
+  <outline>
+    <component base="three.den_round" xOffset="-65" yOffset="-230"/>
+  </outline>
+</glyph>

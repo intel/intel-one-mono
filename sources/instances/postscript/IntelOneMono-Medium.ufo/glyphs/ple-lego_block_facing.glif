@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ple-lego_block_facing" format="2">
+  <advance width="614"/>
+  <unicode hex="E0D0"/>
+  <outline>
+    <contour>
+      <point x="0" y="-153" type="line"/>
+      <point x="982" y="-153" type="line"/>
+      <point x="982" y="813" type="line"/>
+      <point x="0" y="813" type="line"/>
+    </contour>
+    <contour>
+      <point x="293" y="685" type="curve" smooth="yes"/>
+      <point x="395" y="685"/>
+      <point x="452" y="626"/>
+      <point x="452" y="524" type="curve" smooth="yes"/>
+      <point x="452" y="420"/>
+      <point x="395" y="364"/>
+      <point x="293" y="364" type="curve" smooth="yes"/>
+      <point x="188" y="364"/>
+      <point x="132" y="420"/>
+      <point x="132" y="524" type="curve" smooth="yes"/>
+      <point x="132" y="626"/>
+      <point x="188" y="685"/>
+    </contour>
+    <contour>
+      <point x="689" y="685" type="curve" smooth="yes"/>
+      <point x="791" y="685"/>
+      <point x="850" y="626"/>
+      <point x="850" y="524" type="curve" smooth="yes"/>
+      <point x="850" y="420"/>
+      <point x="791" y="364"/>
+      <point x="689" y="364" type="curve" smooth="yes"/>
+      <point x="586" y="364"/>
+      <point x="530" y="420"/>
+      <point x="530" y="524" type="curve" smooth="yes"/>
+      <point x="530" y="626"/>
+      <point x="586" y="685"/>
+    </contour>
+    <contour>
+      <point x="293" y="296" type="curve" smooth="yes"/>
+      <point x="395" y="296"/>
+      <point x="452" y="238"/>
+      <point x="452" y="136" type="curve" smooth="yes"/>
+      <point x="452" y="33"/>
+      <point x="395" y="-25"/>
+      <point x="293" y="-25" type="curve" smooth="yes"/>
+      <point x="188" y="-25"/>
+      <point x="132" y="33"/>
+      <point x="132" y="136" type="curve" smooth="yes"/>
+      <point x="132" y="238"/>
+      <point x="188" y="296"/>
+    </contour>
+    <contour>
+      <point x="689" y="296" type="curve" smooth="yes"/>
+      <point x="791" y="296"/>
+      <point x="850" y="238"/>
+      <point x="850" y="136" type="curve" smooth="yes"/>
+      <point x="850" y="33"/>
+      <point x="791" y="-25"/>
+      <point x="689" y="-25" type="curve" smooth="yes"/>
+      <point x="586" y="-25"/>
+      <point x="530" y="33"/>
+      <point x="530" y="136" type="curve" smooth="yes"/>
+      <point x="530" y="238"/>
+      <point x="586" y="296"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>2a45ecaadde8d66b185fcc0f28d953f8886216fb16f4512a5d7fb2d52f6f651491cf7da29d9b8dd7ca620894c9976e17f5e97f70ef5535265ba36ce164376187</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

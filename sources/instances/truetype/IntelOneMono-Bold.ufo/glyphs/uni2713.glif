@@ -4,13 +4,28 @@
   <unicode hex="2713"/>
   <outline>
     <contour>
-      <point x="384" y="598" type="line"/>
-      <point x="537" y="598" type="line"/>
-      <point x="407" y="55" type="line"/>
-      <point x="183" y="55" type="line"/>
-      <point x="69" y="388" type="line"/>
-      <point x="225" y="388" type="line"/>
-      <point x="291" y="174" type="line"/>
+      <point x="533" y="588" type="line"/>
+      <point x="388" y="616" type="line"/>
+      <point x="284" y="166" type="line"/>
+      <point x="205" y="389" type="line"/>
+      <point x="64" y="341" type="line"/>
+      <point x="178" y="55" type="line"/>
+      <point x="402" y="55" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>w614l533+588l388+616l284+166l205+389l64+341l178+55l402+55|</string>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

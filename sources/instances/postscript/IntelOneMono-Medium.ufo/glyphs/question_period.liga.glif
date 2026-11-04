@@ -5,4 +5,10 @@
     <component base="question" xOffset="-506"/>
     <component base="period" xOffset="-108"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.7843,0.7843,0.7843,1</string>
+    </dict>
+  </lib>
 </glyph>

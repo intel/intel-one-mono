@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="checkheavy" format="2">
+  <advance width="614"/>
+  <unicode hex="2714"/>
+  <outline>
+    <contour>
+      <point x="652" y="583" type="line"/>
+      <point x="519" y="611" type="line"/>
+      <point x="253" y="156" type="line"/>
+      <point x="206" y="387" type="line"/>
+      <point x="75" y="338" type="line"/>
+      <point x="149" y="60" type="line"/>
+      <point x="332" y="60" type="line"/>
+    </contour>
+  </outline>
+</glyph>

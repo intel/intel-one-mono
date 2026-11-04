@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="brailleTemplate" format="2">
+  <advance width="614"/>
+  <anchor x="172" y="600" name="dot1"/>
+  <anchor x="172" y="418.33" name="dot2"/>
+  <anchor x="172" y="236.67" name="dot3"/>
+  <anchor x="442" y="600" name="dot4"/>
+  <anchor x="442" y="418.33" name="dot5"/>
+  <anchor x="442" y="236.67" name="dot6"/>
+  <anchor x="172" y="55" name="dot7"/>
+  <anchor x="442" y="55" name="dot8"/>
+  <outline>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.1961,0.7451,0.4314,1</string>
+    </dict>
+  </lib>
+</glyph>

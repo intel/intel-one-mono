@@ -1,6 +1,6 @@
 
 include(../../features/shared.fea);
 
-include(../../features/mark/IntelOneMono-Italic mark.fea);
+include(../../features/mark/IntelOneMono-Bold mark.fea);
 
 include(../../features/aalt.fea);

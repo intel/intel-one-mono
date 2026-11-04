@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="arrowNE" format="2">
+  <advance width="614"/>
+  <unicode hex="2197"/>
+  <outline>
+    <contour>
+      <point x="473.84615384615387" y="527.2307692307693" type="line"/>
+      <point x="97.46153846153847" y="151.84615384615384" type="line"/>
+      <point x="134.07692307692307" y="115.23076923076923" type="line"/>
+      <point x="510.15384615384613" y="490.9230769230769" type="line"/>
+    </contour>
+    <contour>
+      <point x="518.0" y="532.7692307692307" type="line"/>
+      <point x="516.0" y="534.7692307692307" type="line"/>
+      <point x="468.0" y="509.84615384615387" type="line"/>
+      <point x="468.0" y="150.53846153846155" type="line"/>
+      <point x="518.0" y="150.53846153846155" type="line"/>
+    </contour>
+    <contour>
+      <point x="515.6923076923077" y="535.0769230769231" type="line"/>
+      <point x="133.46153846153845" y="535.0769230769231" type="line"/>
+      <point x="133.46153846153845" y="485.0769230769231" type="line"/>
+      <point x="493.6923076923077" y="484.46153846153845" type="line"/>
+      <point x="517.6923076923077" y="533.0769230769231" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.1961,0.7451,0.4314,1</string>
+    </dict>
+  </lib>
+</glyph>

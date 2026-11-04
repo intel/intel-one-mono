@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ple-trapezoid_top_bottom" format="2">
+  <advance width="614"/>
+  <outline>
+    <contour>
+      <point x="-120" y="340" type="line"/>
+      <point x="0" y="388.0" type="line"/>
+      <point x="0" y="412.0" type="line"/>
+      <point x="-120" y="460" type="line"/>
+    </contour>
+    <contour>
+      <point x="614" y="388.0" type="line"/>
+      <point x="734" y="340" type="line"/>
+      <point x="734" y="460" type="line"/>
+      <point x="614" y="412.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="600" y="1093" type="line"/>
+      <point x="189" y="462" type="line"/>
+      <point x="-11" y="462" type="line"/>
+      <point x="-11" y="1097" type="line"/>
+    </contour>
+    <contour>
+      <point x="615" y="-297" type="line"/>
+      <point x="-11" y="-297" type="line"/>
+      <point x="-11" y="337" type="line"/>
+      <point x="182" y="337" type="line"/>
+    </contour>
+  </outline>
+</glyph>

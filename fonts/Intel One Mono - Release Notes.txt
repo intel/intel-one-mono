@@ -1,13 +1,15 @@
 Release Notes / Intel One Mono
-2024-07-26
+2026-11-04
 
 
 Font family
 	Intel One Mono
 
 Version
-	1.4 Added optional programming ligatures
-		Added box-drawing glyphs
+	1.5 Added braille support
+		Added Powerline support
+		Added various arrows and symbols
+		Added alternate round top three 
 		Small bugfixes and improvements
 
 
@@ -15,7 +17,7 @@ Supported scripts
 	Latin (full glyph complement supporting over 200 languages)
 
 Number of glyphs 
-	1043
+	1385
 
 Weights/Styles
 	Light
@@ -48,9 +50,10 @@ Available OpenType features
 	ss01 	Programming ligatures
 	ss02 	Arrow forms for less/equal and greater/equal combinations
 	ss03 	www ligature
+	ss04	Round-top three
 	ss11 	Raised colon (contextual with figures)
 	ss12 	Raised colon (global)
-	salt 	Raised colon (global)
+	salt 	Round-top three, raised colon (global)
 	locl 	Localizations
 	ccmp	Glyph composition/decomposition rules
 	mark 	Mark Attachment

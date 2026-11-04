@@ -5,4 +5,10 @@
     <component base="percent" xOffset="-606"/>
     <component base="percent" xOffset="-8"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.7843,0.7843,0.7843,1</string>
+    </dict>
+  </lib>
 </glyph>

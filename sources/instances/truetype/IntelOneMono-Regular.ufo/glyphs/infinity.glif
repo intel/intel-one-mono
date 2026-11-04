@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="infinity" format="2">
+  <advance width="614"/>
+  <unicode hex="221E"/>
+  <outline>
+    <contour>
+      <point x="583" y="324" type="qcurve"/>
+      <point x="583" y="441"/>
+      <point x="505" y="556"/>
+      <point x="450" y="556" type="qcurve"/>
+      <point x="407" y="556"/>
+      <point x="339" y="477"/>
+      <point x="307" y="394" type="qcurve"/>
+      <point x="275" y="475"/>
+      <point x="203" y="556"/>
+      <point x="159" y="556" type="qcurve"/>
+      <point x="102" y="556"/>
+      <point x="26" y="433"/>
+      <point x="26" y="327" type="qcurve"/>
+      <point x="26" y="215"/>
+      <point x="105" y="95"/>
+      <point x="159" y="95" type="qcurve"/>
+      <point x="202" y="95"/>
+      <point x="268" y="177"/>
+      <point x="302" y="262" type="qcurve"/>
+      <point x="336" y="179"/>
+      <point x="405" y="95"/>
+      <point x="450" y="95" type="qcurve"/>
+      <point x="511" y="95"/>
+      <point x="583" y="210"/>
+    </contour>
+    <contour>
+      <point x="278" y="326" type="qcurve"/>
+      <point x="281" y="318" type="line"/>
+      <point x="256" y="240"/>
+      <point x="202" y="178"/>
+      <point x="171" y="178" type="qcurve"/>
+      <point x="135" y="178"/>
+      <point x="87" y="261"/>
+      <point x="87" y="325" type="qcurve"/>
+      <point x="87" y="389"/>
+      <point x="135" y="472"/>
+      <point x="170" y="472" type="qcurve"/>
+      <point x="198" y="472"/>
+      <point x="249" y="407"/>
+    </contour>
+    <contour>
+      <point x="331" y="326" type="qcurve"/>
+      <point x="329" y="333" type="line"/>
+      <point x="357" y="411"/>
+      <point x="407" y="472"/>
+      <point x="438" y="472" type="qcurve"/>
+      <point x="475" y="472"/>
+      <point x="522" y="390"/>
+      <point x="522" y="326" type="qcurve"/>
+      <point x="522" y="262"/>
+      <point x="475" y="178"/>
+      <point x="439" y="178" type="qcurve"/>
+      <point x="411" y="178"/>
+      <point x="358" y="244"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>9994fb8697fa63f7b7aaab8adbbfd73ddc0e930fa1c5537cd5bcc027b4775f43b4cfc25efa8382bf678542f950cb369848f6ef068b96ea0b758bc27bef9158a4</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ple-trapezoid_top_bottom_mirrored" format="2">
+  <advance width="614"/>
+  <unicode hex="E0D4"/>
+  <outline>
+    <contour>
+      <point x="15.0" y="1020.0" type="line"/>
+      <point x="634.0" y="1020.0" type="line"/>
+      <point x="634.0" y="394.0" type="line"/>
+      <point x="352.0" y="394.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="15.0" y="-360.0" type="line"/>
+      <point x="353.0" y="269.0" type="line"/>
+      <point x="634.0" y="269.0" type="line"/>
+      <point x="634.0" y="-360.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.1961,0.7451,0.4314,1</string>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>w614l16+1093l427+462l626+462l626+1097|l0-297l626-297l626+337l433+337|</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

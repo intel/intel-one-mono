@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ple-right_half_circle_thick" format="2">
+  <advance width="614"/>
+  <unicode hex="E0B4"/>
+  <outline>
+    <contour>
+      <point x="614" y="329" type="curve" smooth="yes"/>
+      <point x="614" y="768"/>
+      <point x="370" y="1020"/>
+      <point x="0" y="1020" type="curve" smooth="yes"/>
+      <point x="-20" y="1020" type="line"/>
+      <point x="-20" y="-360" type="line"/>
+      <point x="0" y="-360" type="line" smooth="yes"/>
+      <point x="370" y="-360"/>
+      <point x="614" y="-108"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.1961,0.7451,0.4314,1</string>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>w614l-36+1097l-36-297l7-297o156-297q309-195o614+2q614+399o614+799q309+998o156+1097q7+1097|</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ple-right_hard_divider_inverse" format="2">
+  <advance width="614"/>
+  <unicode hex="E0D6"/>
+  <outline>
+    <contour>
+      <point x="599.0" y="-360.0" type="line"/>
+      <point x="49.0" y="330.0" type="line"/>
+      <point x="599.0" y="1020.0" type="line"/>
+      <point x="-20.0" y="1020.0" type="line"/>
+      <point x="-20.0" y="-360.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.1961,0.7451,0.4314,1</string>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>w614l614+1097l5+401l614-297l-30-297l-30+1097|</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

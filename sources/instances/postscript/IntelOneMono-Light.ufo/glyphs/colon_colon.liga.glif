@@ -5,4 +5,10 @@
     <component base="colon" xOffset="-564"/>
     <component base="colon" xOffset="-50"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.7843,0.7843,0.7843,1</string>
+    </dict>
+  </lib>
 </glyph>

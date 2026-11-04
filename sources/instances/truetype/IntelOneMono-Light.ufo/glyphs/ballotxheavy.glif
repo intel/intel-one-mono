@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ballotxheavy" format="2">
+  <advance width="614"/>
+  <unicode hex="2718"/>
+  <outline>
+    <contour>
+      <point x="140" y="79" type="line"/>
+      <point x="306" y="260" type="line"/>
+      <point x="474" y="78" type="line"/>
+      <point x="547" y="148" type="line"/>
+      <point x="369" y="325" type="line"/>
+      <point x="546" y="503" type="line"/>
+      <point x="475" y="573" type="line"/>
+      <point x="307" y="391" type="line"/>
+      <point x="140" y="573" type="line"/>
+      <point x="67" y="502" type="line"/>
+      <point x="244" y="325" type="line"/>
+      <point x="67" y="148" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>w614l140+79l306+260l474+78l547+148l369+325l546+503l475+573l307+391l140+573l67+502l244+325l67+148|</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

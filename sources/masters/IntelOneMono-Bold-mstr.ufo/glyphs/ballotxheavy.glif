@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ballotxheavy" format="2">
+  <advance width="614"/>
+  <unicode hex="2718"/>
+  <outline>
+    <contour>
+      <point x="171" y="55" type="line"/>
+      <point x="360" y="275" type="line"/>
+      <point x="574" y="476" type="line"/>
+      <point x="443" y="601" type="line"/>
+      <point x="254" y="381" type="line"/>
+      <point x="40" y="180" type="line"/>
+    </contour>
+    <contour>
+      <point x="443" y="55" type="line"/>
+      <point x="574" y="180" type="line"/>
+      <point x="360" y="381" type="line"/>
+      <point x="171" y="601" type="line"/>
+      <point x="40" y="476" type="line"/>
+      <point x="254" y="275" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.1961,0.7451,0.4314,1</string>
+    </dict>
+  </lib>
+</glyph>
