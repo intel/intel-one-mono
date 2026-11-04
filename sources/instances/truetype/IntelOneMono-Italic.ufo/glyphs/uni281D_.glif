@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni281D" format="2">
+  <advance width="614"/>
+  <unicode hex="281D"/>
+  <outline>
+    <component base="brailledot1" identifier="component0"/>
+    <component base="brailledot3" identifier="component1"/>
+    <component base="brailledot4" identifier="component2"/>
+    <component base="brailledot5" identifier="component3"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>component0</key>
+        <dict>
+          <key>public.truetype.roundOffsetToGrid</key>
+          <true/>
+          <key>public.truetype.useMyMetrics</key>
+          <true/>
+        </dict>
+        <key>component1</key>
+        <dict>
+          <key>public.truetype.roundOffsetToGrid</key>
+          <true/>
+          <key>public.truetype.useMyMetrics</key>
+          <true/>
+        </dict>
+        <key>component2</key>
+        <dict>
+          <key>public.truetype.roundOffsetToGrid</key>
+          <true/>
+          <key>public.truetype.useMyMetrics</key>
+          <true/>
+        </dict>
+        <key>component3</key>
+        <dict>
+          <key>public.truetype.roundOffsetToGrid</key>
+          <true/>
+          <key>public.truetype.useMyMetrics</key>
+          <true/>
+        </dict>
+      </dict>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>f4766b6f715acab93f00d4afccb81ddefda421504adae2cc50feaa35a1fc83d5dc64b5baa3b0b59ab504b5862da3d410c594adc8780f5167ee0b249a9e2d3147</string>
+      </dict>
+      <key>public.truetype.overlap</key>
+      <false/>
+    </dict>
+  </lib>
+</glyph>

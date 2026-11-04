@@ -5,7 +5,6 @@
   <outline>
     <component base="middotcat.cap" xOffset="216"/>
     <component base="L"/>
-    <component base="L"/>
   </outline>
   <lib>
     <dict>

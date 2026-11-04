@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="threeeighths.round" format="2">
+  <advance width="614"/>
+  <outline>
+    <component base="eight.den" xOffset="138" yOffset="-230" identifier="component0"/>
+    <component base="fracbar" identifier="component1"/>
+    <component base="three.den_round" xOffset="-154" yOffset="275" identifier="component2"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>component0</key>
+        <dict>
+          <key>public.truetype.roundOffsetToGrid</key>
+          <true/>
+          <key>public.truetype.useMyMetrics</key>
+          <false/>
+        </dict>
+        <key>component1</key>
+        <dict>
+          <key>public.truetype.roundOffsetToGrid</key>
+          <true/>
+          <key>public.truetype.useMyMetrics</key>
+          <true/>
+        </dict>
+        <key>component2</key>
+        <dict>
+          <key>public.truetype.roundOffsetToGrid</key>
+          <true/>
+          <key>public.truetype.useMyMetrics</key>
+          <false/>
+        </dict>
+      </dict>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>3200232a7b657b4e45a67350cca1a3bbe7e6ed2f006c0317db3d21a351f747fa92f7b35a9c73d4c8be05d8e795ddfcf4fec762b2813e83fbbafc39286cb24730</string>
+      </dict>
+      <key>public.truetype.overlap</key>
+      <false/>
+    </dict>
+  </lib>
+</glyph>

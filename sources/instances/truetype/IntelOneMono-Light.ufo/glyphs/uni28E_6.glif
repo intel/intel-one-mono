@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni28E6" format="2">
+  <advance width="614"/>
+  <unicode hex="28E6"/>
+  <outline>
+    <component base="brailledot2" identifier="component0"/>
+    <component base="brailledot3" identifier="component1"/>
+    <component base="brailledot6" identifier="component2"/>
+    <component base="brailledot7" identifier="component3"/>
+    <component base="brailledot8" identifier="component4"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>component0</key>
+        <dict>
+          <key>public.truetype.roundOffsetToGrid</key>
+          <true/>
+          <key>public.truetype.useMyMetrics</key>
+          <true/>
+        </dict>
+        <key>component1</key>
+        <dict>
+          <key>public.truetype.roundOffsetToGrid</key>
+          <true/>
+          <key>public.truetype.useMyMetrics</key>
+          <true/>
+        </dict>
+        <key>component2</key>
+        <dict>
+          <key>public.truetype.roundOffsetToGrid</key>
+          <true/>
+          <key>public.truetype.useMyMetrics</key>
+          <true/>
+        </dict>
+        <key>component3</key>
+        <dict>
+          <key>public.truetype.roundOffsetToGrid</key>
+          <true/>
+          <key>public.truetype.useMyMetrics</key>
+          <true/>
+        </dict>
+        <key>component4</key>
+        <dict>
+          <key>public.truetype.roundOffsetToGrid</key>
+          <true/>
+          <key>public.truetype.useMyMetrics</key>
+          <true/>
+        </dict>
+      </dict>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>a5658eaab21b458e8e045a32d0a49057e9554f8c0795936c123c28b42769830613d959ba7ca12e15593ad46aa88c8792a84c99aec66c1ab7824aeba65d05f22c</string>
+      </dict>
+      <key>public.truetype.overlap</key>
+      <false/>
+    </dict>
+  </lib>
+</glyph>

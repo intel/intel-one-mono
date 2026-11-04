@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="brailledot5" format="2">
+  <advance width="614"/>
+  <outline>
+    <contour>
+      <point x="439" y="483" type="qcurve"/>
+      <point x="408" y="483"/>
+      <point x="375" y="449"/>
+      <point x="375" y="418" type="qcurve"/>
+      <point x="375" y="387"/>
+      <point x="408" y="353"/>
+      <point x="439" y="353" type="qcurve"/>
+      <point x="470" y="353"/>
+      <point x="504" y="387"/>
+      <point x="504" y="418" type="qcurve"/>
+      <point x="504" y="449"/>
+      <point x="470" y="483"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>w614q439+483o408+483o375+449q375+418o375+387o408+353q439+353o470+353o504+387q504+418o504+449o470+483|</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

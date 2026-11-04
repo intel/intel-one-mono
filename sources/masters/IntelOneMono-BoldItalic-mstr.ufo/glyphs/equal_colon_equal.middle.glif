@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="equal_colon_equal.middle" format="2">
+  <advance width="614"/>
+  <outline>
+    <contour>
+      <point x="42.11022813138224" y="384.0" type="line"/>
+      <point x="47.11022813138224" y="384.0" type="line"/>
+      <point x="80.37269287940396" y="500.0" type="line"/>
+      <point x="75.37269287940396" y="500.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="-21.833992892831922" y="161.0" type="line"/>
+      <point x="-16.833992892831922" y="161.0" type="line"/>
+      <point x="16.141726469430992" y="276.0" type="line"/>
+      <point x="11.141726469430992" y="276.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="651.1102281313822" y="384.0" type="line"/>
+      <point x="656.1102281313822" y="384.0" type="line"/>
+      <point x="689.372692879404" y="500.0" type="line"/>
+      <point x="684.372692879404" y="500.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="587.1660071071681" y="161.0" type="line"/>
+      <point x="592.1660071071681" y="161.0" type="line"/>
+      <point x="625.141726469431" y="276.0" type="line"/>
+      <point x="620.141726469431" y="276.0" type="line"/>
+    </contour>
+    <component base="colon.fig" xOffset="-1"/>
+  </outline>
+</glyph>

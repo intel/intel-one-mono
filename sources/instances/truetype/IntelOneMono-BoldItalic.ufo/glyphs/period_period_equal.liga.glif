@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="period_period_equal.liga" format="2">
+  <advance width="614"/>
+  <outline>
+    <contour>
+      <point x="409" y="384" type="line"/>
+      <point x="-93" y="384" type="line"/>
+      <point x="-60" y="500" type="line"/>
+      <point x="442" y="500" type="line"/>
+    </contour>
+    <contour>
+      <point x="345" y="161" type="line"/>
+      <point x="-157" y="161" type="line"/>
+      <point x="-124" y="276" type="line"/>
+      <point x="378" y="276" type="line"/>
+    </contour>
+    <contour>
+      <point x="-830" y="123" type="qcurve" smooth="yes"/>
+      <point x="-830" y="59"/>
+      <point x="-905" y="-15"/>
+      <point x="-973" y="-15" type="qcurve" smooth="yes"/>
+      <point x="-1032" y="-15"/>
+      <point x="-1091" y="26"/>
+      <point x="-1091" y="67" type="qcurve" smooth="yes"/>
+      <point x="-1091" y="127"/>
+      <point x="-1016" y="202"/>
+      <point x="-950" y="202" type="qcurve" smooth="yes"/>
+      <point x="-889" y="202"/>
+      <point x="-830" y="163"/>
+    </contour>
+    <contour>
+      <point x="-396" y="123" type="qcurve" smooth="yes"/>
+      <point x="-396" y="59"/>
+      <point x="-471" y="-15"/>
+      <point x="-539" y="-15" type="qcurve" smooth="yes"/>
+      <point x="-598" y="-15"/>
+      <point x="-657" y="26"/>
+      <point x="-657" y="67" type="qcurve" smooth="yes"/>
+      <point x="-657" y="127"/>
+      <point x="-582" y="202"/>
+      <point x="-516" y="202" type="qcurve" smooth="yes"/>
+      <point x="-455" y="202"/>
+      <point x="-396" y="163"/>
+    </contour>
+  </outline>
+</glyph>

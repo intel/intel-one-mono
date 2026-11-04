@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ballotx" format="2">
+  <advance width="614"/>
+  <unicode hex="2717"/>
+  <outline>
+    <contour>
+      <point x="123" y="89" type="line"/>
+      <point x="307" y="286" type="line"/>
+      <point x="492" y="89" type="line"/>
+      <point x="536" y="129" type="line"/>
+      <point x="344" y="325" type="line"/>
+      <point x="536" y="522" type="line"/>
+      <point x="492" y="561" type="line"/>
+      <point x="307" y="363" type="line"/>
+      <point x="122" y="561" type="line"/>
+      <point x="78" y="522" type="line"/>
+      <point x="270" y="325" type="line"/>
+      <point x="78" y="129" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>w614l123+89l307+286l492+89l536+129l344+325l536+522l492+561l307+363l122+561l78+522l270+325l78+129|</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

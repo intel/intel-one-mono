@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hyphen_asciitilde.liga" format="2">
+  <advance width="614"/>
+  <outline>
+    <contour>
+      <point x="264" y="388" type="curve" smooth="yes"/>
+      <point x="227" y="424"/>
+      <point x="203" y="433"/>
+      <point x="175" y="433" type="curve" smooth="yes"/>
+      <point x="115" y="433"/>
+      <point x="68" y="388"/>
+      <point x="-20" y="388" type="curve" smooth="yes"/>
+      <point x="-371" y="388" type="line"/>
+      <point x="-404" y="272" type="line"/>
+      <point x="-36" y="272" type="line" smooth="yes"/>
+      <point x="48" y="272"/>
+      <point x="93" y="308"/>
+      <point x="128" y="308" type="curve" smooth="yes"/>
+      <point x="162" y="308"/>
+      <point x="184" y="298"/>
+      <point x="213" y="270" type="curve" smooth="yes"/>
+      <point x="272" y="214"/>
+      <point x="289" y="200"/>
+      <point x="329" y="200" type="curve" smooth="yes"/>
+      <point x="389" y="200"/>
+      <point x="433" y="231"/>
+      <point x="530" y="405" type="curve"/>
+      <point x="430" y="464" type="line"/>
+      <point x="363" y="353"/>
+      <point x="351" y="334"/>
+      <point x="336" y="334" type="curve" smooth="yes"/>
+      <point x="323" y="334"/>
+      <point x="315" y="340"/>
+    </contour>
+  </outline>
+</glyph>

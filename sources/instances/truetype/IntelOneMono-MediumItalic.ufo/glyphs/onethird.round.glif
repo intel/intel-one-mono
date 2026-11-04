@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="onethird.round" format="2">
+  <advance width="614"/>
+  <outline>
+    <component base="three.den_round" xOffset="124.3763579277865" yOffset="-230.73626373626374"/>
+    <component base="fracbar"/>
+    <component base="one.den" xOffset="-88.80251177394034" yOffset="275"/>
+  </outline>
+</glyph>

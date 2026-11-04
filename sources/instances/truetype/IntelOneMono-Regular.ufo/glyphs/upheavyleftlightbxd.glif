@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="upheavyleftlightbxd" format="2">
+  <advance width="614"/>
+  <unicode hex="251A"/>
+  <outline>
+    <contour>
+      <point x="393" y="287" type="line"/>
+      <point x="-20" y="287" type="line"/>
+      <point x="-20" y="374" type="line"/>
+      <point x="221" y="374" type="line"/>
+      <point x="221" y="1080" type="line"/>
+      <point x="393" y="1080" type="line"/>
+    </contour>
+  </outline>
+</glyph>

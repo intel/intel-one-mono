@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="brailledot5" format="2">
+  <advance width="614"/>
+  <anchor x="442.0" y="418" name="_dot5"/>
+  <outline>
+    <contour>
+      <point x="439" y="483" type="curve" smooth="yes"/>
+      <point x="398" y="483"/>
+      <point x="375" y="460"/>
+      <point x="375" y="418" type="curve" smooth="yes"/>
+      <point x="375" y="376"/>
+      <point x="398" y="353"/>
+      <point x="439" y="353" type="curve" smooth="yes"/>
+      <point x="481" y="353"/>
+      <point x="504" y="376"/>
+      <point x="504" y="418" type="curve" smooth="yes"/>
+      <point x="504" y="460"/>
+      <point x="481" y="483"/>
+    </contour>
+  </outline>
+</glyph>

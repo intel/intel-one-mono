@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="heavyquaddashvertbxd" format="2">
+  <advance width="614"/>
+  <unicode hex="250B"/>
+  <outline>
+    <contour>
+      <point x="231" y="611" type="line"/>
+      <point x="383" y="611" type="line"/>
+      <point x="383" y="799" type="line"/>
+      <point x="231" y="799" type="line"/>
+    </contour>
+    <contour>
+      <point x="231" y="361" type="line"/>
+      <point x="383" y="361" type="line"/>
+      <point x="383" y="549" type="line"/>
+      <point x="231" y="549" type="line"/>
+    </contour>
+    <contour>
+      <point x="231" y="111" type="line"/>
+      <point x="383" y="111" type="line"/>
+      <point x="383" y="299" type="line"/>
+      <point x="231" y="299" type="line"/>
+    </contour>
+    <contour>
+      <point x="231" y="-139" type="line"/>
+      <point x="383" y="-139" type="line"/>
+      <point x="383" y="49" type="line"/>
+      <point x="231" y="49" type="line"/>
+    </contour>
+  </outline>
+</glyph>

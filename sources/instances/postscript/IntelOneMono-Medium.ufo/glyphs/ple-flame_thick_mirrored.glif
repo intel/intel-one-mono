@@ -1,0 +1,97 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ple-flame_thick_mirrored" format="2">
+  <advance width="614"/>
+  <unicode hex="E0C2"/>
+  <outline>
+    <contour>
+      <point x="348" y="202" type="line"/>
+      <point x="391" y="95"/>
+      <point x="514" y="-16"/>
+      <point x="681" y="-16" type="curve" smooth="yes"/>
+      <point x="771" y="-16"/>
+      <point x="887" y="34"/>
+      <point x="984" y="34" type="curve" smooth="yes"/>
+      <point x="1043" y="34"/>
+      <point x="1063" y="-5"/>
+      <point x="1063" y="-46" type="curve" smooth="yes"/>
+      <point x="1063" y="-98"/>
+      <point x="1017" y="-139"/>
+      <point x="902" y="-139" type="curve" smooth="yes"/>
+      <point x="865" y="-139"/>
+      <point x="826" y="-136"/>
+      <point x="777" y="-128" type="curve"/>
+      <point x="773" y="-134" type="line"/>
+      <point x="793" y="-166"/>
+      <point x="859" y="-252"/>
+      <point x="961" y="-252" type="curve" smooth="yes"/>
+      <point x="997" y="-252"/>
+      <point x="1032" y="-238"/>
+      <point x="1063" y="-238" type="curve" smooth="yes"/>
+      <point x="1135" y="-238"/>
+      <point x="1157" y="-360"/>
+      <point x="1228" y="-360" type="curve" smooth="yes"/>
+      <point x="1248" y="-360" type="line"/>
+      <point x="1248" y="1020" type="line"/>
+      <point x="1228" y="1020" type="line" smooth="yes"/>
+      <point x="1158" y="1020"/>
+      <point x="1130" y="886"/>
+      <point x="1053" y="886" type="curve" smooth="yes"/>
+      <point x="980" y="886"/>
+      <point x="911" y="943"/>
+      <point x="798" y="943" type="curve" smooth="yes"/>
+      <point x="703" y="943"/>
+      <point x="634" y="875"/>
+      <point x="597" y="816" type="curve"/>
+      <point x="601" y="812" type="line"/>
+      <point x="647" y="824"/>
+      <point x="703" y="830"/>
+      <point x="751" y="830" type="curve" smooth="yes"/>
+      <point x="874" y="830"/>
+      <point x="933" y="782"/>
+      <point x="933" y="723" type="curve" smooth="yes"/>
+      <point x="933" y="680"/>
+      <point x="906" y="634"/>
+      <point x="827" y="634" type="curve" smooth="yes"/>
+      <point x="735" y="634"/>
+      <point x="656" y="675"/>
+      <point x="540" y="675" type="curve" smooth="yes"/>
+      <point x="406" y="675"/>
+      <point x="314" y="548"/>
+      <point x="224" y="548" type="curve" smooth="yes"/>
+      <point x="205" y="548"/>
+      <point x="179" y="553"/>
+      <point x="154" y="565" type="curve"/>
+      <point x="149" y="561" type="line"/>
+      <point x="184" y="481"/>
+      <point x="293" y="416"/>
+      <point x="400" y="416" type="curve" smooth="yes"/>
+      <point x="477" y="416"/>
+      <point x="558" y="440"/>
+      <point x="610" y="440" type="curve" smooth="yes"/>
+      <point x="721" y="440"/>
+      <point x="771" y="393"/>
+      <point x="771" y="321" type="curve" smooth="yes"/>
+      <point x="771" y="241"/>
+      <point x="699" y="184"/>
+      <point x="529" y="184" type="curve" smooth="yes"/>
+      <point x="459" y="184"/>
+      <point x="407" y="191"/>
+      <point x="353" y="208" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>4f34ba289745445b95cfcdd831afdb1ccbe86cd3eaee2a573491b8d2b5880b7a5d8d01aeb725d8a846c33b14509fe89d213d267b388f78b3be88a2b514369525</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

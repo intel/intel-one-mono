@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="equal_bar_bar.liga" format="2">
+  <advance width="614"/>
+  <outline>
+    <contour>
+      <point x="-1168.833992892832" y="161.0" type="line"/>
+      <point x="-49.83399289283192" y="161.0" type="line"/>
+      <point x="-16.858273530569008" y="276.0" type="line"/>
+      <point x="-1135.858273530569" y="276.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="-1104.8897718686178" y="384.0" type="line"/>
+      <point x="14.110228131382243" y="384.0" type="line"/>
+      <point x="47.37269287940396" y="500.0" type="line"/>
+      <point x="-1071.627307120596" y="500.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="198.49276624790002" y="755.0" type="line"/>
+      <point x="68.4927662479" y="755.0" type="line"/>
+      <point x="-176.67453857588077" y="-100.0" type="line"/>
+      <point x="-46.67453857588079" y="-100.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="520.4927662479" y="755.0" type="line"/>
+      <point x="390.4927662479" y="755.0" type="line"/>
+      <point x="145.3254614241192" y="-100.0" type="line"/>
+      <point x="275.3254614241192" y="-100.0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

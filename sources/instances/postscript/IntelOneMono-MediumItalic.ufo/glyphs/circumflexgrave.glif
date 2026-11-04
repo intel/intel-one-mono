@@ -1,7 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="circumflexgrave" format="2">
-  <anchor x="77" y="502" name="_aboveLC"/>
-  <anchor x="68" y="472" name="_aboveLCx"/>
   <outline>
     <contour>
       <point x="373" y="758" type="line"/>

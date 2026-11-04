@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="greater_colon.liga" format="2">
+  <advance width="614"/>
+  <outline>
+    <contour>
+      <point x="109" y="349" type="line"/>
+      <point x="94" y="294" type="line"/>
+      <point x="-427" y="91" type="line"/>
+      <point x="-411" y="150" type="line"/>
+      <point x="52" y="326" type="line"/>
+      <point x="-310" y="501" type="line"/>
+      <point x="-295" y="552" type="line"/>
+    </contour>
+    <contour>
+      <point x="459" y="520" type="qcurve" smooth="yes"/>
+      <point x="459" y="483"/>
+      <point x="412" y="434"/>
+      <point x="373" y="434" type="qcurve" smooth="yes"/>
+      <point x="343" y="434"/>
+      <point x="309" y="462"/>
+      <point x="309" y="487" type="qcurve" smooth="yes"/>
+      <point x="309" y="521"/>
+      <point x="357" y="571"/>
+      <point x="394" y="571" type="qcurve" smooth="yes"/>
+      <point x="426" y="571"/>
+      <point x="459" y="545"/>
+    </contour>
+    <contour>
+      <point x="359" y="170" type="qcurve" smooth="yes"/>
+      <point x="359" y="133"/>
+      <point x="312" y="84"/>
+      <point x="273" y="84" type="qcurve" smooth="yes"/>
+      <point x="243" y="84"/>
+      <point x="209" y="112"/>
+      <point x="209" y="137" type="qcurve" smooth="yes"/>
+      <point x="209" y="171"/>
+      <point x="258" y="221"/>
+      <point x="294" y="221" type="qcurve" smooth="yes"/>
+      <point x="326" y="221"/>
+      <point x="359" y="195"/>
+    </contour>
+  </outline>
+</glyph>

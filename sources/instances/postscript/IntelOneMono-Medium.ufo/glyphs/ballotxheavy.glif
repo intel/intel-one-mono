@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ballotxheavy" format="2">
+  <advance width="614"/>
+  <unicode hex="2718"/>
+  <outline>
+    <contour>
+      <point x="159" y="64" type="line"/>
+      <point x="307" y="232" type="line"/>
+      <point x="455" y="64" type="line"/>
+      <point x="564" y="168" type="line"/>
+      <point x="398" y="327" type="line"/>
+      <point x="563" y="486" type="line"/>
+      <point x="455" y="590" type="line"/>
+      <point x="307" y="423" type="line"/>
+      <point x="159" y="590" type="line"/>
+      <point x="50" y="486" type="line"/>
+      <point x="215" y="327" type="line"/>
+      <point x="50" y="168" type="line"/>
+    </contour>
+  </outline>
+</glyph>

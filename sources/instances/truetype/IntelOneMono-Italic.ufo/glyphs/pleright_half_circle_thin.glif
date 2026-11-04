@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="pleright_half_circle_thin" format="2">
+  <advance width="614"/>
+  <unicode hex="E0B5"/>
+  <outline>
+    <contour>
+      <point x="614" y="330" type="qcurve"/>
+      <point x="614" y="535"/>
+      <point x="370" y="869"/>
+      <point x="144" y="1020" type="qcurve"/>
+      <point x="0" y="1020" type="line"/>
+      <point x="0" y="1011" type="line"/>
+      <point x="254" y="853"/>
+      <point x="511" y="510"/>
+      <point x="511" y="330" type="qcurve"/>
+      <point x="511" y="150"/>
+      <point x="254" y="-193"/>
+      <point x="0" y="-351" type="qcurve"/>
+      <point x="0" y="-360" type="line"/>
+      <point x="144" y="-360" type="line"/>
+      <point x="396" y="-199"/>
+      <point x="614" y="155"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>43d66831cf1b72538106fb0d2257dd4fabb491c0e48e4e19f7efd419710fb78d06856b0cc17e2478c6c14639f759c03c8bd623d634992514969df55f40cb4281</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

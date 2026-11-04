@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="less_less_hyphen.start" format="2">
+  <advance width="614"/>
+  <outline>
+    <contour>
+      <point x="-847" y="-11" type="line"/>
+      <point x="-1120" y="342" type="line"/>
+      <point x="-1119" y="346" type="line"/>
+      <point x="-703" y="665" type="line"/>
+      <point x="-645" y="594" type="line"/>
+      <point x="-994" y="328" type="line"/>
+      <point x="-773" y="42" type="line"/>
+    </contour>
+    <contour>
+      <point x="-494" y="-11" type="line"/>
+      <point x="-781" y="342" type="line"/>
+      <point x="-780" y="346" type="line"/>
+      <point x="-350" y="665" type="line"/>
+      <point x="-293" y="594" type="line"/>
+      <point x="-590" y="374" type="line"/>
+      <point x="668" y="374" type="line"/>
+      <point x="642" y="283" type="line"/>
+      <point x="-617" y="283" type="line"/>
+      <point x="-421" y="42" type="line"/>
+    </contour>
+  </outline>
+</glyph>

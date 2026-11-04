@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="underscore_bar_underscore.m" format="2">
+  <advance width="614"/>
+  <outline>
+    <contour>
+      <point x="-10" y="-142" type="line"/>
+      <point x="-10" y="-26" type="line"/>
+      <point x="242" y="-26" type="line"/>
+      <point x="242" y="755" type="line"/>
+      <point x="372" y="755" type="line"/>
+      <point x="372" y="-26" type="line"/>
+      <point x="624" y="-26" type="line"/>
+      <point x="624" y="-142" type="line"/>
+    </contour>
+  </outline>
+</glyph>

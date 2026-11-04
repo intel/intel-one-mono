@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ballotx" format="2">
+  <advance width="614"/>
+  <unicode hex="2717"/>
+  <outline>
+    <contour>
+      <point x="89.92307692307692" y="89.46153846153845" type="line"/>
+      <point x="349.94942001187627" y="303.84615384615387" type="line"/>
+      <point x="617.9230769230769" y="514.7692307692307" type="line"/>
+      <point x="579.3076923076923" y="561.0" type="line"/>
+      <point x="312.38461538461536" y="341.7692307692308" type="line"/>
+      <point x="51.30769230769231" y="136.3846153846154" type="line"/>
+    </contour>
+    <contour>
+      <point x="458.15384615384613" y="90.84615384615384" type="line"/>
+      <point x="508.7692307692308" y="125.76923076923077" type="line"/>
+      <point x="352.6923076923077" y="343.0" type="line"/>
+      <point x="212.46153846153845" y="561.0" type="line"/>
+      <point x="161.84615384615384" y="528.1538461538462" type="line"/>
+      <point x="316.56480462726086" y="302.61538461538464" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.1961,0.7451,0.4314,1</string>
+    </dict>
+  </lib>
+</glyph>

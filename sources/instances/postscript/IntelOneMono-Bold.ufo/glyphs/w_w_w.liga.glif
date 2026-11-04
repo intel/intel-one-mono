@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="w_w_w.liga" format="2">
+  <advance width="614"/>
+  <outline>
+    <contour>
+      <point x="-112" y="0" type="line"/>
+      <point x="-45" y="350" type="line"/>
+      <point x="21" y="0" type="line"/>
+      <point x="138" y="0" type="line"/>
+      <point x="214" y="202" type="line"/>
+      <point x="290" y="0" type="line"/>
+      <point x="422" y="0" type="line"/>
+      <point x="516" y="477" type="line"/>
+      <point x="377" y="477" type="line"/>
+      <point x="325" y="167" type="line"/>
+      <point x="224" y="424" type="line"/>
+      <point x="210" y="424" type="line"/>
+      <point x="105" y="157" type="line"/>
+      <point x="48" y="437" type="line"/>
+      <point x="-137" y="437" type="line"/>
+      <point x="-195" y="159" type="line"/>
+      <point x="-300" y="424" type="line"/>
+      <point x="-314" y="424" type="line"/>
+      <point x="-419" y="157" type="line"/>
+      <point x="-476" y="437" type="line"/>
+      <point x="-661" y="437" type="line"/>
+      <point x="-719" y="159" type="line"/>
+      <point x="-824" y="424" type="line"/>
+      <point x="-838" y="424" type="line"/>
+      <point x="-940" y="165" type="line"/>
+      <point x="-990" y="477" type="line"/>
+      <point x="-1129" y="477" type="line"/>
+      <point x="-1037" y="0" type="line"/>
+      <point x="-910" y="0" type="line"/>
+      <point x="-834" y="202" type="line"/>
+      <point x="-758" y="0" type="line"/>
+      <point x="-636" y="0" type="line"/>
+      <point x="-569" y="350" type="line"/>
+      <point x="-503" y="0" type="line"/>
+      <point x="-386" y="0" type="line"/>
+      <point x="-310" y="202" type="line"/>
+      <point x="-234" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

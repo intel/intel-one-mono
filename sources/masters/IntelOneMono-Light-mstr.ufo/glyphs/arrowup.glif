@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="arrowup" format="2">
+  <advance width="614"/>
+  <unicode hex="2191"/>
+  <outline>
+    <contour>
+      <point x="281.2307692307692" y="562.3846153846154" type="line"/>
+      <point x="281.2307692307692" y="60.0" type="line"/>
+      <point x="332.7692307692308" y="60.0" type="line"/>
+      <point x="332.7692307692308" y="562.3846153846154" type="line"/>
+    </contour>
+    <contour>
+      <point x="309.0" y="597.6923076923077" type="line"/>
+      <point x="306.0" y="597.6923076923077" type="line"/>
+      <point x="289.6923076923077" y="546.6153846153846" type="line"/>
+      <point x="544.8461538461538" y="311.38461538461536" type="line"/>
+      <point x="579.0" y="349.6923076923077" type="line"/>
+    </contour>
+    <contour>
+      <point x="305.6923076923077" y="597.6923076923077" type="line"/>
+      <point x="35.69230769230769" y="349.6923076923077" type="line"/>
+      <point x="69.84615384615384" y="311.38461538461536" type="line"/>
+      <point x="326.2307692307692" y="546.6153846153846" type="line"/>
+      <point x="308.6923076923077" y="597.6923076923077" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.1961,0.7451,0.4314,1</string>
+    </dict>
+  </lib>
+</glyph>

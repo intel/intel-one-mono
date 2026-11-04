@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ple-lego_block_sideways" format="2">
+  <advance width="614"/>
+  <unicode hex="E0D1"/>
+  <outline>
+    <contour>
+      <point x="0" y="-153" type="line"/>
+      <point x="640" y="-153" type="line"/>
+      <point x="640" y="-13" type="line"/>
+      <point x="798" y="-13" type="line"/>
+      <point x="798" y="268" type="line"/>
+      <point x="640" y="268" type="line"/>
+      <point x="640" y="424" type="line"/>
+      <point x="798" y="424" type="line"/>
+      <point x="798" y="707" type="line"/>
+      <point x="640" y="707" type="line"/>
+      <point x="640" y="813" type="line"/>
+      <point x="0" y="813" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>1bbc45daed2ff7019225cb82e9c04b0af401d82a4b2e9c3c8f8c948be72abc74afcb77913fc76770b25b93d2c5ad527b2293d4e2bff8d2971633ec47f9896be5</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

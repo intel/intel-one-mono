@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="heavytrpldashhorzbxd" format="2">
+  <advance width="614"/>
+  <unicode hex="2505"/>
+  <outline>
+    <contour>
+      <point x="34" y="222" type="line"/>
+      <point x="171" y="222" type="line"/>
+      <point x="171" y="438" type="line"/>
+      <point x="34" y="438" type="line"/>
+    </contour>
+    <contour>
+      <point x="239" y="222" type="line"/>
+      <point x="375" y="222" type="line"/>
+      <point x="375" y="438" type="line"/>
+      <point x="239" y="438" type="line"/>
+    </contour>
+    <contour>
+      <point x="443" y="222" type="line"/>
+      <point x="580" y="222" type="line"/>
+      <point x="580" y="438" type="line"/>
+      <point x="443" y="438" type="line"/>
+    </contour>
+  </outline>
+</glyph>

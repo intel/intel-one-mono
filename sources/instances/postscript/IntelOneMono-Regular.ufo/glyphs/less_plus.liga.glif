@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="less_plus.liga" format="2">
+  <advance width="614"/>
+  <outline>
+    <component base="less" xOffset="-573" yOffset="3"/>
+    <component base="plus" xOffset="-3"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.7843,0.7843,0.7843,1</string>
+    </dict>
+  </lib>
+</glyph>

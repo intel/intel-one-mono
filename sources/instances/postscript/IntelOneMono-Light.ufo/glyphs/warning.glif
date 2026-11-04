@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="warning" format="2">
+  <advance width="614"/>
+  <unicode hex="26A0"/>
+  <outline>
+    <contour>
+      <point x="317" y="621" type="line"/>
+      <point x="299" y="621" type="line"/>
+      <point x="16" y="76" type="line"/>
+      <point x="26" y="63" type="line"/>
+      <point x="588" y="63" type="line"/>
+      <point x="598" y="76" type="line"/>
+    </contour>
+    <contour>
+      <point x="281" y="237" type="line"/>
+      <point x="240" y="446" type="line"/>
+      <point x="372" y="446" type="line"/>
+      <point x="330" y="237" type="line"/>
+    </contour>
+    <contour>
+      <point x="302" y="106" type="curve" smooth="yes"/>
+      <point x="254" y="106"/>
+      <point x="237" y="120"/>
+      <point x="237" y="148" type="curve" smooth="yes"/>
+      <point x="237" y="175"/>
+      <point x="252" y="191"/>
+      <point x="302" y="191" type="curve" smooth="yes"/>
+      <point x="353" y="191"/>
+      <point x="367" y="177"/>
+      <point x="367" y="148" type="curve" smooth="yes"/>
+      <point x="367" y="119"/>
+      <point x="348" y="106"/>
+    </contour>
+  </outline>
+</glyph>

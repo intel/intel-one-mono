@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni26A1" format="2">
+  <advance width="614"/>
+  <unicode hex="26A1"/>
+  <outline>
+    <contour>
+      <point x="391.53846153846155" y="263.6923076923077" type="line"/>
+      <point x="382.2307692307692" y="355.0" type="line"/>
+      <point x="80.0" y="-153.0" type="line"/>
+      <point x="96.0" y="-163.0" type="line"/>
+      <point x="609.0" y="346.15384615384613" type="line"/>
+      <point x="604.0" y="359.15384615384613" type="line"/>
+      <point x="223.46153846153845" y="427.3076923076923" type="line"/>
+      <point x="232.76923076923077" y="336.0" type="line"/>
+      <point x="535.0" y="844.0" type="line"/>
+      <point x="519.0" y="854.0" type="line"/>
+      <point x="6.0" y="344.84615384615387" type="line"/>
+      <point x="11.0" y="331.84615384615387" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0.5098,0.7843,1</string>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>w700l135-143l374+303l391+283l97+218l57+283l468+857l535+822l324+378l305+406l597+471l638+400l208-176|</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

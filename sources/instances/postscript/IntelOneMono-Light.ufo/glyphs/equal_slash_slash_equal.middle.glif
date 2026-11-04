@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="equal_slash_slash_equal.middle" format="2">
+  <advance width="614"/>
+  <outline>
+    <contour>
+      <point x="96" y="755" type="line"/>
+      <point x="31" y="755" type="line"/>
+      <point x="-139" y="443" type="line"/>
+      <point x="-624" y="443" type="line"/>
+      <point x="-624" y="392" type="line"/>
+      <point x="-166" y="392" type="line"/>
+      <point x="-238" y="261" type="line"/>
+      <point x="-624" y="261" type="line"/>
+      <point x="-624" y="209" type="line"/>
+      <point x="-266" y="209" type="line"/>
+      <point x="-434" y="-100" type="line"/>
+      <point x="-367" y="-100" type="line"/>
+    </contour>
+    <contour>
+      <point x="434" y="755" type="line"/>
+      <point x="369" y="755" type="line"/>
+      <point x="-96" y="-100" type="line"/>
+      <point x="-29" y="-100" type="line"/>
+      <point x="138" y="209" type="line"/>
+      <point x="624" y="209" type="line"/>
+      <point x="624" y="261" type="line"/>
+      <point x="166" y="261" type="line"/>
+      <point x="237" y="392" type="line"/>
+      <point x="624" y="392" type="line"/>
+      <point x="624" y="443" type="line"/>
+      <point x="265" y="443" type="line"/>
+    </contour>
+  </outline>
+</glyph>

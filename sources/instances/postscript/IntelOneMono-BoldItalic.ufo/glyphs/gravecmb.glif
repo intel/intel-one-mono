@@ -1,8 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="gravecmb" format="2">
   <unicode hex="0300"/>
-  <anchor x="76" y="502" name="_aboveLC"/>
-  <anchor x="67" y="472" name="_aboveLCx"/>
   <outline>
     <contour>
       <point x="201" y="620" type="line"/>

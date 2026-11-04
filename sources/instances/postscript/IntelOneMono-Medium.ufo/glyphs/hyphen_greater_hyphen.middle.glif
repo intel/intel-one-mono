@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hyphen_greater_hyphen.middle" format="2">
+  <advance width="614"/>
+  <outline>
+    <contour>
+      <point x="-10" y="283" type="line"/>
+      <point x="347" y="283" type="line"/>
+      <point x="89" y="57" type="line"/>
+      <point x="154" y="-11" type="line"/>
+      <point x="487" y="283" type="line"/>
+      <point x="624" y="283" type="line"/>
+      <point x="624" y="374" type="line"/>
+      <point x="483" y="374" type="line"/>
+      <point x="154" y="665" type="line"/>
+      <point x="89" y="597" type="line"/>
+      <point x="343" y="374" type="line"/>
+      <point x="-10" y="374" type="line"/>
+    </contour>
+  </outline>
+</glyph>

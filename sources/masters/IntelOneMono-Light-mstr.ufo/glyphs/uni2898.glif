@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni2898" format="2">
+  <advance width="614"/>
+  <unicode hex="2898"/>
+  <outline>
+    <component base="brailledot4"/>
+    <component base="brailledot5"/>
+    <component base="brailledot8"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.1961,0.7451,0.4314,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -2,7 +2,6 @@
 <glyph name="S" format="2">
   <advance width="614"/>
   <unicode hex="0053"/>
-  <guideline x="435" y="431" angle="307.7676805128407" identifier="ylsDMwWxaG"/>
   <anchor x="452" y="696" name="aboveUC"/>
   <anchor x="442" y="661" name="aboveUCx"/>
   <anchor x="271" y="-40" name="below"/>

@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="asterisk_asterisk.liga" format="2">
+  <advance width="614"/>
+  <outline>
+    <component base="asterisk" xOffset="-597"/>
+    <component base="asterisk" xOffset="-17"/>
+  </outline>
+</glyph>

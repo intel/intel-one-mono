@@ -2,8 +2,6 @@
 <glyph name="eogonek" format="2">
   <advance width="614"/>
   <unicode hex="0119"/>
-  <anchor x="392" y="492" name="aboveLCx"/>
-  <anchor x="401" y="525" name="aboveLC"/>
   <outline>
     <contour>
       <point x="211" y="-169" type="curve" smooth="yes"/>
@@ -22,7 +20,7 @@
       <point x="416" y="62" type="line"/>
       <point x="206" y="62"/>
       <point x="153" y="85"/>
-      <point x="153" y="171" type="curve"/>
+      <point x="153" y="171" type="curve" smooth="yes"/>
       <point x="153" y="183" type="line"/>
       <point x="319" y="197" type="line" smooth="yes"/>
       <point x="521" y="215"/>

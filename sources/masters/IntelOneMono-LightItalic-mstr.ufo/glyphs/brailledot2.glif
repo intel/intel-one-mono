@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="brailledot2" format="2">
+  <advance width="614"/>
+  <anchor x="172.0" y="418.33" name="_dot2"/>
+  <outline>
+    <contour>
+      <point x="178.92307692307693" y="474.15384615384613" type="curve" smooth="yes"/>
+      <point x="214.92307692307693" y="474.15384615384613"/>
+      <point x="235.07692307692307" y="454.0"/>
+      <point x="235.07692307692307" y="418.0" type="curve" smooth="yes"/>
+      <point x="235.07692307692307" y="382.0"/>
+      <point x="214.92307692307693" y="361.84615384615387"/>
+      <point x="178.92307692307693" y="361.84615384615387" type="curve" smooth="yes"/>
+      <point x="142.92307692307693" y="361.84615384615387"/>
+      <point x="122.76923076923077" y="382.0"/>
+      <point x="122.76923076923077" y="418.0" type="curve" smooth="yes"/>
+      <point x="122.76923076923077" y="454.0"/>
+      <point x="142.92307692307693" y="474.15384615384613"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.1961,0.7451,0.4314,1</string>
+    </dict>
+  </lib>
+</glyph>

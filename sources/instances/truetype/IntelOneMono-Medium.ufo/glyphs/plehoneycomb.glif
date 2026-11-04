@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="plehoneycomb" format="2">
+  <advance width="614"/>
+  <unicode hex="E0CC"/>
+  <outline>
+    <contour>
+      <point x="469" y="741" type="line"/>
+      <point x="305" y="1020" type="line"/>
+      <point x="-20" y="1020" type="line"/>
+      <point x="-20" y="460" type="line"/>
+      <point x="305" y="460" type="line"/>
+    </contour>
+    <contour>
+      <point x="1163" y="319" type="line"/>
+      <point x="1000" y="599" type="line"/>
+      <point x="673" y="599" type="line"/>
+      <point x="510" y="319" type="line"/>
+      <point x="673" y="40" type="line"/>
+      <point x="1000" y="40" type="line"/>
+    </contour>
+    <contour>
+      <point x="469" y="-81" type="line"/>
+      <point x="305" y="199" type="line"/>
+      <point x="-20" y="199" type="line"/>
+      <point x="-20" y="-360" type="line"/>
+      <point x="305" y="-360" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>fb50e60ebdc0a5c1f70826019dde81222224a85d67c704c78279c8a4de0faf01b161da1e445118a762bb9226569c06cc37a6c81df9000f16a986b9cb007bd4aa</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

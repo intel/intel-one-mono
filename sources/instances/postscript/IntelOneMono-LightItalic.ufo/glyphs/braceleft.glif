@@ -2,7 +2,6 @@
 <glyph name="braceleft" format="2">
   <advance width="614"/>
   <unicode hex="007B"/>
-  <guideline x="429" y="700" angle="0.0" identifier="fcsuI7zwOk"/>
   <outline>
     <contour>
       <point x="129" y="-42" type="curve" smooth="yes"/>

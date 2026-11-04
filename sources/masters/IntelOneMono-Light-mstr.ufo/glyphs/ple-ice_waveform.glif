@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ple-ice_waveform" format="2">
+  <advance width="614"/>
+  <unicode hex="E0C8"/>
+  <outline>
+    <contour>
+      <point x="0.0" y="-360.0" type="line"/>
+      <point x="-20.0" y="-360.0" type="line"/>
+      <point x="-20.0" y="1020.0" type="line"/>
+      <point x="0.0" y="1020.0" type="line"/>
+      <point x="370.0" y="918.0" type="line"/>
+      <point x="370.0" y="897.0" type="line"/>
+      <point x="87.0" y="760.0" type="line"/>
+      <point x="87.0" y="740.0" type="line"/>
+      <point x="657.0" y="638.0" type="line"/>
+      <point x="657.0" y="617.0" type="line"/>
+      <point x="82.0" y="480.0" type="line"/>
+      <point x="82.0" y="460.0" type="line"/>
+      <point x="1171.0" y="358.0" type="line"/>
+      <point x="1171.0" y="337.0" type="line"/>
+      <point x="83.0" y="200.0" type="line"/>
+      <point x="83.0" y="180.0" type="line"/>
+      <point x="656.0" y="78.0" type="line"/>
+      <point x="656.0" y="57.0" type="line"/>
+      <point x="86.0" y="-80.0" type="line"/>
+      <point x="86.0" y="-100.0" type="line"/>
+      <point x="370.0" y="-237.0" type="line"/>
+      <point x="370.0" y="-258.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.1961,0.7451,0.4314,1</string>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>af1b080c3390d86932786f01e3cb9c474ecc484de57e17a0b140b7f765eec4f8a1be79c11a4b3c73b2d6e1b108a41b5f65e0497b6fce23ec6764c53f8b38d441</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

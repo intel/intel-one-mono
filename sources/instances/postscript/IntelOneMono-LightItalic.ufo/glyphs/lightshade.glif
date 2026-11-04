@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lightshade" format="2">
+  <advance width="614"/>
+  <unicode hex="2591"/>
+  <outline>
+    <contour>
+      <point x="0" y="897" type="line"/>
+      <point x="109" y="1020" type="line"/>
+      <point x="47" y="1020" type="line"/>
+      <point x="0" y="967" type="line"/>
+    </contour>
+    <contour>
+      <point x="0" y="208" type="line"/>
+      <point x="614" y="898" type="line"/>
+      <point x="614" y="967" type="line"/>
+      <point x="0" y="277" type="line"/>
+    </contour>
+    <contour>
+      <point x="47" y="-360" type="line"/>
+      <point x="107" y="-360" type="line"/>
+      <point x="614" y="208" type="line"/>
+      <point x="614" y="277" type="line"/>
+    </contour>
+  </outline>
+</glyph>

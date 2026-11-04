@@ -1,0 +1,102 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ple-pixelated_squares_big_mirrored" format="2">
+  <advance width="614"/>
+  <unicode hex="E0C7"/>
+  <outline>
+    <contour>
+      <point x="1248.0" y="1020.0" type="line"/>
+      <point x="1248.0" y="800.0" type="line"/>
+      <point x="1011.0" y="800.0" type="line"/>
+      <point x="1011.0" y="1020.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="1248.0" y="730.0" type="line"/>
+      <point x="1248.0" y="510.0" type="line"/>
+      <point x="1011.0" y="510.0" type="line"/>
+      <point x="1011.0" y="730.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="935.0" y="730.0" type="line"/>
+      <point x="935.0" y="510.0" type="line"/>
+      <point x="698.0" y="510.0" type="line"/>
+      <point x="698.0" y="730.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="1248.0" y="440.0" type="line"/>
+      <point x="1248.0" y="219.0" type="line"/>
+      <point x="1011.0" y="219.0" type="line"/>
+      <point x="1011.0" y="440.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="935.0" y="440.0" type="line"/>
+      <point x="935.0" y="219.0" type="line"/>
+      <point x="698.0" y="219.0" type="line"/>
+      <point x="698.0" y="440.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="1248.0" y="151.0" type="line"/>
+      <point x="1248.0" y="-71.0" type="line"/>
+      <point x="1011.0" y="-71.0" type="line"/>
+      <point x="1011.0" y="151.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="935.0" y="151.0" type="line"/>
+      <point x="935.0" y="-71.0" type="line"/>
+      <point x="698.0" y="-71.0" type="line"/>
+      <point x="698.0" y="151.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="1248.0" y="-139.0" type="line"/>
+      <point x="1248.0" y="-361.0" type="line"/>
+      <point x="1011.0" y="-361.0" type="line"/>
+      <point x="1011.0" y="-139.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="623.0" y="1020.0" type="line"/>
+      <point x="623.0" y="800.0" type="line"/>
+      <point x="386.0" y="800.0" type="line"/>
+      <point x="386.0" y="1020.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="623.0" y="730.0" type="line"/>
+      <point x="623.0" y="510.0" type="line"/>
+      <point x="386.0" y="510.0" type="line"/>
+      <point x="386.0" y="730.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="311.0" y="730.0" type="line"/>
+      <point x="311.0" y="510.0" type="line"/>
+      <point x="73.0" y="510.0" type="line"/>
+      <point x="73.0" y="730.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="623.0" y="151.0" type="line"/>
+      <point x="623.0" y="-71.0" type="line"/>
+      <point x="386.0" y="-71.0" type="line"/>
+      <point x="386.0" y="151.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="623.0" y="-139.0" type="line"/>
+      <point x="623.0" y="-361.0" type="line"/>
+      <point x="386.0" y="-361.0" type="line"/>
+      <point x="386.0" y="-139.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.1961,0.7451,0.4314,1</string>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>5065e85de866d6d48363504589ce9c7fc2fbbd4cb7d1094ca2c3259274528a163dea7714f60a1064b02c299ff86546412d3f101fefb7f9d41f23d7295c119133</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

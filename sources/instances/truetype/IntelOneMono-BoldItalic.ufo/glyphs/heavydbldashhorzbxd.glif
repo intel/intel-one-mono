@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="heavydbldashhorzbxd" format="2">
+  <advance width="614"/>
+  <unicode hex="254D"/>
+  <outline>
+    <contour>
+      <point x="230" y="222" type="line"/>
+      <point x="77" y="222" type="line"/>
+      <point x="77" y="438" type="line"/>
+      <point x="230" y="438" type="line"/>
+    </contour>
+    <contour>
+      <point x="537" y="222" type="line"/>
+      <point x="384" y="222" type="line"/>
+      <point x="384" y="438" type="line"/>
+      <point x="537" y="438" type="line"/>
+    </contour>
+  </outline>
+</glyph>

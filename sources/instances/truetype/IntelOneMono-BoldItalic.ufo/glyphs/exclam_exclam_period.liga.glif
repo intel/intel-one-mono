@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="exclam_exclam_period.liga" format="2">
+  <advance width="614"/>
+  <outline>
+    <component base="exclam" xOffset="-1119"/>
+    <component base="exclam" xOffset="-605"/>
+    <component base="period" xOffset="-91"/>
+  </outline>
+</glyph>

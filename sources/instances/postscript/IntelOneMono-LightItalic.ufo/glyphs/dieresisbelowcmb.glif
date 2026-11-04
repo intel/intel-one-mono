@@ -1,8 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="dieresisbelowcmb" format="2">
   <unicode hex="0324"/>
-  <anchor x="-76" y="-35" name="_below"/>
-  <anchor x="-67" y="-5" name="_belowx"/>
   <outline>
     <contour>
       <point x="-230" y="-194" type="curve" smooth="yes"/>

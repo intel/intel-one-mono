@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="bracketleft_bar.liga" format="2">
+  <advance width="614"/>
+  <outline>
+    <contour>
+      <point x="494.52163704914665" y="783.0" type="line"/>
+      <point x="436.5216370491466" y="783.0" type="line"/>
+      <point x="175.00984523711378" y="-129.0" type="line"/>
+      <point x="233.00984523711378" y="-129.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="-69.47836295085341" y="783.0" type="line"/>
+      <point x="-130.4783629508534" y="783.0" type="line"/>
+      <point x="-391.9901547628862" y="-129.0" type="line"/>
+      <point x="-330.9901547628862" y="-129.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="-110.10237762455259" y="732.0" type="line"/>
+      <point x="215.89762237544744" y="732.0" type="line"/>
+      <point x="230.5216370491466" y="783.0" type="line"/>
+      <point x="-95.47836295085341" y="783.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="-356.9901547628862" y="-129.0" type="line"/>
+      <point x="-30.99015476288622" y="-129.0" type="line"/>
+      <point x="-16.366140089187013" y="-78.0" type="line"/>
+      <point x="-342.366140089187" y="-78.0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

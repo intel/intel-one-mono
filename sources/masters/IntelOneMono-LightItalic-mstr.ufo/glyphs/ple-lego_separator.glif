@@ -1,0 +1,108 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ple-lego_separator" format="2">
+  <advance width="614"/>
+  <unicode hex="E0CE"/>
+  <outline>
+    <contour>
+      <point x="625.0" y="330.0" type="curve" smooth="yes"/>
+      <point x="625.0" y="385.0"/>
+      <point x="640.0" y="433.0"/>
+      <point x="675.0" y="469.0" type="curve"/>
+      <point x="761.0" y="469.0" type="line"/>
+      <point x="729.0" y="431.0"/>
+      <point x="715.0" y="380.0"/>
+      <point x="715.0" y="330.0" type="curve" smooth="yes"/>
+      <point x="715.0" y="280.0"/>
+      <point x="729.0" y="230.0"/>
+      <point x="761.0" y="191.0" type="curve"/>
+      <point x="675.0" y="191.0" type="line"/>
+      <point x="640.0" y="228.0"/>
+      <point x="625.0" y="276.0"/>
+    </contour>
+    <contour>
+      <point x="888.0" y="330.0" type="curve" smooth="yes"/>
+      <point x="888.0" y="386.0"/>
+      <point x="904.0" y="436.0"/>
+      <point x="938.0" y="469.0" type="curve"/>
+      <point x="1001.0" y="469.0" type="line"/>
+      <point x="965.0" y="548.0" type="line"/>
+      <point x="965.0" y="571.0" type="line" smooth="yes"/>
+      <point x="965.0" y="646.0"/>
+      <point x="937.0" y="709.0"/>
+      <point x="905.0" y="709.0" type="curve" smooth="yes"/>
+      <point x="865.0" y="709.0"/>
+      <point x="844.0" y="631.0"/>
+      <point x="844.0" y="571.0" type="curve" smooth="yes"/>
+      <point x="844.0" y="524.0"/>
+      <point x="860.0" y="461.0"/>
+      <point x="890.0" y="438.0" type="curve"/>
+      <point x="804.0" y="438.0" type="line"/>
+      <point x="773.0" y="466.0"/>
+      <point x="757.0" y="506.0"/>
+      <point x="757.0" y="572.0" type="curve" smooth="yes"/>
+      <point x="757.0" y="629.0"/>
+      <point x="773.0" y="674.0"/>
+      <point x="806.0" y="709.0" type="curve"/>
+      <point x="867.0" y="709.0" type="line"/>
+      <point x="813.0" y="813.0" type="line"/>
+      <point x="260.0" y="813.0" type="line"/>
+      <point x="0.0" y="330.0" type="line"/>
+      <point x="260.0" y="-153.0" type="line"/>
+      <point x="813.0" y="-153.0" type="line"/>
+      <point x="867.0" y="-49.0" type="line"/>
+      <point x="806.0" y="-49.0" type="line"/>
+      <point x="773.0" y="-14.0"/>
+      <point x="757.0" y="31.0"/>
+      <point x="757.0" y="88.0" type="curve" smooth="yes"/>
+      <point x="757.0" y="154.0"/>
+      <point x="773.0" y="195.0"/>
+      <point x="804.0" y="222.0" type="curve"/>
+      <point x="890.0" y="222.0" type="line"/>
+      <point x="860.0" y="199.0"/>
+      <point x="844.0" y="136.0"/>
+      <point x="844.0" y="90.0" type="curve" smooth="yes"/>
+      <point x="844.0" y="29.0"/>
+      <point x="865.0" y="-49.0"/>
+      <point x="905.0" y="-49.0" type="curve" smooth="yes"/>
+      <point x="937.0" y="-49.0"/>
+      <point x="965.0" y="14.0"/>
+      <point x="965.0" y="90.0" type="curve" smooth="yes"/>
+      <point x="965.0" y="112.0" type="line"/>
+      <point x="1001.0" y="192.0" type="line"/>
+      <point x="938.0" y="192.0" type="line"/>
+      <point x="904.0" y="224.0"/>
+      <point x="888.0" y="275.0"/>
+    </contour>
+    <contour>
+      <point x="1095.0" y="330.0" type="curve" smooth="yes"/>
+      <point x="1095.0" y="406.0"/>
+      <point x="1070.0" y="469.0"/>
+      <point x="1035.0" y="469.0" type="curve" smooth="yes"/>
+      <point x="1000.0" y="469.0"/>
+      <point x="974.0" y="407.0"/>
+      <point x="974.0" y="330.0" type="curve" smooth="yes"/>
+      <point x="974.0" y="254.0"/>
+      <point x="1000.0" y="192.0"/>
+      <point x="1035.0" y="192.0" type="curve" smooth="yes"/>
+      <point x="1070.0" y="192.0"/>
+      <point x="1095.0" y="254.0"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.1961,0.7451,0.4314,1</string>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>55a28736272f6360fc6a844db9d16e1306f759598ff6bc94a63453905b4ab87ace4620fd5913e78836a5dcb2897e62d3ada1edc78a122af342edfd99f04a1f7f</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="brailledot7" format="2">
+  <advance width="614"/>
+  <outline>
+    <contour>
+      <point x="-120" y="-5" type="line"/>
+      <point x="0" y="43.0" type="line"/>
+      <point x="0" y="67.0" type="line"/>
+      <point x="-120" y="115" type="line"/>
+    </contour>
+    <contour>
+      <point x="614" y="43.0" type="line"/>
+      <point x="734" y="-5" type="line"/>
+      <point x="734" y="115" type="line"/>
+      <point x="614" y="67.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="172" y="105" type="curve" smooth="yes"/>
+      <point x="199.6" y="105"/>
+      <point x="222" y="82.6"/>
+      <point x="222" y="55" type="curve" smooth="yes"/>
+      <point x="222" y="27.4"/>
+      <point x="199.6" y="5"/>
+      <point x="172" y="5" type="curve" smooth="yes"/>
+      <point x="144.4" y="5"/>
+      <point x="122" y="27.4"/>
+      <point x="122" y="55" type="curve" smooth="yes"/>
+      <point x="122" y="82.6"/>
+      <point x="144.4" y="105"/>
+    </contour>
+  </outline>
+</glyph>

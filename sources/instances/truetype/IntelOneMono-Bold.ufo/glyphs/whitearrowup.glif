@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="whitearrowup" format="2">
+  <advance width="614"/>
+  <unicode hex="21E7"/>
+  <outline>
+    <contour>
+      <point x="305" y="660" type="line"/>
+      <point x="35" y="249" type="line"/>
+      <point x="179" y="249" type="line"/>
+      <point x="179" y="0" type="line"/>
+      <point x="442" y="0" type="line"/>
+      <point x="442" y="249" type="line"/>
+      <point x="579" y="249" type="line"/>
+      <point x="309" y="660" type="line"/>
+    </contour>
+    <contour>
+      <point x="306" y="551" type="line"/>
+      <point x="308" y="551" type="line"/>
+      <point x="467" y="301" type="line"/>
+      <point x="383" y="301" type="line"/>
+      <point x="383" y="59" type="line"/>
+      <point x="238" y="59" type="line"/>
+      <point x="238" y="301" type="line"/>
+      <point x="145" y="301" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>w614l305+660l35+249l179+249l179+0l442+0l442+249l579+249l309+660|l306+551l308+551l467+301l383+301l383+59l238+59l238+301l145+301|</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

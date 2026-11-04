@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="heavyvertbxd" format="2">
+  <advance width="614"/>
+  <unicode hex="2503"/>
+  <outline>
+    <contour>
+      <point x="231" y="-420" type="line"/>
+      <point x="383" y="-420" type="line"/>
+      <point x="383" y="1080" type="line"/>
+      <point x="231" y="1080" type="line"/>
+    </contour>
+  </outline>
+</glyph>

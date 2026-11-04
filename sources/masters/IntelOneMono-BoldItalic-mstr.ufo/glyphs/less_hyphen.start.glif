@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="less_hyphen.start" format="2">
+  <advance width="614"/>
+  <outline>
+    <contour>
+      <point x="-428.00525507360425" y="272.0" type="line"/>
+      <point x="633.9947449263957" y="272.0" type="line"/>
+      <point x="667.2572096744175" y="388.0" type="line"/>
+      <point x="-394.7427903255825" y="388.0" type="line"/>
+    </contour>
+    <component base="arrowheadleft" xOffset="-614"/>
+  </outline>
+</glyph>

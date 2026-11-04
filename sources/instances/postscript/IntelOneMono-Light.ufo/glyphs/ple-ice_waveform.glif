@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ple-ice_waveform" format="2">
+  <advance width="614"/>
+  <unicode hex="E0C8"/>
+  <outline>
+    <contour>
+      <point x="0" y="-360" type="line"/>
+      <point x="370" y="-258" type="line"/>
+      <point x="370" y="-237" type="line"/>
+      <point x="86" y="-100" type="line"/>
+      <point x="86" y="-80" type="line"/>
+      <point x="656" y="57" type="line"/>
+      <point x="656" y="78" type="line"/>
+      <point x="83" y="180" type="line"/>
+      <point x="83" y="200" type="line"/>
+      <point x="1171" y="337" type="line"/>
+      <point x="1171" y="358" type="line"/>
+      <point x="82" y="460" type="line"/>
+      <point x="82" y="480" type="line"/>
+      <point x="657" y="617" type="line"/>
+      <point x="657" y="638" type="line"/>
+      <point x="87" y="740" type="line"/>
+      <point x="87" y="760" type="line"/>
+      <point x="370" y="897" type="line"/>
+      <point x="370" y="918" type="line"/>
+      <point x="0" y="1020" type="line"/>
+      <point x="-20" y="1020" type="line"/>
+      <point x="-20" y="-360" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>af1b080c3390d86932786f01e3cb9c474ecc484de57e17a0b140b7f765eec4f8a1be79c11a4b3c73b2d6e1b108a41b5f65e0497b6fce23ec6764c53f8b38d441</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="colon_colon_colon.liga" format="2">
+  <advance width="614"/>
+  <outline>
+    <component base="colon" xOffset="-1138"/>
+    <component base="colon" xOffset="-614"/>
+    <component base="colon" xOffset="-90"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.7843,0.7843,0.7843,1</string>
+    </dict>
+  </lib>
+</glyph>

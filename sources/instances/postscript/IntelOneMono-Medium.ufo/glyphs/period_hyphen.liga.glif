@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="period_hyphen.liga" format="2">
+  <advance width="614"/>
+  <outline>
+    <contour>
+      <point x="-348" y="239" type="curve" smooth="yes"/>
+      <point x="-282" y="239"/>
+      <point x="-244" y="272"/>
+      <point x="-244" y="333" type="curve" smooth="yes"/>
+      <point x="-244" y="395"/>
+      <point x="-277" y="426"/>
+      <point x="-347" y="426" type="curve" smooth="yes"/>
+      <point x="-414" y="426"/>
+      <point x="-450" y="390"/>
+      <point x="-450" y="332" type="curve" smooth="yes"/>
+      <point x="-450" y="271"/>
+      <point x="-416" y="239"/>
+    </contour>
+    <contour>
+      <point x="-36" y="283" type="line"/>
+      <point x="445" y="283" type="line"/>
+      <point x="445" y="374" type="line"/>
+      <point x="-36" y="374" type="line"/>
+    </contour>
+  </outline>
+</glyph>
